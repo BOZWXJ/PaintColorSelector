@@ -1,0 +1,6 @@
+.vs/
+packages/
+PaintColorSelector/bin/
+PaintColorSelector/obj/
+PaintColorSelectorTests/bin/
+PaintColorSelectorTests/obj/

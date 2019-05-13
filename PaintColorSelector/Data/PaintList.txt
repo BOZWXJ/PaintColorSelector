@@ -1,198 +1,1116 @@
-ファレホ	モデルカラー	#ffffff	70951 MC001 ホワイト
-ファレホ	モデルカラー	#ffffff	70919 MC002 ファンデーションホワイト
-ファレホ	モデルカラー	#ffffff	70842 MC003 グロスホワイト
-ファレホ	モデルカラー	#f3f3e8	70820 MC004 オフホワイト
-ファレホ	モデルカラー	#f5f5df	70918 MC005 アイボリー
-ファレホ	モデルカラー	#fcf0d9	70928 MC006 ライトフレッシュ
-ファレホ	モデルカラー	#d2c79a	70837 MC007 ペールサンド
-ファレホ	モデルカラー	#ddcc8f	70917 MC008 ベージュ
-ファレホ	モデルカラー	#dcc771	70916 MC009 サンドイエロー
-ファレホ	モデルカラー	#ffeb57	70949 MC010 ライトイエロー
-ファレホ	モデルカラー	#fef000	70952 MC011 レモンイエロー
-ファレホ	モデルカラー	#e8e881	70806 MC012 ジャーマンイエロー
-ファレホ	モデルカラー	#feef86	70858 MC013 アイスイエロー
-ファレホ	モデルカラー	#fee602	70915 MC014 ディープイエロー
-ファレホ	モデルカラー	#fdd300	70953 MC015 フラットイエロー
-ファレホ	モデルカラー	#f8c951	70948 MC016 ゴールデンイエロー
-ファレホ	モデルカラー	#f7be89	70815 MC017 ベーシックスキントーン
-ファレホ	モデルカラー	#ddae75	70955 MC018 フラットフレッシュ
-ファレホ	モデルカラー	#dbaa5b	70927 MC019 ダークフレッシュ
-ファレホ	モデルカラー	#eeb565	70845 MC020 サニースキントーン
-ファレホ	モデルカラー	#c08534	70860 MC021 ミディアムフレッシュトーン
-ファレホ	モデルカラー	#ef8500	70911 MC022 ライトオレンジ
-ファレホ	モデルカラー	#e8500f	70805 MC023 ジャーマンオレンジ
-ファレホ	モデルカラー	#e96123	70851 MC024 ブライトオレンジ
-ファレホ	モデルカラー	#e94e18	70956 MC025 クリアオレンジ
-ファレホ	モデルカラー	#d42d20	70817 MC026 スカーレット
-ファレホ	モデルカラー	#e04611	70910 MC027 オレンジレッド
-ファレホ	モデルカラー	#d12520	70909 MC028 バーミリオン
-ファレホ	モデルカラー	#c11e23	70947 MC029 ダークバーミリオン
-ファレホ	モデルカラー	#b62028	70908 MC030 カーマインレッド
-ファレホ	モデルカラー	#a8232d	70957 MC031 フラットレッド
-ファレホ	モデルカラー	#9e403c	70946 MC032 ダークレッド
-ファレホ	モデルカラー	#942a30	70926 MC033 レッド
-ファレホ	モデルカラー	#673131	70814 MC034 バーントレッド
-ファレホ	モデルカラー	#632d33	70859 MC035 ブラックレッド
-ファレホ	モデルカラー	#c99661	70804 MC036 ベージュレッド
-ファレホ	モデルカラー	#f2a282	70835 MC037 サーモンローズ
-ファレホ	モデルカラー	#cd866e	70803 MC038 ブラウンローズ
-ファレホ	モデルカラー	#d77e78	70944 MC039 オールドローズ
-ファレホ	モデルカラー	#d67493	70958 MC040 ピンク
-ファレホ	モデルカラー	#bf2356	70802 MC041 サンセットレッド
-ファレホ	モデルカラー	#a61f49	70945 MC042 マゼンタ
-ファレホ	モデルカラー	#6f2442	70812 MC043 バイオレットレッド
-ファレホ	モデルカラー	#844769	70959 MC044 パープル
-ファレホ	モデルカラー	#4c1d65	70810 MC045 ロイヤルパープル
-ファレホ	モデルカラー	#7d5292	70811 MC046 ブルーバイオレット
-ファレホ	モデルカラー	#472866	70960 MC047 バイオレット
-ファレホ	モデルカラー	#1b3f47	70898 MC048 ダークシーブルー
-ファレホ	モデルカラー	#2f3e5b	70807 MC049 オックスフォードブルー
-ファレホ	モデルカラー	#10283e	70899 MC050 ダークプルシャンブルー
-ファレホ	モデルカラー	#14506c	70965 MC051 プルシャンブルー
-ファレホ	モデルカラー	#012f66	70925 MC052 ブルー
-ファレホ	モデルカラー	#015282	70930 MC053 ダークブルー
-ファレホ	モデルカラー	#344c88	70809 MC054 ロイヤルブルー
-ファレホ	モデルカラー	#2f52a0	70839 MC055 ウルトラマリン
-ファレホ	モデルカラー	#1a6390	70962 MC056 フラットブルー
-ファレホ	モデルカラー	#025f86	70963 MC057 ミディアムブルー
-ファレホ	モデルカラー	#406871	70964 MC058 フィールドブルー
-ファレホ	モデルカラー	#57787f	70900 MC059 フレンチミラージュブルー
-ファレホ	モデルカラー	#5d7d82	70903 MC060 インターメディエイトブルー
-ファレホ	モデルカラー	#3e6c89	70943 MC061 グレーブルー
-ファレホ	モデルカラー	#6e7dad	70902 MC062 アズール
-ファレホ	モデルカラー	#64859a	70901 MC063 パステルブルー
-ファレホ	モデルカラー	#86b8b1	70906 MC064 ペールブルー
-ファレホ	モデルカラー	#0583c6	70841 MC065 アンドレアブルー
-ファレホ	モデルカラー	#089fdd	70844 MC066 ディープスカイブルー
-ファレホ	モデルカラー	#99d6f5	70961 MC067 スカイブルー
-ファレホ	モデルカラー	#0290a3	70840 MC068 ライトターコイズ
-ファレホ	モデルカラー	#098499	70966 MC069 ターコイズ
-ファレホ	モデルカラー	#088f91	70808 MC070 グリーンブルー
-ファレホ	モデルカラー	#068a63	70838 MC071 エメラルド
-ファレホ	モデルカラー	#016a41	70970 MC072 ディープグリーン
-ファレホ	モデルカラー	#048556	70969 MC073 パークグリーンフラット
-ファレホ	モデルカラー	#399045	70891 MC074 インターメディエイトグリーン
-ファレホ	モデルカラー	#009c46	70942 MC075 ライトグリーン
-ファレホ	モデルカラー	#5eac7d	70974 MC076 グリーンスカイ
-ファレホ	モデルカラー	#6fad3c	70827 MC077 ライムグリーン
-ファレホ	モデルカラー	#dae003	70954 MC078 イエローグリーン
-ファレホ	モデルカラー	#78942a	70857 MC079 ゴールデンオリーブ
-ファレホ	モデルカラー	#50883c	70833 MC080 ジャーマンカムフラージュブライトグリーン
-ファレホ	モデルカラー	#1f7028	70850 MC081 ミディアムオリーブ
-ファレホ	モデルカラー	#6d8b29	70967 MC082 オリーブグリーン
-ファレホ	モデルカラー	#1f6a2c	70968 MC083 フラットグリーン
-ファレホ	モデルカラー	#507e2f	70922 MC084 ユニフォームグリーン
-ファレホ	モデルカラー	#1f6052	70920 MC085 ドイツ軍ユニフォーム色
-ファレホ	モデルカラー	#566b3b	70823 MC086 ドイツ空軍カムフラージュグリーン
-ファレホ	モデルカラー	#20392c	70892 MC087 イエローオリーブ
-ファレホ	モデルカラー	#396959	70895 MC088 ガンシップグリーン
-ファレホ	モデルカラー	#3d5a47	70975 MC089 ミリタリーグリーン
-ファレホ	モデルカラー	#496743	70890 MC090 リフラクティブグリーン
-ファレホ	モデルカラー	#3b4745	70889 MC091 オリーブブラウン
-ファレホ	モデルカラー	#37574a	70888 MC092 オリーブグレー
-ファレホ	モデルカラー	#50614b	70887 MC093 アメリカ軍オリーブドラブ
-ファレホ	モデルカラー	#626f50	70924 MC094 WWⅡロシア軍ユニフォーム色
-ファレホ	モデルカラー	#5a6c52	70893 MC095 アメリカ軍ダークグリーン
-ファレホ	モデルカラー	#395648	70894 MC096 カムフラージュオリーブグリーン
-ファレホ	モデルカラー	#284a43	70979 MC097 ジャーマンカムフラージュダークグリーン
-ファレホ	モデルカラー	#27544f	70897 MC098 ブロンズグリーン
-ファレホ	モデルカラー	#2c514a	70896 MC099 ジャーマンカムフラージュエクストラダークグリーン
-ファレホ	モデルカラー	#00453d	70980 MC100 ブラックグリーン
-ファレホ	モデルカラー	#877f57	70886 MC101 グリーングレー
-ファレホ	モデルカラー	#5f5a44	70830 MC102 WWⅡドイツ軍フィールドグレー
-ファレホ	モデルカラー	#a3956d	70821 MC103 WWⅡドイツ軍カムフラージュベージュ
-ファレホ	モデルカラー	#999d7c	70884 MC104 ストーングレー
-ファレホ	モデルカラー	#414a53	70816 MC105 WWⅡドイツ空軍ユニフォーム色
-ファレホ	モデルカラー	#b6cec1	70971 MC106 グリーングレー
-ファレホ	モデルカラー	#729e98	70972 MC107 ライトグリーンブルー
-ファレホ	モデルカラー	#9ab8b8	70973 MC108 ライトシーグレー
-ファレホ	モデルカラー	#a8c196	70885 MC109 パステルグリーン
-ファレホ	モデルカラー	#c5cdb8	70986 MC110 デッキタン
-ファレホ	モデルカラー	#959f80	70987 MC111 ミディアムグレー
-ファレホ	モデルカラー	#958a40	70881 MC112 イエローグリーン
-ファレホ	モデルカラー	#908554	70880 MC113 カーキグレー
-ファレホ	モデルカラー	#947e4f	70879 MC114 グリーンブラウン
-ファレホ	モデルカラー	#97945d	70988 MC115 カーキ
-ファレホ	モデルカラー	#a1954e	70978 MC116 ダークイエロー
-ファレホ	モデルカラー	#9b8741	70923 MC117 WWⅡ日本軍ユニフォーム色
-ファレホ	モデルカラー	#a29a53	70882 MC118 ミドルストーン
-ファレホ	モデルカラー	#ad8f5f	70914 MC119 グリーンオーカー
-ファレホ	モデルカラー	#d7d09b	70976 MC120 バフ
-ファレホ	モデルカラー	#c69c3c	70913 MC121 イエローオーカー
-ファレホ	モデルカラー	#b89855	70912 MC122 タンイエロー
-ファレホ	モデルカラー	#d4b978	70847 MC123 ダークサンド
-ファレホ	モデルカラー	#baa16c	70819 MC124 イラクサンド
-ファレホ	モデルカラー	#b29142	70977 MC125 デザートイエロー
-ファレホ	モデルカラー	#bd891d	70877 MC126 ゴールドブラウン
-ファレホ	モデルカラー	#ad7823	70856 MC127 オーカーブラウン
-ファレホ	モデルカラー	#a4844c	70824 MC128 ジャーマンカムフラージュオレンジオーカー
-ファレホ	モデルカラー	#be7544	70929 MC129 ライトブラウン
-ファレホ	モデルカラー	#cd3a25	70829 MC130 アマランスレッド
-ファレホ	モデルカラー	#b76e39	70981 MC131 オレンジブラウン
-ファレホ	モデルカラー	#ad7e5a	70876 MC132 ブラウンサンド
-ファレホ	モデルカラー	#a87b57	70843 MC133 コルクブラウン
-ファレホ	モデルカラー	#9e785b	70874 MC134 タンアース
-ファレホ	モデルカラー	#7a5741	70875 MC135 ベージュブラウン
-ファレホ	モデルカラー	#944132	70818 MC136 レッドレザー
-ファレホ	モデルカラー	#853634	70982 MC137 キャバリーブラウン
-ファレホ	モデルカラー	#8d5647	70940 MC138 サドルブラウン
-ファレホ	モデルカラー	#86493e	70846 MC139 マホガニーブラウン
-ファレホ	モデルカラー	#77443b	70984 MC140 フラットブラウン
-ファレホ	モデルカラー	#795d29	70921 MC141 イギリス軍ユニフォーム色
-ファレホ	モデルカラー	#755d3b	70873 MC142 アメリカ軍フィールドドラブ
-ファレホ	モデルカラー	#876133	70983 MC143 フラットアース
-ファレホ	モデルカラー	#826a56	70825 MC144 ジャーマンカムフラージュペールバイオレットブラウン
-ファレホ	モデルカラー	#712729	70826 MC145 ジャーマンカムフラージュミディアムブラウン
-ファレホ	モデルカラー	#502220	70985 MC146 ハルレッド
-ファレホ	モデルカラー	#4d4436	70871 MC147 レザーブラウン
-ファレホ	モデルカラー	#695344	70941 MC148 バーントアンバー
-ファレホ	モデルカラー	#645042	70872 MC149 チョコレートブラウン
-ファレホ	モデルカラー	#5c3423	70822 MC150 ジャーマンカムフラージュブラックブラウン
-ファレホ	モデルカラー	#edefef	70993 MC151 ホワイトグレー
-ファレホ	モデルカラー	#dfe1d6	70883 MC152 シルバーグレー
-ファレホ	モデルカラー	#c7d5d3	70907 MC153 ペールグレーブルー
-ファレホ	モデルカラー	#bac0b9	70989 MC154 スカイグレー
-ファレホ	モデルカラー	#9ea29b	70990 MC155 ライトグレー
-ファレホ	モデルカラー	#a6aca7	70905 MC156 ブルーグレーペール
-ファレホ	モデルカラー	#5d7775	70904 MC157 ダークブルーグレー
-ファレホ	モデルカラー	#899693	70870 MC158 ミディアムシーグレー
-ファレホ	モデルカラー	#828079	70991 MC159 ダークシーグレー
-ファレホ	モデルカラー	#64787a	70992 MC160 ニュートラルグレー
-ファレホ	モデルカラー	#515a63	70836 MC161 ロンドングレー
-ファレホ	モデルカラー	#59695f	70869 MC162 バサルトグレー
-ファレホ	モデルカラー	#234543	70868 MC163 ダークシーグリーン
-ファレホ	モデルカラー	#47554d	70867 MC164 ダークブルーグレー
-ファレホ	モデルカラー	#495852	70866 MC165 グレーグリーン
-ファレホ	モデルカラー	#1e3e3b	70994 MC166 ダークグレー
-ファレホ	モデルカラー	#132e2e	70995 MC167 ジャーマングレー
-ファレホ	モデルカラー	#2a3538	70862 MC168 ブラックグレー
-ファレホ	モデルカラー	#232a2f	70950 MC169 ブラック
-ファレホ	モデルカラー	#000000	70861 MC170 グロスブラック
-ファレホ	モデルカラー	#cbd5d3	70997 MC171 シルバー
-ファレホ	モデルカラー	#d4b653	70996 MC172 ゴールド
-ファレホ	モデルカラー	#988548	70878 MC173 オールドゴールド
-ファレホ	モデルカラー	#a87d2c	70801 MC174 ブラス（真鍮色）
-ファレホ	モデルカラー	#786f37	70998 MC175 ブロンズ
-ファレホ	モデルカラー	#ae5227	70999 MC176 カッパー
-ファレホ	モデルカラー	#7a7d73	70865 MC177 オイリースチール
-ファレホ	モデルカラー	#878b84	70864 MC178 ナチュラルスチール
-ファレホ	モデルカラー	#606964	70863 MC179 ガンメタルグレー
-ファレホ	モデルカラー	#33463c	70800 MC180 ガンメタルブルー
-ファレホ	モデルカラー	#322d27	70939 MC181 スモーク
-ファレホ	モデルカラー	#c26a4b	70828 MC182 ウッドグレイン（木目）
-ファレホ	モデルカラー	#eacc5a	70834 MC183 ナチュラルウッドグレイン
-ファレホ	モデルカラー	#ead761	70937 MC184 透明イエロー
-ファレホ	モデルカラー	#dfa27a	70935 MC185 透明オレンジ
-ファレホ	モデルカラー	#cd553e	70934 MC186 透明レッド
-ファレホ	モデルカラー	#8d9bab	70938 MC187 透明ブルー
-ファレホ	モデルカラー	#1b9c87	70936 MC188 透明グリーン
-ファレホ	モデルカラー	#ffffff	70853 MC201 クリアー（上塗り用）
-ファレホ	モデルカラー	#dce5c1	70832 MC202 緑青（上塗り用）
-ファレホ	モデルカラー	#e37949	70831 MC203 タン（上塗り用）
-ファレホ	モデルカラー	#39322c	70854 MC204 ブラウン（上塗り用）
-ファレホ	モデルカラー	#221815	70855 MC205 ブラック（上塗り用）
-ファレホ	モデルカラー	#f0ea3d	70730 MC206 蛍光イエロー
-ファレホ	モデルカラー	#ea6300	70733 MC207 蛍光オレンジ
-ファレホ	モデルカラー	#e64090	70735 MC208 蛍光マゼンタ
-ファレホ	モデルカラー	#006eb6	70736 MC209 蛍光ブルー
-ファレホ	モデルカラー	#a0cb56	70737 MC210 蛍光グリーン 
+Standard	Federal Standard 595C	#372726	FS10032 
+Standard	Federal Standard 595C	#5f4f4a	FS10045 
+Standard	Federal Standard 595C	#4f2a25	FS10049 
+Standard	Federal Standard 595C	#6f4625	FS10055 
+Standard	Federal Standard 595C	#47362c	FS10059 
+Standard	Federal Standard 595C	#654037	FS10075 
+Standard	Federal Standard 595C	#7c3925	FS10076 
+Standard	Federal Standard 595C	#614a36	FS10080 
+Standard	Federal Standard 595C	#824725	FS10091 
+Standard	Federal Standard 595C	#a66e44	FS10115 
+Standard	Federal Standard 595C	#876f55	FS10129 
+Standard	Federal Standard 595C	#9a7e67	FS10219 
+Standard	Federal Standard 595C	#ac7d6d	FS10233 
+Standard	Federal Standard 595C	#d0b072	FS10260 
+Standard	Federal Standard 595C	#b18f58	FS10266 
+Standard	Federal Standard 595C	#b59b88	FS10324 
+Standard	Federal Standard 595C	#cc9a63	FS10371 
+Standard	Federal Standard 595C	#ad2328	FS11086 
+Standard	Federal Standard 595C	#ae2825	FS11105 
+Standard	Federal Standard 595C	#c23b31	FS11120 
+Standard	Federal Standard 595C	#a32b25	FS11136 Insignia Red
+Standard	Federal Standard 595C	#ae2b29	FS11140 
+Standard	Federal Standard 595C	#cd4f3a	FS11302 
+Standard	Federal Standard 595C	#be4a52	FS11328 
+Standard	Federal Standard 595C	#d65030	FS11400 
+Standard	Federal Standard 595C	#e7c1bb	FS11630 Pink
+Standard	Federal Standard 595C	#f8d4bb	FS11670 
+Standard	Federal Standard 595C	#b36647	FS12160 
+Standard	Federal Standard 595C	#d24e00	FS12197 International Orange
+Standard	Federal Standard 595C	#ec4300	FS12199 
+Standard	Federal Standard 595C	#d76117	FS12215 
+Standard	Federal Standard 595C	#e37300	FS12243 
+Standard	Federal Standard 595C	#df6100	FS12246 
+Standard	Federal Standard 595C	#df8a7f	FS12300 
+Standard	Federal Standard 595C	#ed7a00	FS12473 
+Standard	Federal Standard 595C	#eec9a2	FS12648 
+Standard	Federal Standard 595C	#ab8000	FS13275 
+Standard	Federal Standard 595C	#efa400	FS13415 
+Standard	Federal Standard 595C	#f5a400	FS13432 
+Standard	Federal Standard 595C	#ffb700	FS13507 
+Standard	Federal Standard 595C	#d2c1a4	FS13522 
+Standard	Federal Standard 595C	#dec809	FS13523 
+Standard	Federal Standard 595C	#d7c1a8	FS13531 
+Standard	Federal Standard 595C	#f9b000	FS13538 Orange Yellow
+Standard	Federal Standard 595C	#dfcca7	FS13578 
+Standard	Federal Standard 595C	#f7d100	FS13591 
+Standard	Federal Standard 595C	#f2cd88	FS13594 
+Standard	Federal Standard 595C	#e7c686	FS13596 
+Standard	Federal Standard 595C	#f1d2aa	FS13613 
+Standard	Federal Standard 595C	#f6d26d	FS13618 
+Standard	Federal Standard 595C	#e2b41e	FS13637 
+Standard	Federal Standard 595C	#ffc700	FS13655 Blue Angels Yellow
+Standard	Federal Standard 595C	#ffdd68	FS13670 Lime Yellow
+Standard	Federal Standard 595C	#ecdab7	FS13690 
+Standard	Federal Standard 595C	#f6d488	FS13695 
+Standard	Federal Standard 595C	#efd7b1	FS13711 
+Standard	Federal Standard 595C	#263d37	FS14036 
+Standard	Federal Standard 595C	#42463c	FS14050 
+Standard	Federal Standard 595C	#434438	FS14052 Green
+Standard	Federal Standard 595C	#84330c	FS14056 
+Standard	Federal Standard 595C	#1f563b	FS14062 Dark Green
+Standard	Federal Standard 595C	#4c4b3c	FS14064 
+Standard	Federal Standard 595C	#005b40	FS14066 
+Standard	Federal Standard 595C	#464e44	FS14077 
+Standard	Federal Standard 595C	#515240	FS14079 
+Standard	Federal Standard 595C	#3c3728	FS14084 
+Standard	Federal Standard 595C	#3c3727	FS14087 Olive Drab
+Standard	Federal Standard 595C	#007145	FS14090 
+Standard	Federal Standard 595C	#60684a	FS14097 
+Standard	Federal Standard 595C	#2a563f	FS14108 
+Standard	Federal Standard 595C	#005f45	FS14109 
+Standard	Federal Standard 595C	#276f3a	FS14110 
+Standard	Federal Standard 595C	#007a59	FS14115 Green
+Standard	Federal Standard 595C	#007e60	FS14120 
+Standard	Federal Standard 595C	#6b7976	FS14158 
+Standard	Federal Standard 595C	#747b6e	FS14159 
+Standard	Federal Standard 595C	#528431	FS14187 
+Standard	Federal Standard 595C	#5f8c6a	FS14223 
+Standard	Federal Standard 595C	#87a298	FS14241 
+Standard	Federal Standard 595C	#988e60	FS14255 
+Standard	Federal Standard 595C	#949166	FS14257 
+Standard	Federal Standard 595C	#639e7e	FS14260 
+Standard	Federal Standard 595C	#7a9f81	FS14272 
+Standard	Federal Standard 595C	#8b9e96	FS14277 
+Standard	Federal Standard 595C	#84ac9b	FS14325 
+Standard	Federal Standard 595C	#aabd9c	FS14449 
+Standard	Federal Standard 595C	#aec2ad	FS14491 
+Standard	Federal Standard 595C	#b8c8b7	FS14516 
+Standard	Federal Standard 595C	#b2bf98	FS14533 
+Standard	Federal Standard 595C	#d5dbc0	FS14672 
+Standard	Federal Standard 595C	#2d373d	FS15042 Sea Blue
+Standard	Federal Standard 595C	#263042	FS15044 Insignia Blue
+Standard	Federal Standard 595C	#213b4a	FS15045 
+Standard	Federal Standard 595C	#214061	FS15050 "Blue Angels" Blue
+Standard	Federal Standard 595C	#1f2f60	FS15052 
+Standard	Federal Standard 595C	#263b56	FS15053 
+Standard	Federal Standard 595C	#253273	FS15056 Blue
+Standard	Federal Standard 595C	#005686	FS15065 
+Standard	Federal Standard 595C	#1e5270	FS15080 
+Standard	Federal Standard 595C	#00537b	FS15090 
+Standard	Federal Standard 595C	#0075aa	FS15092 
+Standard	Federal Standard 595C	#186493	FS15102 Dark Blue
+Standard	Federal Standard 595C	#628498	FS15107 
+Standard	Federal Standard 595C	#3a6ca7	FS15123 
+Standard	Federal Standard 595C	#006e8e	FS15125 
+Standard	Federal Standard 595C	#61819a	FS15177 
+Standard	Federal Standard 595C	#0073b4	FS15180 
+Standard	Federal Standard 595C	#0080b0	FS15182 
+Standard	Federal Standard 595C	#009cc8	FS15187 
+Standard	Federal Standard 595C	#588c95	FS15193 
+Standard	Federal Standard 595C	#54b7d4	FS15200 Sky Blue
+Standard	Federal Standard 595C	#97bcd5	FS15450 Air Superiority Blue
+Standard	Federal Standard 595C	#b4c5cc	FS15526 
+Standard	Federal Standard 595C	#555856	FS16081 Engine Gray
+Standard	Federal Standard 595C	#565e62	FS16099 
+Standard	Federal Standard 595C	#5c6369	FS16152 
+Standard	Federal Standard 595C	#8a7752	FS16160 
+Standard	Federal Standard 595C	#7b7867	FS16165 
+Standard	Federal Standard 595C	#70818f	FS16187 
+Standard	Federal Standard 595C	#767b7f	FS16231 
+Standard	Federal Standard 595C	#8e8f8e	FS16251 
+Standard	Federal Standard 595C	#9d9d95	FS16307 
+Standard	Federal Standard 595C	#9b9f9b	FS16314 
+Standard	Federal Standard 595C	#b8857b	FS16350 
+Standard	Federal Standard 595C	#afaa97	FS16357 
+Standard	Federal Standard 595C	#b6af9b	FS16360 
+Standard	Federal Standard 595C	#a9a99e	FS16376 
+Standard	Federal Standard 595C	#c8bea8	FS16405 
+Standard	Federal Standard 595C	#bcbab2	FS16440 Light Gull Gray
+Standard	Federal Standard 595C	#aab2b0	FS16473 Aircraft Gray
+Standard	Federal Standard 595C	#c5c3bc	FS16492 
+Standard	Federal Standard 595C	#c7c9c7	FS16515 Canadian Voodoo Gray
+Standard	Federal Standard 595C	#d2c6a9	FS16555 
+Standard	Federal Standard 595C	#2c2926	FS17038 Black
+Standard	Federal Standard 595C	#978449	FS17043 Gold
+Standard	Federal Standard 595C	#744e7a	FS17100 Purple
+Standard	Federal Standard 595C	#a15987	FS17142 
+Standard	Federal Standard 595C	#9e6294	FS17155 
+Standard	Federal Standard 595C	#9b9d9f	FS17178 Aluminum / Silver
+Standard	Federal Standard 595C	#919699	FS17200 
+Standard	Federal Standard 595C	#e6eae1	FS17773 
+Standard	Federal Standard 595C	#f1e9d2	FS17778 
+Standard	Federal Standard 595C	#f5e7c5	FS17855 
+Standard	Federal Standard 595C	#f1f0ea	FS17875 Insignia White
+Standard	Federal Standard 595C	#f7f1e3	FS17886 
+Standard	Federal Standard 595C	#faf7f1	FS17925 Insignia White
+Standard	Federal Standard 595C	#504337	FS20040 
+Standard	Federal Standard 595C	#61504c	FS20045 
+Standard	Federal Standard 595C	#5d483e	FS20059 
+Standard	Federal Standard 595C	#6c4444	FS20061 Maroon
+Standard	Federal Standard 595C	#564944	FS20062 Brown
+Standard	Federal Standard 595C	#7c6a56	FS20095 
+Standard	Federal Standard 595C	#8f5938	FS20100 Brown Yellow
+Standard	Federal Standard 595C	#8c503f	FS20109 Red Brown
+Standard	Federal Standard 595C	#866046	FS20117 
+Standard	Federal Standard 595C	#76573c	FS20122 
+Standard	Federal Standard 595C	#876f55	FS20129 
+Standard	Federal Standard 595C	#876e5b	FS20140 Brown Special
+Standard	Federal Standard 595C	#954a3b	FS20152 
+Standard	Federal Standard 595C	#9f7f79	FS20206 
+Standard	Federal Standard 595C	#9b7f66	FS20219 
+Standard	Federal Standard 595C	#a38b78	FS20227 
+Standard	Federal Standard 595C	#ac7f71	FS20233 
+Standard	Federal Standard 595C	#ba816a	FS20252 Tan
+Standard	Federal Standard 595C	#d1af6f	FS20260 Tan
+Standard	Federal Standard 595C	#af9157	FS20266 Yellow Sand
+Standard	Federal Standard 595C	#b39b8a	FS20313 
+Standard	Federal Standard 595C	#b09f85	FS20318 
+Standard	Federal Standard 595C	#b8a791	FS20372 
+Standard	Federal Standard 595C	#d1a779	FS20400 Tan
+Standard	Federal Standard 595C	#ccb19a	FS20450 Night Tan
+Standard	Federal Standard 595C	#b90f21	FS21105 Red
+Standard	Federal Standard 595C	#a3302a	FS21136 
+Standard	Federal Standard 595C	#c25b64	FS21158 
+Standard	Federal Standard 595C	#ca4e3f	FS21302 
+Standard	Federal Standard 595C	#c32502	FS21310 Red
+Standard	Federal Standard 595C	#d74d2c	FS21400 Red
+Standard	Federal Standard 595C	#d2a08b	FS21433 
+Standard	Federal Standard 595C	#e8c0aa	FS21575 
+Standard	Federal Standard 595C	#efd5bb	FS21643 
+Standard	Federal Standard 595C	#f1d4b4	FS21667 
+Standard	Federal Standard 595C	#f0d3ca	FS21668 
+Standard	Federal Standard 595C	#f4d2ba	FS21670 
+Standard	Federal Standard 595C	#af583a	FS22144 
+Standard	Federal Standard 595C	#db4612	FS22190 Red
+Standard	Federal Standard 595C	#c3663e	FS22203 
+Standard	Federal Standard 595C	#e10d28	FS22246 
+Standard	Federal Standard 595C	#cd7d60	FS22276 
+Standard	Federal Standard 595C	#de8970	FS22356 
+Standard	Federal Standard 595C	#ff7b00	FS22510 
+Standard	Federal Standard 595C	#e1a279	FS22516 Tan
+Standard	Federal Standard 595C	#dfba9e	FS22519 
+Standard	Federal Standard 595C	#f9a24d	FS22544 
+Standard	Federal Standard 595C	#e0c2a2	FS22563 
+Standard	Federal Standard 595C	#ecc9ab	FS22630 
+Standard	Federal Standard 595C	#f2ceab	FS22648 
+Standard	Federal Standard 595C	#c1aa81	FS23448 
+Standard	Federal Standard 595C	#d2c0a4	FS23522 
+Standard	Federal Standard 595C	#d7c3a9	FS23531 
+Standard	Federal Standard 595C	#feb500	FS23538 
+Standard	Federal Standard 595C	#e1cfa4	FS23564 
+Standard	Federal Standard 595C	#ddcdaa	FS23578 Cream
+Standard	Federal Standard 595C	#f2cd8c	FS23594 Beige
+Standard	Federal Standard 595C	#efd0a7	FS23613 
+Standard	Federal Standard 595C	#e9d0a6	FS23617 
+Standard	Federal Standard 595C	#e9d0a6	FS23619 
+Standard	Federal Standard 595C	#ffcc00	FS23655 Yellow
+Standard	Federal Standard 595C	#ece3aa	FS23685 
+Standard	Federal Standard 595C	#ead8b6	FS23690 
+Standard	Federal Standard 595C	#f8d58b	FS23695 
+Standard	Federal Standard 595C	#f5d78e	FS23697 Yellow Sand
+Standard	Federal Standard 595C	#f4dbb4	FS23711 
+Standard	Federal Standard 595C	#efddba	FS23717 
+Standard	Federal Standard 595C	#eedbaf	FS23722 Sand
+Standard	Federal Standard 595C	#f2e1ae	FS23727 
+Standard	Federal Standard 595C	#f4d64f	FS23785 
+Standard	Federal Standard 595C	#f8e994	FS23793 
+Standard	Federal Standard 595C	#e8e7a4	FS23814 
+Standard	Federal Standard 595C	#494a3f	FS24052 Green
+Standard	Federal Standard 595C	#504d40	FS24064 
+Standard	Federal Standard 595C	#575849	FS24079 Forest Green
+Standard	Federal Standard 595C	#464132	FS24084 
+Standard	Federal Standard 595C	#454031	FS24087 
+Standard	Federal Standard 595C	#645e5a	FS24091 
+Standard	Federal Standard 595C	#61694e	FS24097 
+Standard	Federal Standard 595C	#686541	FS24098 
+Standard	Federal Standard 595C	#426953	FS24108 
+Standard	Federal Standard 595C	#617876	FS24148 
+Standard	Federal Standard 595C	#6c7976	FS24158 
+Standard	Federal Standard 595C	#777d70	FS24159 
+Standard	Federal Standard 595C	#6d7e68	FS24172 
+Standard	Federal Standard 595C	#8d856b	FS24201 
+Standard	Federal Standard 595C	#848f7f	FS24226 
+Standard	Federal Standard 595C	#7f9271	FS24227 
+Standard	Federal Standard 595C	#839693	FS24233 
+Standard	Federal Standard 595C	#89a499	FS24241 
+Standard	Federal Standard 595C	#6d9f83	FS24260 
+Standard	Federal Standard 595C	#759c7e	FS24272 Green
+Standard	Federal Standard 595C	#8b9d95	FS24277 
+Standard	Federal Standard 595C	#8ca494	FS24300 
+Standard	Federal Standard 595C	#82ab9a	FS24325 
+Standard	Federal Standard 595C	#a1b095	FS24373 
+Standard	Federal Standard 595C	#a7b8a8	FS24410 Green
+Standard	Federal Standard 595C	#b1b9a4	FS24417 
+Standard	Federal Standard 595C	#b3b69e	FS24424 
+Standard	Federal Standard 595C	#b2b8a6	FS24432 
+Standard	Federal Standard 595C	#b1bca1	FS24441 
+Standard	Federal Standard 595C	#a8bb9a	FS24449 
+Standard	Federal Standard 595C	#a7bda4	FS24466 
+Standard	Federal Standard 595C	#adc3b0	FS24491 
+Standard	Federal Standard 595C	#b2c1a8	FS24504 
+Standard	Federal Standard 595C	#b7c5b5	FS24516 
+Standard	Federal Standard 595C	#b2c1af	FS24518 
+Standard	Federal Standard 595C	#b9c6ac	FS24525 
+Standard	Federal Standard 595C	#b3c098	FS24533 
+Standard	Federal Standard 595C	#d1ce8c	FS24552 
+Standard	Federal Standard 595C	#d7d7ba	FS24554 
+Standard	Federal Standard 595C	#c1d1b2	FS24558 
+Standard	Federal Standard 595C	#cbdcb8	FS24583 
+Standard	Federal Standard 595C	#cee2c7	FS24585 
+Standard	Federal Standard 595C	#c5d9c0	FS24664 
+Standard	Federal Standard 595C	#d4ddcb	FS24670 
+Standard	Federal Standard 595C	#d7ddc1	FS24672 
+Standard	Federal Standard 595C	#353f45	FS25042 
+Standard	Federal Standard 595C	#2c3f4f	FS25045 
+Standard	Federal Standard 595C	#464e63	FS25051 
+Standard	Federal Standard 595C	#03265e	FS25052 
+Standard	Federal Standard 595C	#344a65	FS25053 
+Standard	Federal Standard 595C	#253475	FS25056 
+Standard	Federal Standard 595C	#2f628c	FS25102 
+Standard	Federal Standard 595C	#517287	FS25109 
+Standard	Federal Standard 595C	#647d99	FS25177 
+Standard	Federal Standard 595C	#2b7eb1	FS25183 
+Standard	Federal Standard 595C	#52869d	FS25184 
+Standard	Federal Standard 595C	#748a93	FS25189 
+Standard	Federal Standard 595C	#6490a7	FS25190 
+Standard	Federal Standard 595C	#5d8e96	FS25193 
+Standard	Federal Standard 595C	#849095	FS25237 
+Standard	Federal Standard 595C	#7f99bb	FS25240 
+Standard	Federal Standard 595C	#7aa7a1	FS25299 
+Standard	Federal Standard 595C	#92a7a1	FS25352 Blue
+Standard	Federal Standard 595C	#98b2b0	FS25414 
+Standard	Federal Standard 595C	#83c2e5	FS25466 
+Standard	Federal Standard 595C	#a2bfd9	FS25488 
+Standard	Federal Standard 595C	#b7c6cd	FS25526 
+Standard	Federal Standard 595C	#d1dfe6	FS25550 Light Blue
+Standard	Federal Standard 595C	#d4dad2	FS25622 
+Standard	Federal Standard 595C	#dddcd6	FS25630 
+Standard	Federal Standard 595C	#54575b	FS26008 Dark Gray
+Standard	Federal Standard 595C	#3e444b	FS26044 Gray
+Standard	Federal Standard 595C	#585b5b	FS26081 Seaplane Gray
+Standard	Federal Standard 595C	#60534a	FS26120 
+Standard	Federal Standard 595C	#6d6a69	FS26122 
+Standard	Federal Standard 595C	#6f7172	FS26132 
+Standard	Federal Standard 595C	#74746f	FS26134 
+Standard	Federal Standard 595C	#727779	FS26152 Gray
+Standard	Federal Standard 595C	#7f848b	FS26173 
+Standard	Federal Standard 595C	#76808a	FS26176 
+Standard	Federal Standard 595C	#7b8284	FS26187 
+Standard	Federal Standard 595C	#898d8f	FS26231 
+Standard	Federal Standard 595C	#8c9290	FS26250 
+Standard	Federal Standard 595C	#929392	FS26251 
+Standard	Federal Standard 595C	#919597	FS26270 Medium Gray
+Standard	Federal Standard 595C	#969896	FS26280 
+Standard	Federal Standard 595C	#999b9c	FS26293 
+Standard	Federal Standard 595C	#a49a8f	FS26306 
+Standard	Federal Standard 595C	#9d9d93	FS26307 
+Standard	Federal Standard 595C	#9a9f9c	FS26314 
+Standard	Federal Standard 595C	#98a6a7	FS26329 
+Standard	Federal Standard 595C	#aca89b	FS26357 
+Standard	Federal Standard 595C	#b5af9b	FS26360 
+Standard	Federal Standard 595C	#acafb0	FS26373 
+Standard	Federal Standard 595C	#d4cab0	FS26400 
+Standard	Federal Standard 595C	#c3baa5	FS26405 
+Standard	Federal Standard 595C	#c3c1b4	FS26408 
+Standard	Federal Standard 595C	#c7bdb2	FS26424 
+Standard	Federal Standard 595C	#b9b7b1	FS26440 Light Gull Gray
+Standard	Federal Standard 595C	#c5c4be	FS26492 
+Standard	Federal Standard 595C	#c1c2c1	FS26493 
+Standard	Federal Standard 595C	#bbbbaf	FS26496 
+Standard	Federal Standard 595C	#cfc1b2	FS26521 
+Standard	Federal Standard 595C	#d5c9ac	FS26555 
+Standard	Federal Standard 595C	#ccc8b9	FS26559 
+Standard	Federal Standard 595C	#d5ccb2	FS26586 
+Standard	Federal Standard 595C	#cbcabd	FS26595 
+Standard	Federal Standard 595C	#d0ccc2	FS26622 
+Standard	Federal Standard 595C	#2b2d30	FS27038 Black
+Standard	Federal Standard 595C	#313235	FS27040 
+Standard	Federal Standard 595C	#9f8b51	FS27043 
+Standard	Federal Standard 595C	#a25b85	FS27142 
+Standard	Federal Standard 595C	#8a6a8f	FS27144 
+Standard	Federal Standard 595C	#e7e1d3	FS27722 
+Standard	Federal Standard 595C	#00dcc4	FS27769 
+Standard	Federal Standard 595C	#f0e9d3	FS27778 
+Standard	Federal Standard 595C	#f3ecdd	FS27780 White
+Standard	Federal Standard 595C	#f2e6c4	FS27855 
+Standard	Federal Standard 595C	#f3f2ec	FS27875 Insignia White
+Standard	Federal Standard 595C	#fbf5e8	FS27880 
+Standard	Federal Standard 595C	#faf3e4	FS27886 
+Standard	Federal Standard 595C	#faf7f2	FS27925 
+Standard	Federal Standard 595C	#5f554d	FS30040 
+Standard	Federal Standard 595C	#655551	FS30045 Brown
+Standard	Federal Standard 595C	#4f4239	FS30051 Leather Brown
+Standard	Federal Standard 595C	#620000	FS30076 
+Standard	Federal Standard 595C	#6a5c4f	FS30097 Brown
+Standard	Federal Standard 595C	#746252	FS30099 Brown
+Standard	Federal Standard 595C	#6c5447	FS30108 Red Brown
+Standard	Federal Standard 595C	#905a4c	FS30109 
+Standard	Federal Standard 595C	#7d5b52	FS30111 Brown
+Standard	Federal Standard 595C	#896750	FS30117 Earth Red
+Standard	Federal Standard 595C	#7b694e	FS30118 Field Drab
+Standard	Federal Standard 595C	#876f55	FS30129 
+Standard	Federal Standard 595C	#886b58	FS30140 Brown Special
+Standard	Federal Standard 595C	#8b7258	FS30145 
+Standard	Federal Standard 595C	#843320	FS30152 
+Standard	Federal Standard 595C	#87535a	FS30160 Brown
+Standard	Federal Standard 595C	#8f5c51	FS30166 
+Standard	Federal Standard 595C	#9f7e77	FS30206 
+Standard	Federal Standard 595C	#9e7655	FS30215 Brown
+Standard	Federal Standard 595C	#a1836c	FS30219 Tan
+Standard	Federal Standard 595C	#a38b7a	FS30227 Tan
+Standard	Federal Standard 595C	#ab7e70	FS30233 
+Standard	Federal Standard 595C	#bb8369	FS30252 
+Standard	Federal Standard 595C	#c39b69	FS30257 Tan
+Standard	Federal Standard 595C	#b0935c	FS30266 Yellow Sand
+Standard	Federal Standard 595C	#a6977d	FS30277 Sand Brown
+Standard	Federal Standard 595C	#b79d8a	FS30279 Sand
+Standard	Federal Standard 595C	#b79c8b	FS30313 
+Standard	Federal Standard 595C	#b59c8a	FS30315 
+Standard	Federal Standard 595C	#b2a186	FS30318 
+Standard	Federal Standard 595C	#b79f8b	FS30324 
+Standard	Federal Standard 595C	#b6a690	FS30372 Sand
+Standard	Federal Standard 595C	#c29963	FS30400 Yellow Sand
+Standard	Federal Standard 595C	#cfb49d	FS30450 
+Standard	Federal Standard 595C	#846349	FS31090 Brown
+Standard	Federal Standard 595C	#a84946	FS31136 Insignia Red
+Standard	Federal Standard 595C	#c2575f	FS31158 
+Standard	Federal Standard 595C	#ce4b40	FS31302 Red
+Standard	Federal Standard 595C	#ba1c00	FS31350 Red
+Standard	Federal Standard 595C	#d4583e	FS31400 Red
+Standard	Federal Standard 595C	#d0a18b	FS31433 
+Standard	Federal Standard 595C	#e7bea7	FS31575 
+Standard	Federal Standard 595C	#f2b9b9	FS31638 
+Standard	Federal Standard 595C	#edd3ba	FS31643 
+Standard	Federal Standard 595C	#f2d5b4	FS31667 
+Standard	Federal Standard 595C	#edd2c9	FS31668 
+Standard	Federal Standard 595C	#f6d4d1	FS31669 
+Standard	Federal Standard 595C	#f3d3bd	FS31670 
+Standard	Federal Standard 595C	#b66644	FS32169 
+Standard	Federal Standard 595C	#ea723d	FS32246 
+Standard	Federal Standard 595C	#d28164	FS32276 
+Standard	Federal Standard 595C	#de8971	FS32356 
+Standard	Federal Standard 595C	#e9864e	FS32473 Orange
+Standard	Federal Standard 595C	#dfa277	FS32516 
+Standard	Federal Standard 595C	#fca65f	FS32544 
+Standard	Federal Standard 595C	#fdb666	FS32555 
+Standard	Federal Standard 595C	#eac8a8	FS32630 
+Standard	Federal Standard 595C	#f2cea9	FS32648 Sand
+Standard	Federal Standard 595C	#65604d	FS33070 
+Standard	Federal Standard 595C	#7f6c52	FS33105 Brown
+Standard	Federal Standard 595C	#b38c5e	FS33245 Tan
+Standard	Federal Standard 595C	#a98100	FS33275 
+Standard	Federal Standard 595C	#b0a183	FS33303 Sand
+Standard	Federal Standard 595C	#e59a00	FS33432 
+Standard	Federal Standard 595C	#d9a95a	FS33434 Ochre
+Standard	Federal Standard 595C	#a79065	FS33440 Tan
+Standard	Federal Standard 595C	#b19f7b	FS33446 Dessert Tan
+Standard	Federal Standard 595C	#c3ac84	FS33448 Dark Yellow
+Standard	Federal Standard 595C	#d5ba57	FS33481 
+Standard	Federal Standard 595C	#d3c1a3	FS33522 
+Standard	Federal Standard 595C	#d6c1aa	FS33531 Middlestone
+Standard	Federal Standard 595C	#ffb700	FS33538 Orange Yellow
+Standard	Federal Standard 595C	#ddcda1	FS33564 
+Standard	Federal Standard 595C	#dcccaa	FS33578 
+Standard	Federal Standard 595C	#e8d300	FS33591 
+Standard	Federal Standard 595C	#efd0a8	FS33613 Radome Tan
+Standard	Federal Standard 595C	#e3d1b9	FS33617 Sand
+Standard	Federal Standard 595C	#efc259	FS33637 
+Standard	Federal Standard 595C	#ffca00	FS33655 
+Standard	Federal Standard 595C	#eae1a9	FS33685 
+Standard	Federal Standard 595C	#efdbb6	FS33690 Sand
+Standard	Federal Standard 595C	#fdb992	FS33695 Yellow Sand
+Standard	Federal Standard 595C	#ffd872	FS33696 
+Standard	Federal Standard 595C	#f0d8b0	FS33711 Sand
+Standard	Federal Standard 595C	#efdcbb	FS33717 Sand
+Standard	Federal Standard 595C	#eddab1	FS33722 
+Standard	Federal Standard 595C	#f2e0af	FS33727 
+Standard	Federal Standard 595C	#f9ed91	FS33793 
+Standard	Federal Standard 595C	#fae6a7	FS33798 
+Standard	Federal Standard 595C	#e9eaa4	FS33814 
+Standard	Federal Standard 595C	#575450	FS34031 Dark Green
+Standard	Federal Standard 595C	#55564f	FS34052 USMC Green
+Standard	Federal Standard 595C	#232d24	FS34056 
+Standard	Federal Standard 595C	#3d5e5d	FS34058 Sea Blue
+Standard	Federal Standard 595C	#00401e	FS34062 
+Standard	Federal Standard 595C	#5e5c56	FS34064 Dark Green
+Standard	Federal Standard 595C	#2e3933	FS34077 Green
+Standard	Federal Standard 595C	#595c4e	FS34079 Forest Green
+Standard	Federal Standard 595C	#60644c	FS34082 Green
+Standard	Federal Standard 595C	#5d5d50	FS34083 Green
+Standard	Federal Standard 595C	#565248	FS34084 Green
+Standard	Federal Standard 595C	#615f56	FS34086 I. R. Dark Green
+Standard	Federal Standard 595C	#554f44	FS34087 Olive Drab
+Standard	Federal Standard 595C	#554f44	FS34088 Olive Drab
+Standard	Federal Standard 595C	#6f6f4a	FS34089 
+Standard	Federal Standard 595C	#238259	FS34090 
+Standard	Federal Standard 595C	#53645a	FS34092 Dark Green
+Standard	Federal Standard 595C	#3e4b39	FS34094 Green
+Standard	Federal Standard 595C	#595f43	FS34095 Field Green
+Standard	Federal Standard 595C	#616352	FS34096 Dark Green
+Standard	Federal Standard 595C	#636a51	FS34097 Field Green
+Standard	Federal Standard 595C	#6f6c4c	FS34098 Green
+Standard	Federal Standard 595C	#636750	FS34102 Light Green
+Standard	Federal Standard 595C	#476e56	FS34108 Medium Green
+Standard	Federal Standard 595C	#005d39	FS34115 
+Standard	Federal Standard 595C	#6f6d4b	FS34127 Green
+Standard	Federal Standard 595C	#65735e	FS34128 Deep Green
+Standard	Federal Standard 595C	#696748	FS34130 
+Standard	Federal Standard 595C	#5e8450	FS34138 Green
+Standard	Federal Standard 595C	#657a77	FS34148 
+Standard	Federal Standard 595C	#717048	FS34151 Interior Green
+Standard	Federal Standard 595C	#6c7977	FS34158 
+Standard	Federal Standard 595C	#737a6c	FS34159 Green
+Standard	Federal Standard 595C	#556f56	FS34172 
+Standard	Federal Standard 595C	#8c846a	FS34201 Tan Green
+Standard	Federal Standard 595C	#848e7d	FS34226 
+Standard	Federal Standard 595C	#7f9170	FS34227 Medium Gray Green
+Standard	Federal Standard 595C	#599d5a	FS34230 Green
+Standard	Federal Standard 595C	#829795	FS34233 
+Standard	Federal Standard 595C	#81a698	FS34241 
+Standard	Federal Standard 595C	#909468	FS34258 Green
+Standard	Federal Standard 595C	#8e8342	FS34259 Yellow Green
+Standard	Federal Standard 595C	#779d80	FS34272 
+Standard	Federal Standard 595C	#889d95	FS34277 
+Standard	Federal Standard 595C	#8ba395	FS34300 
+Standard	Federal Standard 595C	#80a998	FS34325 
+Standard	Federal Standard 595C	#a0b4a5	FS34373 
+Standard	Federal Standard 595C	#a2b4a5	FS34410 
+Standard	Federal Standard 595C	#b8c4ad	FS34414 Green
+Standard	Federal Standard 595C	#b3b69f	FS34424 Light Gray Green
+Standard	Federal Standard 595C	#b1b7a4	FS34432 
+Standard	Federal Standard 595C	#afbb9f	FS34441 
+Standard	Federal Standard 595C	#a7bd9b	FS34449 
+Standard	Federal Standard 595C	#b1c4ae	FS34491 
+Standard	Federal Standard 595C	#b6c4ab	FS34504 
+Standard	Federal Standard 595C	#b6c6b4	FS34516 
+Standard	Federal Standard 595C	#b2c2b3	FS34518 
+Standard	Federal Standard 595C	#bbc69c	FS34524 
+Standard	Federal Standard 595C	#b5c49e	FS34533 
+Standard	Federal Standard 595C	#a1d28b	FS34540 
+Standard	Federal Standard 595C	#d4cf90	FS34552 Light Green
+Standard	Federal Standard 595C	#d2d5b9	FS34554 Sky
+Standard	Federal Standard 595C	#c0d0b0	FS34558 
+Standard	Federal Standard 595C	#c2c3a4	FS34583 
+Standard	Federal Standard 595C	#dbe7ab	FS34666 Green
+Standard	Federal Standard 595C	#d0dac9	FS34670 
+Standard	Federal Standard 595C	#d5dbbf	FS34672 
+Standard	Federal Standard 595C	#454a4e	FS35042 Sea Blue
+Standard	Federal Standard 595C	#444854	FS35044 Insignia Blue
+Standard	Federal Standard 595C	#41505d	FS35045 Dark Blue
+Standard	Federal Standard 595C	#18324d	FS35050 
+Standard	Federal Standard 595C	#00285c	FS35052 Blue
+Standard	Federal Standard 595C	#263b56	FS35053 
+Standard	Federal Standard 595C	#334685	FS35056 
+Standard	Federal Standard 595C	#457285	FS35109 Dark Blue
+Standard	Federal Standard 595C	#035c3c	FS35115 
+Standard	Federal Standard 595C	#6f7c8a	FS35164 Intermediate Blue
+Standard	Federal Standard 595C	#65829a	FS35177 Medium Blue
+Standard	Federal Standard 595C	#137abb	FS35180 
+Standard	Federal Standard 595C	#2a6da2	FS35182 
+Standard	Federal Standard 595C	#2280b2	FS35183 
+Standard	Federal Standard 595C	#6f8a91	FS35189 Blue Gray
+Standard	Federal Standard 595C	#6390a9	FS35190 Dark Blue
+Standard	Federal Standard 595C	#598f98	FS35193 
+Standard	Federal Standard 595C	#7d91b9	FS35231 Azure Blue
+Standard	Federal Standard 595C	#879297	FS35237 Gray Blue
+Standard	Federal Standard 595C	#7f9cbf	FS35240 Blue
+Standard	Federal Standard 595C	#5ba6d6	FS35250 Blue
+Standard	Federal Standard 595C	#35a49e	FS35275 
+Standard	Federal Standard 595C	#77a59e	FS35299 
+Standard	Federal Standard 595C	#94a8a4	FS35352 Blue
+Standard	Federal Standard 595C	#9db3ae	FS35414 Blue
+Standard	Federal Standard 595C	#92b6d1	FS35450 Air Superiority Blue
+Standard	Federal Standard 595C	#86cbe4	FS35466 
+Standard	Federal Standard 595C	#a1bbd1	FS35488 
+Standard	Federal Standard 595C	#b6c4cc	FS35526 Light Sky Blue
+Standard	Federal Standard 595C	#cedbe2	FS35550 
+Standard	Federal Standard 595C	#cdd8cd	FS35622 Light Blue
+Standard	Federal Standard 595C	#dbdbd5	FS35630 
+Standard	Federal Standard 595C	#575b62	FS36076 Gray
+Standard	Federal Standard 595C	#5b5e5f	FS36081 Dark Gunship Gray
+Standard	Federal Standard 595C	#5f656a	FS36099 Dark Gray
+Standard	Federal Standard 595C	#676c73	FS36118 Medium Gunship Gray
+Standard	Federal Standard 595C	#565654	FS36134 
+Standard	Federal Standard 595C	#74797b	FS36152 Gray
+Standard	Federal Standard 595C	#7f848a	FS36173 Neutral Gray
+Standard	Federal Standard 595C	#778089	FS36176 Dark Gull Gray
+Standard	Federal Standard 595C	#697374	FS36187 
+Standard	Federal Standard 595C	#888b8d	FS36231 Dark Gull Gray
+Standard	Federal Standard 595C	#8e908f	FS36251 Gray
+Standard	Federal Standard 595C	#8f9396	FS36270 Medium Gray
+Standard	Federal Standard 595C	#8f9396	FS36280 Dark Gray
+Standard	Federal Standard 595C	#989a9b	FS36293 
+Standard	Federal Standard 595C	#9da2a8	FS36300 Aircraft Exterior Gray
+Standard	Federal Standard 595C	#a99e93	FS36306 
+Standard	Federal Standard 595C	#9fa097	FS36307 Gray
+Standard	Federal Standard 595C	#9b9f9b	FS36314 Flint Gray
+Standard	Federal Standard 595C	#98a1a9	FS36320 Dark Compass Ghost Gray
+Standard	Federal Standard 595C	#849899	FS36329 Light Gray
+Standard	Federal Standard 595C	#aca99c	FS36357 
+Standard	Federal Standard 595C	#aeb1b2	FS36373 Light Gray
+Standard	Federal Standard 595C	#a6adb4	FS36375 Light Compass Ghost Gray
+Standard	Federal Standard 595C	#c3c19b	FS36400 
+Standard	Federal Standard 595C	#c6bea8	FS36405 
+Standard	Federal Standard 595C	#c6b69c	FS36415 
+Standard	Federal Standard 595C	#c4baaf	FS36424 Medium Gray
+Standard	Federal Standard 595C	#b6b5b0	FS36440 Light Gull Gray
+Standard	Federal Standard 595C	#b1b3b2	FS36463 Gray
+Standard	Federal Standard 595C	#adb5b3	FS36473 Sky Gray
+Standard	Federal Standard 595C	#c2c0bf	FS36492 Gray
+Standard	Federal Standard 595C	#cfd1d2	FS36495 Light Gray
+Standard	Federal Standard 595C	#d2c5b4	FS36521 Tan
+Standard	Federal Standard 595C	#d4c6a8	FS36555 Tan
+Standard	Federal Standard 595C	#c9c4b3	FS36559 Gray
+Standard	Federal Standard 595C	#d3ccb7	FS36586 
+Standard	Federal Standard 595C	#cdcabe	FS36595 
+Standard	Federal Standard 595C	#d4d0c7	FS36622 Gray
+Standard	Federal Standard 595C	#d8d8d4	FS36628 Flat Aluminum
+Standard	Federal Standard 595C	#e9d7c3	FS36642 
+Standard	Federal Standard 595C	#454445	FS37030 
+Standard	Federal Standard 595C	#434244	FS37031 Black Gray
+Standard	Federal Standard 595C	#424243	FS37038 Black
+Standard	Federal Standard 595C	#807537	FS37043 
+Standard	Federal Standard 595C	#564e4a	FS37056 
+Standard	Federal Standard 595C	#79537f	FS37100 Purple
+Standard	Federal Standard 595C	#9f5d87	FS37142 
+Standard	Federal Standard 595C	#8b6c8f	FS37144 
+Standard	Federal Standard 595C	#ded3c4	FS37150 
+Standard	Federal Standard 595C	#879296	FS37178 
+Standard	Federal Standard 595C	#a09f9f	FS37200 
+Standard	Federal Standard 595C	#ebe3d4	FS37722 
+Standard	Federal Standard 595C	#e2d6c0	FS37769 
+Standard	Federal Standard 595C	#f1e7cf	FS37778 
+Standard	Federal Standard 595C	#f6ebc8	FS37855 White
+Standard	Federal Standard 595C	#f2f1ea	FS37875 Insignia White
+Standard	Federal Standard 595C	#f8f1e1	FS37886 
+Standard	Federal Standard 595C	#fbf8f6	FS37925 Insignia White
+Standard	Federal Standard 595C	#ff5500	FS38903 
+Standard	Federal Standard 595C	#ff2d00	FS38913 
+Standard	RML	#9b9d9f	RLM 01 SILVER	FS17178
+Standard	RML	#797061	RLM 02 GREY	FS36307
+Standard	RML	#ee880a	RLM 04 YELLOW	FS33538
+Standard	RML	#f1ede2	RLM 21 WHITE	FS37886
+Standard	RML	#0a0a0a	RLM 22 BLACK	FS37038
+Standard	RML	#951f1f	RLM 23 RED	FS31136
+Standard	RML	#27355a	RLM 24 BLUE	FS35052
+Standard	RML	#1c4920	RLM 25 GREEN	FS24108
+Standard	RML	#642104	RLM 26 BROWN	FS30109
+Standard	RML	#eb9c25	RLM 27 YELLOW	FS33637
+Standard	RML	#3f0d0c	RLM 28 MAROON	FS20061
+Standard	RML	#200c03	RLM 61 DARK BROWN	FS30040
+Standard	RML	#364133	RLM 62 GREEN	FS34159
+Standard	RML	#797061	RLM 63v.1 GREEN-GREY	FS36307
+Standard	RML	#8b847e	RLM 63v.2 LIGHT GREY	FS36492
+Standard	RML	#7b8b88	RLM 65 LIGHT BLUE	FS26329
+Standard	RML	#242621	RLM 66 BLACK-GREY	FS36081
+Standard	RML	#13130b	RLM 70 BLACK-GREEN	FS34052
+Standard	RML	#22210d	RLM 71 DARK GREEN	FS34079
+Standard	RML	#0f2822	RLM 72 GREEN	FS34058
+Standard	RML	#232d22	RLM 73 GREEN	FS34092
+Standard	RML	#181a17	RLM 74v.1 GREY-GREEN	FS36081
+Standard	RML	#2e272e	RLM 74v.2 GREY-GREEN	FS16099
+Standard	RML	#524b52	RLM 75 GREY-VIOLET	FS26231
+Standard	RML	#94a3a0	RLM 76 LICHT BLUE	FS36473
+Standard	RML	#a59c95	RLM 77 LIGHT GREY	FS36492
+Standard	RML	#80a39c	RLM 78 BLUE	FS35414
+Standard	RML	#a47946	RLM 79 SAND-YELLOW	FS33434
+Standard	RML	#6e462c	RLM 79 SAND-BROWN	FS30129
+Standard	RML	#282b1a	RLM 80 OLIVE-GREEN	FS34096
+Standard	RML	#4f3119	RLM 81v.1 BROWN-VIOLET	FS30118
+Standard	RML	#241210	RLM 81v.2 BROWN-VIOLET	FS30045
+Standard	RML	#231e18	RLM 81v.3 BROWN-VIOLET	FS34086
+Standard	RML	#222f1d	RLM 82 BRIGHT GREEN	FS34128
+Standard	RML	#191a0a	RLM 83 DARK GREEN	FS34083
+Standard	RML	#adc1b5	RLM 84v.1 GREEN-BLUE	FS35622
+Standard	RML	#78a296	RLM 84v.2 GREEN-BLUE	FS34432
+Standard	RML	#b8c58f	RLM 84v.3 GREEN-BLUE	FS34554
+vallejo	モデルカラー	#ffffff	70951 001 ホワイト
+vallejo	モデルカラー	#ffffff	70919 002 ファンデーションホワイト
+vallejo	モデルカラー	#ffffff	70842 003 グロスホワイト
+vallejo	モデルカラー	#f3f3e8	70820 004 オフホワイト
+vallejo	モデルカラー	#f5f5df	70918 005 アイボリー
+vallejo	モデルカラー	#fcf0d9	70928 006 ライトフレッシュ
+vallejo	モデルカラー	#d2c79a	70837 007 ペールサンド
+vallejo	モデルカラー	#ddcc8f	70917 008 ベージュ
+vallejo	モデルカラー	#dcc771	70916 009 サンドイエロー
+vallejo	モデルカラー	#ffeb57	70949 010 ライトイエロー
+vallejo	モデルカラー	#fef000	70952 011 レモンイエロー
+vallejo	モデルカラー	#e8e881	70806 012 ジャーマンイエロー
+vallejo	モデルカラー	#feef86	70858 013 アイスイエロー
+vallejo	モデルカラー	#fee602	70915 014 ディープイエロー
+vallejo	モデルカラー	#fdd300	70953 015 フラットイエロー
+vallejo	モデルカラー	#f8c951	70948 016 ゴールデンイエロー
+vallejo	モデルカラー	#f7be89	70815 017 ベーシックスキントーン
+vallejo	モデルカラー	#ddae75	70955 018 フラットフレッシュ
+vallejo	モデルカラー	#dbaa5b	70927 019 ダークフレッシュ
+vallejo	モデルカラー	#eeb565	70845 020 サニースキントーン
+vallejo	モデルカラー	#c08534	70860 021 ミディアムフレッシュトーン
+vallejo	モデルカラー	#ef8500	70911 022 ライトオレンジ
+vallejo	モデルカラー	#e8500f	70805 023 ジャーマンオレンジ
+vallejo	モデルカラー	#e96123	70851 024 ブライトオレンジ
+vallejo	モデルカラー	#e94e18	70956 025 クリアオレンジ
+vallejo	モデルカラー	#d42d20	70817 026 スカーレット
+vallejo	モデルカラー	#e04611	70910 027 オレンジレッド
+vallejo	モデルカラー	#d12520	70909 028 バーミリオン
+vallejo	モデルカラー	#c11e23	70947 029 ダークバーミリオン
+vallejo	モデルカラー	#b62028	70908 030 カーマインレッド
+vallejo	モデルカラー	#a8232d	70957 031 フラットレッド
+vallejo	モデルカラー	#9e403c	70946 032 ダークレッド
+vallejo	モデルカラー	#942a30	70926 033 レッド
+vallejo	モデルカラー	#673131	70814 034 バーントレッド
+vallejo	モデルカラー	#632d33	70859 035 ブラックレッド
+vallejo	モデルカラー	#c99661	70804 036 ベージュレッド
+vallejo	モデルカラー	#f2a282	70835 037 サーモンローズ
+vallejo	モデルカラー	#cd866e	70803 038 ブラウンローズ
+vallejo	モデルカラー	#d77e78	70944 039 オールドローズ
+vallejo	モデルカラー	#d67493	70958 040 ピンク
+vallejo	モデルカラー	#bf2356	70802 041 サンセットレッド
+vallejo	モデルカラー	#a61f49	70945 042 マゼンタ
+vallejo	モデルカラー	#6f2442	70812 043 バイオレットレッド
+vallejo	モデルカラー	#844769	70959 044 パープル
+vallejo	モデルカラー	#4c1d65	70810 045 ロイヤルパープル
+vallejo	モデルカラー	#7d5292	70811 046 ブルーバイオレット
+vallejo	モデルカラー	#472866	70960 047 バイオレット
+vallejo	モデルカラー	#1b3f47	70898 048 ダークシーブルー
+vallejo	モデルカラー	#2f3e5b	70807 049 オックスフォードブルー
+vallejo	モデルカラー	#10283e	70899 050 ダークプルシャンブルー
+vallejo	モデルカラー	#14506c	70965 051 プルシャンブルー
+vallejo	モデルカラー	#012f66	70925 052 ブルー
+vallejo	モデルカラー	#015282	70930 053 ダークブルー
+vallejo	モデルカラー	#344c88	70809 054 ロイヤルブルー
+vallejo	モデルカラー	#2f52a0	70839 055 ウルトラマリン
+vallejo	モデルカラー	#1a6390	70962 056 フラットブルー
+vallejo	モデルカラー	#025f86	70963 057 ミディアムブルー
+vallejo	モデルカラー	#406871	70964 058 フィールドブルー
+vallejo	モデルカラー	#57787f	70900 059 フレンチミラージュブルー
+vallejo	モデルカラー	#5d7d82	70903 060 インターメディエイトブルー
+vallejo	モデルカラー	#3e6c89	70943 061 グレーブルー
+vallejo	モデルカラー	#6e7dad	70902 062 アズール
+vallejo	モデルカラー	#64859a	70901 063 パステルブルー
+vallejo	モデルカラー	#86b8b1	70906 064 ペールブルー
+vallejo	モデルカラー	#0583c6	70841 065 アンドレアブルー
+vallejo	モデルカラー	#089fdd	70844 066 ディープスカイブルー
+vallejo	モデルカラー	#99d6f5	70961 067 スカイブルー
+vallejo	モデルカラー	#0290a3	70840 068 ライトターコイズ
+vallejo	モデルカラー	#098499	70966 069 ターコイズ
+vallejo	モデルカラー	#088f91	70808 070 グリーンブルー
+vallejo	モデルカラー	#068a63	70838 071 エメラルド
+vallejo	モデルカラー	#016a41	70970 072 ディープグリーン
+vallejo	モデルカラー	#048556	70969 073 パークグリーンフラット
+vallejo	モデルカラー	#399045	70891 074 インターメディエイトグリーン
+vallejo	モデルカラー	#009c46	70942 075 ライトグリーン
+vallejo	モデルカラー	#5eac7d	70974 076 グリーンスカイ
+vallejo	モデルカラー	#6fad3c	70827 077 ライムグリーン
+vallejo	モデルカラー	#dae003	70954 078 イエローグリーン
+vallejo	モデルカラー	#78942a	70857 079 ゴールデンオリーブ
+vallejo	モデルカラー	#50883c	70833 080 ジャーマンカムフラージュブライトグリーン
+vallejo	モデルカラー	#1f7028	70850 081 ミディアムオリーブ
+vallejo	モデルカラー	#6d8b29	70967 082 オリーブグリーン
+vallejo	モデルカラー	#1f6a2c	70968 083 フラットグリーン
+vallejo	モデルカラー	#507e2f	70922 084 ユニフォームグリーン
+vallejo	モデルカラー	#1f6052	70920 085 ドイツ軍ユニフォーム色
+vallejo	モデルカラー	#566b3b	70823 086 ドイツ空軍カムフラージュグリーン
+vallejo	モデルカラー	#20392c	70892 087 イエローオリーブ
+vallejo	モデルカラー	#396959	70895 088 ガンシップグリーン
+vallejo	モデルカラー	#3d5a47	70975 089 ミリタリーグリーン
+vallejo	モデルカラー	#496743	70890 090 リフラクティブグリーン
+vallejo	モデルカラー	#3b4745	70889 091 オリーブブラウン
+vallejo	モデルカラー	#37574a	70888 092 オリーブグレー
+vallejo	モデルカラー	#50614b	70887 093 アメリカ軍オリーブドラブ
+vallejo	モデルカラー	#626f50	70924 094 WWⅡロシア軍ユニフォーム色
+vallejo	モデルカラー	#5a6c52	70893 095 アメリカ軍ダークグリーン
+vallejo	モデルカラー	#395648	70894 096 カムフラージュオリーブグリーン
+vallejo	モデルカラー	#284a43	70979 097 ジャーマンカムフラージュダークグリーン
+vallejo	モデルカラー	#27544f	70897 098 ブロンズグリーン
+vallejo	モデルカラー	#2c514a	70896 099 ジャーマンカムフラージュエクストラダークグリーン
+vallejo	モデルカラー	#00453d	70980 100 ブラックグリーン
+vallejo	モデルカラー	#877f57	70886 101 グリーングレー
+vallejo	モデルカラー	#5f5a44	70830 102 WWⅡドイツ軍フィールドグレー
+vallejo	モデルカラー	#a3956d	70821 103 WWⅡドイツ軍カムフラージュベージュ
+vallejo	モデルカラー	#999d7c	70884 104 ストーングレー
+vallejo	モデルカラー	#414a53	70816 105 WWⅡドイツ空軍ユニフォーム色
+vallejo	モデルカラー	#b6cec1	70971 106 グリーングレー
+vallejo	モデルカラー	#729e98	70972 107 ライトグリーンブルー
+vallejo	モデルカラー	#9ab8b8	70973 108 ライトシーグレー
+vallejo	モデルカラー	#a8c196	70885 109 パステルグリーン
+vallejo	モデルカラー	#c5cdb8	70986 110 デッキタン
+vallejo	モデルカラー	#959f80	70987 111 ミディアムグレー
+vallejo	モデルカラー	#958a40	70881 112 イエローグリーン
+vallejo	モデルカラー	#908554	70880 113 カーキグレー
+vallejo	モデルカラー	#947e4f	70879 114 グリーンブラウン
+vallejo	モデルカラー	#97945d	70988 115 カーキ
+vallejo	モデルカラー	#a1954e	70978 116 ダークイエロー
+vallejo	モデルカラー	#9b8741	70923 117 WWⅡ日本軍ユニフォーム色
+vallejo	モデルカラー	#a29a53	70882 118 ミドルストーン
+vallejo	モデルカラー	#ad8f5f	70914 119 グリーンオーカー
+vallejo	モデルカラー	#d7d09b	70976 120 バフ
+vallejo	モデルカラー	#c69c3c	70913 121 イエローオーカー
+vallejo	モデルカラー	#b89855	70912 122 タンイエロー
+vallejo	モデルカラー	#d4b978	70847 123 ダークサンド
+vallejo	モデルカラー	#baa16c	70819 124 イラクサンド
+vallejo	モデルカラー	#b29142	70977 125 デザートイエロー
+vallejo	モデルカラー	#bd891d	70877 126 ゴールドブラウン
+vallejo	モデルカラー	#ad7823	70856 127 オーカーブラウン
+vallejo	モデルカラー	#a4844c	70824 128 ジャーマンカムフラージュオレンジオーカー
+vallejo	モデルカラー	#be7544	70929 129 ライトブラウン
+vallejo	モデルカラー	#cd3a25	70829 130 アマランスレッド
+vallejo	モデルカラー	#b76e39	70981 131 オレンジブラウン
+vallejo	モデルカラー	#ad7e5a	70876 132 ブラウンサンド
+vallejo	モデルカラー	#a87b57	70843 133 コルクブラウン
+vallejo	モデルカラー	#9e785b	70874 134 タンアース
+vallejo	モデルカラー	#7a5741	70875 135 ベージュブラウン
+vallejo	モデルカラー	#944132	70818 136 レッドレザー
+vallejo	モデルカラー	#853634	70982 137 キャバリーブラウン
+vallejo	モデルカラー	#8d5647	70940 138 サドルブラウン
+vallejo	モデルカラー	#86493e	70846 139 マホガニーブラウン
+vallejo	モデルカラー	#77443b	70984 140 フラットブラウン
+vallejo	モデルカラー	#795d29	70921 141 イギリス軍ユニフォーム色
+vallejo	モデルカラー	#755d3b	70873 142 アメリカ軍フィールドドラブ
+vallejo	モデルカラー	#876133	70983 143 フラットアース
+vallejo	モデルカラー	#826a56	70825 144 ジャーマンカムフラージュペールバイオレットブラウン
+vallejo	モデルカラー	#712729	70826 145 ジャーマンカムフラージュミディアムブラウン
+vallejo	モデルカラー	#502220	70985 146 ハルレッド
+vallejo	モデルカラー	#4d4436	70871 147 レザーブラウン
+vallejo	モデルカラー	#695344	70941 148 バーントアンバー
+vallejo	モデルカラー	#645042	70872 149 チョコレートブラウン
+vallejo	モデルカラー	#5c3423	70822 150 ジャーマンカムフラージュブラックブラウン
+vallejo	モデルカラー	#edefef	70993 151 ホワイトグレー
+vallejo	モデルカラー	#dfe1d6	70883 152 シルバーグレー
+vallejo	モデルカラー	#c7d5d3	70907 153 ペールグレーブルー
+vallejo	モデルカラー	#bac0b9	70989 154 スカイグレー
+vallejo	モデルカラー	#9ea29b	70990 155 ライトグレー
+vallejo	モデルカラー	#a6aca7	70905 156 ブルーグレーペール
+vallejo	モデルカラー	#5d7775	70904 157 ダークブルーグレー
+vallejo	モデルカラー	#899693	70870 158 ミディアムシーグレー
+vallejo	モデルカラー	#828079	70991 159 ダークシーグレー
+vallejo	モデルカラー	#64787a	70992 160 ニュートラルグレー
+vallejo	モデルカラー	#515a63	70836 161 ロンドングレー
+vallejo	モデルカラー	#59695f	70869 162 バサルトグレー
+vallejo	モデルカラー	#234543	70868 163 ダークシーグリーン
+vallejo	モデルカラー	#47554d	70867 164 ダークブルーグレー
+vallejo	モデルカラー	#495852	70866 165 グレーグリーン
+vallejo	モデルカラー	#1e3e3b	70994 166 ダークグレー
+vallejo	モデルカラー	#132e2e	70995 167 ジャーマングレー
+vallejo	モデルカラー	#2a3538	70862 168 ブラックグレー
+vallejo	モデルカラー	#232a2f	70950 169 ブラック
+vallejo	モデルカラー	#000000	70861 170 グロスブラック
+vallejo	モデルカラー	#cbd5d3	70997 171 シルバー
+vallejo	モデルカラー	#d4b653	70996 172 ゴールド
+vallejo	モデルカラー	#988548	70878 173 オールドゴールド
+vallejo	モデルカラー	#a87d2c	70801 174 ブラス（真鍮色）
+vallejo	モデルカラー	#786f37	70998 175 ブロンズ
+vallejo	モデルカラー	#ae5227	70999 176 カッパー
+vallejo	モデルカラー	#7a7d73	70865 177 オイリースチール
+vallejo	モデルカラー	#878b84	70864 178 ナチュラルスチール
+vallejo	モデルカラー	#606964	70863 179 ガンメタルグレー
+vallejo	モデルカラー	#33463c	70800 180 ガンメタルブルー
+vallejo	モデルカラー	#322d27	70939 181 スモーク
+vallejo	モデルカラー	#c26a4b	70828 182 ウッドグレイン（木目）
+vallejo	モデルカラー	#eacc5a	70834 183 ナチュラルウッドグレイン
+vallejo	メカカラー	#ffffff	69001 001 ピュアホワイト
+vallejo	メカカラー	#f1ede3	69002 002 ホワイトグレー
+vallejo	メカカラー	#edecde	69003 003 オフホワイト
+vallejo	メカカラー	#f9b735	69004 004 イエロー
+vallejo	メカカラー	#f8dac7	69005 005 ライトフレッシュ
+vallejo	メカカラー	#cf8375	69006 006 ピンク
+vallejo	メカカラー	#e9602b	69007 007 オレンジ
+vallejo	メカカラー	#bc3f42	69008 008 レッド
+vallejo	メカカラー	#b43739	69009 009 SZ レッド
+vallejo	メカカラー	#bf0f25	69010 010 マゼンタ
+vallejo	メカカラー	#90242b	69011 011 ダークレッド
+vallejo	メカカラー	#ab8cbc	69012 012 パープル
+vallejo	メカカラー	#4d4e6d	69013 013 ティターンブルー
+vallejo	メカカラー	#6c8488	69014 014 グレーグリーン
+vallejo	メカカラー	#678798	69015 015 ブルーグレー
+vallejo	メカカラー	#6b8bbb	69016 016 ライトブルー
+vallejo	メカカラー	#79caeb	69017 017 スカイブルー
+vallejo	メカカラー	#2196c4	69018 018 ディープブルー
+vallejo	メカカラー	#3f6799	69019 019 ブルー
+vallejo	メカカラー	#0b70b1	69020 020 エレクトリックブルー
+vallejo	メカカラー	#3a5977	69021 021 ダークブルー
+vallejo	メカカラー	#3f454c	69022 022 ティターンダークブルー
+vallejo	メカカラー	#199b9d	69023 023 ターコイズ
+vallejo	メカカラー	#a0b2b2	69024 024 ストーングレー
+vallejo	メカカラー	#c4ccbc	69025 025 ライトグリーン
+vallejo	メカカラー	#a3a791	69026 026 グリーン
+vallejo	メカカラー	#899f7d	69027 027 グリーンブルー
+vallejo	メカカラー	#606e45	69028 028 オリーブグリーン
+vallejo	メカカラー	#717538	69029 029 ディープグリーン
+vallejo	メカカラー	#525445	69030 030 ダークグリーン
+vallejo	メカカラー	#b8a072	69031 031 グレーサンド
+vallejo	メカカラー	#eaa330	69032 032 イエローオーカー
+vallejo	メカカラー	#e4b76f	69033 033 サンドイエロー
+vallejo	メカカラー	#7b654e	69034 034 ブラウン
+vallejo	メカカラー	#484242	69035 035 チッピングブラウン
+vallejo	メカカラー	#969da1	69036 036 ライトグレー
+vallejo	メカカラー	#8a979f	69037 037 グレー
+vallejo	メカカラー	#818487	69038 038 ミディアムグレー
+vallejo	メカカラー	#7a7b7d	69039 039 グレーZ
+vallejo	メカカラー	#525661	69040 040 ファントムグレー
+vallejo	メカカラー	#4e5250	69041 041 ダークグレーグリーン
+vallejo	メカカラー	#1a171b	69042 042 ピュアブラック
+vallejo	メカカラー	#f0e53e	69054 054 蛍光イエロー
+vallejo	メカカラー	#e75f12	69055 055 蛍光オレンジ
+vallejo	メカカラー	#e4408d	69056 056 蛍光マゼンタ
+vallejo	メカカラー	#a6c956	69057 057 蛍光グリーン
+vallejo	メカカラー	#616760	69058 058 ガンメタル
+vallejo	メカカラー	#ab8321	69059 059 ゴールド
+vallejo	メカカラー	#9b8548	69060 060 オールドゴールド
+vallejo	メカカラー	#985937	69061 061 カッパー
+vallejo	メカカラー	#766b34	69062 062 ブロンズ
+vallejo	メカカラー	#888982	69063 063 スチール
+vallejo	メカカラー	#ced5d2	69064 064 ライトスチール
+vallejo	メカカラー	#727275	69065 065 ダークスチール
+vallejo	メカカラー	#ca586f	69066 066 メタリックレッド
+vallejo	メカカラー	#363c4c	69067 067 メタリックブルー
+vallejo	メカカラー	#24917e	69068 068 メタリックグリーン
+vallejo	ゲームカラー	#ffffff	72001 001 デッドホワイト
+vallejo	ゲームカラー	#ffffff	72002 002 アークティックホワイト
+vallejo	ゲームカラー	#e5bba4	72003 003 ペールフレッシュ
+vallejo	ゲームカラー	#d6a070	72004 004 エルフスキントーン
+vallejo	ゲームカラー	#eedb00	72005 005 ムーンイエロー
+vallejo	ゲームカラー	#e89c00	72006 006 サンイエロー
+vallejo	ゲームカラー	#e69001	72007 007 ゴールドイエロー
+vallejo	ゲームカラー	#de6517	72008 008 オレンジファイヤー
+vallejo	ゲームカラー	#dc5028	72009 009 ホットオレンジ
+vallejo	ゲームカラー	#b61b32	72010 010 ブラッディレッド
+vallejo	ゲームカラー	#763939	72011 011 ゴーリーレッド
+vallejo	ゲームカラー	#981e2d	72012 012 スカーレットレッド
+vallejo	ゲームカラー	#c681ad	72013 013 スクイッドピンク
+vallejo	ゲームカラー	#a62971	72014 014 ウォーロードパープル
+vallejo	ゲームカラー	#48287d	72015 015 ヘックスドライケン
+vallejo	ゲームカラー	#433f64	72016 016 ロイヤルパープル
+vallejo	ゲームカラー	#404378	72017 017 ダークブルー
+vallejo	ゲームカラー	#3d3d5c	72018 018 ストーミーブルー
+vallejo	ゲームカラー	#373748	72019 019 ナイトブルー
+vallejo	ゲームカラー	#304666	72020 020 インペリアルブルー
+vallejo	ゲームカラー	#0065a8	72021 021 マジックブルー
+vallejo	ゲームカラー	#155187	72022 022 ウルトラマリンブルー
+vallejo	ゲームカラー	#338aae	72023 023 エレクトリックブルー
+vallejo	ゲームカラー	#047c89	72024 024 ターコイズ
+vallejo	ゲームカラー	#329a7f	72025 025 フォールグリーン
+vallejo	ゲームカラー	#06816a	72026 026 ジェイドグリーン
+vallejo	ゲームカラー	#215753	72027 027 スカービーグリーン
+vallejo	ゲームカラー	#33443d	72028 028 ダークグリーン
+vallejo	ゲームカラー	#486f52	72029 029 シックグリーン
+vallejo	ゲームカラー	#687343	72030 030 ゴブリングリーン
+vallejo	ゲームカラー	#887d3c	72031 031 カムフラージュグリーン
+vallejo	ゲームカラー	#6ba24e	72032 032 エスコルピナグリーン
+vallejo	ゲームカラー	#8fbe55	72033 033 ライブリーグリーン
+vallejo	ゲームカラー	#cebc8f	72034 034 ボーンホワイト
+vallejo	ゲームカラー	#aea06b	72035 035 デッドフレッシュ
+vallejo	ゲームカラー	#bf8245	72036 036 ブロンズフレッシュトーン
+vallejo	ゲームカラー	#be8137	72037 037 フィルシーブラウン
+vallejo	ゲームカラー	#b5792e	72038 038 スクロフュラスブラウン
+vallejo	ゲームカラー	#c98e0b	72039 039 プレーグブラウン
+vallejo	ゲームカラー	#866539	72040 040 レザーブラウン
+vallejo	ゲームカラー	#d18d65	72041 041 ドワーフスキン
+vallejo	ゲームカラー	#9e5323	72042 042 パラサイトブラウン
+vallejo	ゲームカラー	#77583d	72043 043 ビースティーブラウン
+vallejo	ゲームカラー	#5f4038	72044 044 ダークフレッシュトーン
+vallejo	ゲームカラー	#4b3f3b	72045 045 チャードブラウン
+vallejo	ゲームカラー	#bac8d1	72046 046 ゴーストグレイ
+vallejo	ゲームカラー	#aabcc9	72047 047 ウルフグレイ
+vallejo	ゲームカラー	#5c6980	72048 048 ソンブルグレイ
+vallejo	ゲームカラー	#9d9da0	72049 049 ストーンウォールグレイ
+vallejo	ゲームカラー	#7c7c80	72050 050 コールドグレイ
+vallejo	ゲームカラー	#040000	72051 051 ブラック
+vallejo	ゲームカラー	#a3a9ae	72052 052 シルバー
+vallejo	ゲームカラー	#7c7c80	72053 053 チェインメイルシルバー
+vallejo	ゲームカラー	#63646a	72054 054 ガンメタル
+vallejo	ゲームカラー	#e3a900	72055 055 ポリッシュドゴールド
+vallejo	ゲームカラー	#976f31	72056 056 グロリアスゴールド
+vallejo	ゲームカラー	#91694b	72057 057 ブライトブロンズ
+vallejo	ゲームカラー	#855536	72058 058 ブラッシーブラス
+vallejo	ゲームカラー	#7a4733	72059 059 ハンマードカッパー
+vallejo	ゲームカラー	#4e2b2a	72060 060 ティニーティン
+vallejo	ゲームカラー	#a59c6f	72061 061 カーキ
+vallejo	ゲームカラー	#7b6345	72062 062 アース
+vallejo	ゲームカラー	#958745	72063 063 デザートイエロー
+vallejo	ゲームカラー	#4e5729	72064 064 イエローオリーブ
+vallejo	ゲームカラー	#6a3d38	72065 065 テラコッタ
+vallejo	ゲームカラー	#a55b4b	72066 066 タン
+vallejo	ゲームカラー	#5d5c45	72067 067 カイマングリーン
+vallejo	ゲームカラー	#2c2122	72068 068 スモーキーインク
+vallejo	ゲームカラー	#acc5e2	72095 095 グレイシャーブルー
+vallejo	ゲームカラー	#9dcfca	72096 096 ベルデグリ
+vallejo	ゲームカラー	#e2ca78	72097 097 ペールイエロー
+vallejo	ゲームカラー	#e4d5b3	72098 098 エルフィックフレッシュ
+vallejo	ゲームカラー	#ecab7d	72099 099 カドミウムスキン
+vallejo	ゲームカラー	#e29083	72100 100 ローズフレッシュ
+vallejo	ゲームカラー	#faf1d7	72101 101 オフホワイト
+vallejo	ゲームカラー	#3e657e	72102 102 スチールグレイ
+vallejo	ゲームカラー	#d2d725	72103 103 蛍光イエロー
+vallejo	ゲームカラー	#60ac44	72104 104 蛍光グリーン
+vallejo	ゲームカラー	#3f5846	72105 105 ミューテーショングリーン
+vallejo	ゲームカラー	#a53934	72106 106 スカーレットレッド
+GSIクレオス	Mrカラー	#FFFFFF	C1 ホワイト（白）	光沢 基本色
+GSIクレオス	Mrカラー	#231815	C2 ブラック（黒）	光沢 基本色
+GSIクレオス	Mrカラー	#E60012	C3 レッド（赤）	光沢 基本色
+GSIクレオス	Mrカラー	#FFE100	C4 イエロー（黄）	光沢 基本色
+GSIクレオス	Mrカラー	#0054A7	C5 ブルー（青）	光沢 基本色
+GSIクレオス	Mrカラー	#006830	C6 グリーン（緑）	光沢 基本色
+GSIクレオス	Mrカラー	#CA3929	C7 ブラウン（茶）	光沢 基本色
+GSIクレオス	Mrカラー	#DCDDDD	C8 シルバー（銀）	メタリック 基本色
+GSIクレオス	Mrカラー	#DFB603	C9 ゴールド（金）	メタリック 基本色
+GSIクレオス	Mrカラー	#CE722A	C10 カッパー（銅）	メタリック 基本色
+GSIクレオス	Mrカラー	#BDC3C4	C11 ガルグレー	半光沢 現用アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#685932	C12 オリーブドラブ（１）	半光沢 アメリカ陸・空軍機ほか
+GSIクレオス	Mrカラー	#75858D	C13 ニュートラルグレー	半光沢 アメリカ陸・空軍機下面色ほか
+GSIクレオス	Mrカラー	#004652	C14 ネービーブルー	半光沢 アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#00381F	C15 暗緑色（中島系）	半光沢 日本海軍機上面色
+GSIクレオス	Mrカラー	#004D39	C16 濃緑色	半光沢 日本陸軍機
+GSIクレオス	Mrカラー	#595A4E	C17 RLM71ダークグリーン	半光沢 ドイツ空軍機上面色
+GSIクレオス	Mrカラー	#213C50	C18 RLM70ブラックグリーン	半光沢 ドイツ空軍機上面色
+GSIクレオス	Mrカラー	#9F8237	C19 サンディブラウン	半光沢 ドイツ空軍機ほか
+GSIクレオス	Mrカラー	#48BAA0	C20 ライトブルー	半光沢 ドイツ空軍機下面ほか
+GSIクレオス	Mrカラー	#B39242	C21 ミドルストーン	半光沢 イギリス空軍機迷彩ほか
+GSIクレオス	Mrカラー	#504A3D	C22 ダークアース	半光沢 イギリス空軍機迷彩ほか
+GSIクレオス	Mrカラー	#405D48	C23 ダークグリーン（２）	半光沢 イギリス陸・空軍機迷彩ほか
+GSIクレオス	Mrカラー	#727A5E	C25 ダークシーグレー	半光沢 イギリス空軍機迷彩ほか
+GSIクレオス	Mrカラー	#D6E0AC	C26 ダックエッググリーン	半光沢 イギリス海・空軍機ほか
+GSIクレオス	Mrカラー	#B7A812	C27 機体内部色	半光沢 アメリカ陸・海軍機　機内ほか
+GSIクレオス	Mrカラー	#231815	C28 黒鉄色	メタリック 基本色
+GSIクレオス	Mrカラー	#552E35	C29 艦底色	半光沢 軍艦船底ほか
+GSIクレオス	Mrカラー	#FFFFFF	C30 フラットベース・スタンダード	つや消し つや消し用添加剤
+GSIクレオス	Mrカラー	#909694	C31 軍艦色（１）	半光沢 アメリカ海軍軍艦ほか
+GSIクレオス	Mrカラー	#3A555A	C32 軍艦色（２）	半光沢 横須賀海軍工廠標準色
+GSIクレオス	Mrカラー	#231815	C33 つや消しブラック	つや消し 基本色
+GSIクレオス	Mrカラー	#008CD6	C34 スカイブルー	光沢 基本色
+GSIクレオス	Mrカラー	#A6BBC7	C35 明灰白色（三菱系）	半光沢 日本海軍機　全面・下面色
+GSIクレオス	Mrカラー	#0A3D3E	C36 RLM74グレーグリーン	半光沢 WWIIドイツ空軍機上面色
+GSIクレオス	Mrカラー	#475D57	C37 RLM75グレーバイオレット	半光沢 WWIIドイツ空軍機上面色
+GSIクレオス	Mrカラー	#314836	C38 オリーブドラブ（２）	つや消し WWIIアメリカ戦車ほか
+GSIクレオス	Mrカラー	#BF9D5A	C39 ダークイエロー（サンディイエロー）	3/4つや消し WWIIドイツ戦車ほか
+GSIクレオス	Mrカラー	#113C41	C40 ジャーマングレー（フィールドグレー（１））	3/4つや消し WWIIドイツ戦車ほか
+GSIクレオス	Mrカラー	#4A2F32	C41 レッドブラウン	3/4つや消し WWIIドイツ戦車ほか
+GSIクレオス	Mrカラー	#3C3033	C42 マホガニー	半光沢 基本色
+GSIクレオス	Mrカラー	#6A4A31	C43 ウッドブラウン	半光沢 基本色
+GSIクレオス	Mrカラー	#CAA965	C44 タン	半光沢 船舶・軍艦甲板ほか
+GSIクレオス	Mrカラー	#BFB780	C45 セールカラー	半光沢 帆船ほか
+GSIクレオス	Mrカラー	#FFFFFF	C46 クリアー（透明）	光沢 光沢仕上げ用、基本色
+GSIクレオス	Mrカラー	#E60012	C47 クリアーレッド	光沢 基本色
+GSIクレオス	Mrカラー	#FFD900	C48 クリアーイエロー	光沢 基本色
+GSIクレオス	Mrカラー	#EB6100	C49 クリアーオレンジ	光沢 基本色
+GSIクレオス	Mrカラー	#00A0E9	C50 クリアーブルー	光沢 基本色
+GSIクレオス	Mrカラー	#E6B378	C51 薄茶色	光沢 人形ほか、基本色
+GSIクレオス	Mrカラー	#2A4E49	C52 フィールドグレー（２）	つや消し WWIIドイツ軍服服ほか
+GSIクレオス	Mrカラー	#21423A	C54 カーキグリーン	つや消し アメリカ陸軍軍服ほか
+GSIクレオス	Mrカラー	#4D5035	C55 カーキ	つや消し 日本、イギリス陸軍軍服ほか
+GSIクレオス	Mrカラー	#70A19A	C56 明灰緑色（中島系）	半光沢 日本陸軍機　全面・下面色
+GSIクレオス	Mrカラー	#00756A	C57 青竹色	メタリック 日本陸・海軍機内ほか
+GSIクレオス	Mrカラー	#EE7800	C58 黄橙色	半光沢 日本機識別マークほか
+GSIクレオス	Mrカラー	#E8320E	C59 オレンジ（橙）	光沢 基本色
+GSIクレオス	Mrカラー	#9F9D89	C60 RLM02グレー	半光沢 ドイツ空軍機　上面・機内色
+GSIクレオス	Mrカラー	#4C5053	C61 焼鉄色	メタリック 排気管ほか、基本色
+GSIクレオス	Mrカラー	#FFFFFF	C62 つや消しホワイト	つや消し 基本色
+GSIクレオス	Mrカラー	#EB6D94	C63 ピンク（桃）	光沢 基本色
+GSIクレオス	Mrカラー	#00A33B	C64 ルマングリーン（黄緑）	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#004098	C65 インディブルー	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#009944	C66 デイトナグリーン	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#3C2280	C67 パープル（紫）	光沢 基本色
+GSIクレオス	Mrカラー	#D80C18	C68 モンザレッド	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#F9F8F4	C69 グランプリホワイト	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#21423A	C70 ダークグリーン	3/4つや消し WWIIドイツ戦車
+GSIクレオス	Mrカラー	#1F4247	C71 ミッドナイトブルー	光沢 アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#164D59	C72 ミディアムブルー	半光沢 アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#729A96	C73 エアクラフトグレー	光沢 現用アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#036D79	C74 エアスペリオリティーブルー	光沢 現用アメリカ海軍機ほか
+GSIクレオス	Mrカラー	#B01F24	C75 メタリックレッド	メタリック 自動車ほか、基本色
+GSIクレオス	Mrカラー	#004EA2	C76 メタリックブルー	メタリック 自動車ほか、基本色
+GSIクレオス	Mrカラー	#00894F	C77 メタリックグリーン	メタリック 自動車ほか、基本色
+GSIクレオス	Mrカラー	#231815	C78 メタルブラック	メタリック 自動車ほか
+GSIクレオス	Mrカラー	#E60012	C79 シャインレッド	光沢 基本色
+GSIクレオス	Mrカラー	#1D2088	C80 コバルトブルー	光沢 基本色
+GSIクレオス	Mrカラー	#772A31	C81 あずき色（赤２号）	光沢 電車ほか
+GSIクレオス	Mrカラー	#D3D3D4	C90 シャインシルバー	メタリック 基本色
+GSIクレオス	Mrカラー	#231815	C92 セミグロスブラック	半光沢 基本色
+GSIクレオス	Mrカラー	#B2BEB2	C97 灰色９号	光沢 電車各部ほか
+GSIクレオス	Mrカラー	#AF1E32	C100 マルーン	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#3D3226	C101 スモークグレー	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#B1BFC4	C104 ガンクローム	メタリック エンジンほか
+GSIクレオス	Mrカラー	#F5F6F4	C107 キャラクターホワイト	半光沢 基本色
+GSIクレオス	Mrカラー	#C8161E	C108 キャラクターレッド	半光沢 基本色
+GSIクレオス	Mrカラー	#F08300	C109 キャラクターイエロー	半光沢 基本色
+GSIクレオス	Mrカラー	#004098	C110 キャラクターブルー	半光沢 基本色
+GSIクレオス	Mrカラー	#FCE4D6	C111 キャラクターフレッシュ（１）	半光沢 基本色
+GSIクレオス	Mrカラー	#F6BCB8	C112 キャラクターフレッシュ（２）	半光沢 基本色
+GSIクレオス	Mrカラー	#F6AB00	C113 RLM04イエロー	半光沢 ドイツ機マーク
+GSIクレオス	Mrカラー	#C8113E	C114 RLM23レッド	半光沢 ドイツ機マーク
+GSIクレオス	Mrカラー	#779AA8	C115 RLM65ライトブルー	半光沢 ドイツ機下面色1936～
+GSIクレオス	Mrカラー	#373434	C116 RLM66ブラックグレー	半光沢 ドイツ機機内ほか
+GSIクレオス	Mrカラー	#BFD5D4	C117 RLM76ライトブルー	半光沢 ドイツ機下面色1941～
+GSIクレオス	Mrカラー	#80A6B6	C118 RLM78ライトブルー	半光沢 ドイツ機下面色トロピカル
+GSIクレオス	Mrカラー	#937055	C119 RLM79サンドイエロー	半光沢 ドイツ機上面色
+GSIクレオス	Mrカラー	#0D3E2C	C120 RLM80オリーブグリーン	半光沢 ドイツ機上面色
+GSIクレオス	Mrカラー	#595A4E	C121 RLM81ブラウンバイオレット	半光沢 ドイツ機上面色
+GSIクレオス	Mrカラー	#5C8352	C122 RLM82ライトグリーン	半光沢 ドイツ機上面色
+GSIクレオス	Mrカラー	#25554B	C123 RLM83ダークグリーン	半光沢 ドイツ機上面色
+GSIクレオス	Mrカラー	#004D20	C124 暗緑色（三菱系）	半光沢 日本海軍機上面色
+GSIクレオス	Mrカラー	#000000	C125 カウリング色	半光沢 日本機カウリング
+GSIクレオス	Mrカラー	#456441	C126 コクピット色（三菱系）	半光沢 日本機コクピット
+GSIクレオス	Mrカラー	#A9B779	C127 コクピット色（中島系）	半光沢 日本機コクピット
+GSIクレオス	Mrカラー	#B1B6A7	C128 灰緑色	半光沢 日本陸軍機全面・下面色
+GSIクレオス	Mrカラー	#45644D	C129 濃緑色（中島系）	半光沢 日本陸軍機上面色
+GSIクレオス	Mrカラー	#495D40	C130 濃緑色（川崎系）	半光沢 日本陸軍機上面色
+GSIクレオス	Mrカラー	#501D11	C131 赤褐色	半光沢 日本機プロペラ
+GSIクレオス	Mrカラー	#685A32	C132 土草色	つや消し 日本戦車
+GSIクレオス	Mrカラー	#21944A	C135 ロシアングリーン（１）	つや消し WWII前期ソ連戦車
+GSIクレオス	Mrカラー	#225A42	C136 ロシアングリーン（２）	つや消し WWII後期ソ連戦車
+GSIクレオス	Mrカラー	#000000	C137 タイヤブラック	つや消し 基本色
+GSIクレオス	Mrカラー	#009944	C138 クリアーグリーン	光沢 基本色
+GSIクレオス	Mrカラー	#FFFFFF	C151 ホワイトパール	パールコート用 自動車ほか２コート
+GSIクレオス	Mrカラー	#FFFFFF	C156 スーパーホワイト	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#D70D19	C158 スーパーイタリアンレッド	光沢 自動車ほか、基本色
+GSIクレオス	Mrカラー	#DCDDDD	C159 スーパーシルバー	メタリック 自動車ほか（エアブラシ用）、２コート
+GSIクレオス	Mrカラー	#E60013	C171 蛍光レッド	半光沢 基本色
+GSIクレオス	Mrカラー	#FFF100	C172 蛍光イエロー	半光沢 基本色
+GSIクレオス	Mrカラー	#E71A11	C173 蛍光オレンジ	半光沢 基本色
+GSIクレオス	Mrカラー	#E5006A	C174 蛍光ピンク	半光沢 基本色
+GSIクレオス	Mrカラー	#009944	C175 蛍光グリーン	半光沢 基本色
+GSIクレオス	Mrカラー	#FFFFFF	C181 スーパークリア半光沢	半光沢 基本色・コート用
+GSIクレオス	Mrカラー	#FFFFFF	C182 スーパークリアーつや消し	つや消し 基本色・コート用
+GSIクレオス	Mrカラー	#F4F5F6	C183 スーパークリアーグレートーン	つや消し 基本色・コート用
+GSIクレオス	Mrカラー	#FFFFFF	C188 フラットベースあらめ・ラフ	つや消し つや消し用添加剤
+GSIクレオス	Mrカラー	#FFFFFF	C189 フラットベースなめらか・スムース	つや消し つや消し用添加剤
+GSIクレオス	Mrカラー	#243C45	C301 グレーFS36081	半光沢 チャコールリザード迷彩色
+GSIクレオス	Mrカラー	#255450	C302 グリーンFS34092	半光沢 チャコールリザード迷彩色
+GSIクレオス	Mrカラー	#475D51	C303 グリーンFS34102	半光沢 チャコールリザード迷彩色
+GSIクレオス	Mrカラー	#373C35	C304 オリーブドラブFS34087	半光沢 ウェポン用
+GSIクレオス	Mrカラー	#406B68	C305 グレーFS36118	半光沢 アメリカ制空迷彩色
+GSIクレオス	Mrカラー	#688887	C306 グレーFS36270	半光沢 アメリカ制空迷彩色
+GSIクレオス	Mrカラー	#67888F	C307 グレーFS36320	半光沢 アメリカ制空迷彩色
+GSIクレオス	Mrカラー	#819E9F	C308 グレーFS36375	半光沢 アメリカ制空迷彩色
+GSIクレオス	Mrカラー	#255450	C309 グリーンFS34079	半光沢 ベトナム迷彩色
+GSIクレオス	Mrカラー	#72624E	C310 ブラウンFS30219	半光沢 ベトナム迷彩色
+GSIクレオス	Mrカラー	#EAEBD5	C311 グレーFS36622	半光沢 ベトナム迷彩色
+GSIクレオス	Mrカラー	#29845D	C312 グリーンFS34227	半光沢 イスラエル砂漠迷彩色
+GSIクレオス	Mrカラー	#E8C589	C313 イエローFS33531	半光沢 イスラエル砂漠迷彩色
+GSIクレオス	Mrカラー	#EBF4EB	C314 ブルーFS35622	半光沢 イスラエル砂漠迷彩色
+GSIクレオス	Mrカラー	#99ADA4	C315 グレーFS16440	光沢 アメリカ海軍標準塗装色
+GSIクレオス	Mrカラー	#FFFFFF	C316 ホワイトFS17875	光沢 アメリカ海軍標準塗装色
+GSIクレオス	Mrカラー	#6D786A	C317 グレーFS36231	つや消し アメリカ海軍標準塗装色
+GSIクレオス	Mrカラー	#FCD68C	C318 レドーム	半光沢 アメリカ海軍標準塗装色
+GSIクレオス	Mrカラー	#0F6D58	C319 薄松葉色	半光沢 航空自衛隊F-1迷彩色
+GSIクレオス	Mrカラー	#3A5645	C320 濃松葉色	半光沢 航空自衛隊F-1迷彩色
+GSIクレオス	Mrカラー	#B4926A	C321 黄土色	半光沢 航空自衛隊F-1迷彩色
+GSIクレオス	Mrカラー	#173551	C322 フタロシアニンブルー	光沢 T-2ブルーインパルスカラー
+GSIクレオス	Mrカラー	#00B0EC	C323 ライトブルー	光沢 T-2ブルーインパルスカラー
+GSIクレオス	Mrカラー	#8CA9A3	C324 ライトグレー	つや消し 航空自衛隊機内色
+GSIクレオス	Mrカラー	#A6B1A4	C325 グレーFS26440	半光沢 航空自衛隊T-1迷彩色
+GSIクレオス	Mrカラー	#1E3046	C326 ブルーFS15044	光沢 サンダーバーズカラー
+GSIクレオス	Mrカラー	#9e2428	C327 レッドFS11136	光沢 サンダーバーズカラー
+GSIクレオス	Mrカラー	#173551	C328 ブルーFS15050	光沢 ブルーエンジェルスカラー
+GSIクレオス	Mrカラー	#F5A100	C329 イエローFS13538	光沢 ブルーエンジェルスカラー
+GSIクレオス	Mrカラー	#2F4848	C330 ダークグリーンBS381C/641	半光沢 イギリス空軍迷彩色
+GSIクレオス	Mrカラー	#4A575A	C331 ダークシーグレーBS381C/638	半光沢 イギリス空軍迷彩色
+GSIクレオス	Mrカラー	#9CA398	C332 ライトエアクラフトグレーBS381C/627	半光沢 イギリス空軍迷彩色
+GSIクレオス	Mrカラー	#1A4752	C333 エクストラダークシーグレーBS381C/640	半光沢 イギリス海軍迷彩色
+GSIクレオス	Mrカラー	#829693	C334 バリーグレーBS4800/18B21	半光沢 イギリス空軍F-4ファントム、ライトニングほか
+GSIクレオス	Mrカラー	#5E7678	C335 ミディアムシーグレーBS381C/637	半光沢 イギリス空軍バルカンほか
+GSIクレオス	Mrカラー	#688E6B	C336 ヘンプBS4800/10B21	半光沢 イギリス空軍ビクター、ニムロッドほか
+GSIクレオス	Mrカラー	#317179	C337 グレイッシュブルーFS35237	半光沢 F-14 アメリカ海軍F-18
+GSIクレオス	Mrカラー	#BDC3C4	C338 ライトグレーFS36495	半光沢 アメリカ海軍F-18ほか
+GSIクレオス	Mrカラー	#1A4752	C339 エンジングレーFS16081	光沢 アメリカ海軍シースプライトP-2Jほか
+GSIクレオス	Mrカラー	#26553D	C340 フィールドグリーンFS34097	半光沢 アメリカ海兵隊コブラほか

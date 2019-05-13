@@ -22,8 +22,7 @@
 
         <!--  WindowのContentRenderedイベントのタイミングでViewModelのInitializeメソッドが呼ばれます  -->
         <i:EventTrigger EventName="ContentRendered">
-            <l:LivetCallMethodAction MethodName="Initialize"
-                                     MethodTarget="{Binding}" />
+            <l:LivetCallMethodAction MethodName="Initialize" MethodTarget="{Binding}" />
         </i:EventTrigger>
 
         <!--  Windowが閉じたタイミングでViewModelのDisposeメソッドが呼ばれます  -->
@@ -36,78 +35,102 @@
     </i:Interaction.Triggers>
 
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="80" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
-            <RowDefinition Height="39*" />
-            <RowDefinition Height="256*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <Menu x:Name="menu">
+        <Menu x:Name="menu" Grid.ColumnSpan="2">
             <MenuItem Header="File">
                 <MenuItem Header="Exit" />
             </MenuItem>
         </Menu>
 
-        <Button x:Name="button"
-                Grid.Row="1"
-                Width="75"
-                Height="20"
-                Margin="432,10,0,0"
-                HorizontalAlignment="Left"
-                VerticalAlignment="Top"
-                Content="Button" />
+        <Rectangle Grid.Row="1" Margin="5,5,5,0" Stroke="Black">
+            <Rectangle.Fill>
+                <!--  todo FindPaint.Value が null の時  -->
+                <SolidColorBrush Color="{Binding FindPaint.Value.Color}" />
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock Grid.Row="1" Grid.Column="1" Margin="5" Text="{Binding FindPaint.Value.ColorName}" />
 
-        <ListView x:Name="listView"
-                  Grid.Row="2"
-                  ItemsSource="{Binding PaintList}">
-            <ListView.View>
-                <GridView>
-                    <GridViewColumn Header="Color">
-                        <GridViewColumn.CellTemplate>
-                            <DataTemplate>
-                                <Rectangle Width="50"
-                                           Height="20">
-                                    <Rectangle.Fill>
-                                        <SolidColorBrush Color="{Binding Color, Mode=OneWay}" />
-                                    </Rectangle.Fill>
-                                </Rectangle>
-                            </DataTemplate>
-                        </GridViewColumn.CellTemplate>
-                    </GridViewColumn>
-                    <GridViewColumn DisplayMemberBinding="{Binding ColorCode}"
-                                    Header="Code" />
-                    <GridViewColumn DisplayMemberBinding="{Binding ColorName}"
-                                    Header="Name" />
-                    <GridViewColumn Header="H">
-                        <GridViewColumn.CellTemplate>
-                            <DataTemplate>
-                                <TextBlock Text="{Binding Hue, Mode=OneWay}"
-                                           TextAlignment="Right" />
-                            </DataTemplate>
-                        </GridViewColumn.CellTemplate>
-                    </GridViewColumn>
-                    <GridViewColumn Header="S">
-                        <GridViewColumn.CellTemplate>
-                            <DataTemplate>
-                                <TextBlock Text="{Binding Saturation, Mode=OneWay}"
-                                           TextAlignment="Right" />
-                            </DataTemplate>
-                        </GridViewColumn.CellTemplate>
-                    </GridViewColumn>
-                    <GridViewColumn Header="L">
-                        <GridViewColumn.CellTemplate>
-                            <DataTemplate>
-                                <TextBlock Text="{Binding Lightness, Mode=OneWay}"
-                                           TextAlignment="Right" />
-                            </DataTemplate>
-                        </GridViewColumn.CellTemplate>
-                    </GridViewColumn>
-                </GridView>
-            </ListView.View>
-        </ListView>
+        <Rectangle Grid.Row="2" Margin="5,0,5,5" Stroke="Black">
+            <Rectangle.Fill>
+                <!--  todo SelectedPaint.Value が null の時  -->
+                <SolidColorBrush Color="{Binding SelectedPaint.Value.Color}" />
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock Grid.Row="2" Grid.Column="1" Margin="5" Text="{Binding SelectedPaint.Value.ColorName}" />
 
-        <StatusBar Grid.Row="3">
+        <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <TextBlock Margin="10,0,5,0" VerticalAlignment="Center" Text="大分類" />
+            <ComboBox Width="120" Height="22" Margin="0,5" ItemsSource="{Binding MakerList}" SelectedItem="{Binding MakerFilterStr.Value}">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="SelectionChanged">
+                        <l:LivetCallMethodAction MethodName="FilterChanged" MethodTarget="{Binding}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </ComboBox>
+            <TextBlock Margin="10,0,5,0" VerticalAlignment="Center" Text="小分類" />
+            <ComboBox Width="120" Height="22" Margin="0,5" ItemsSource="{Binding SeriesList}" SelectedItem="{Binding SeriesFilterStr.Value}">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="SelectionChanged">
+                        <l:LivetCallMethodAction MethodName="FilterChanged" MethodTarget="{Binding}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </ComboBox>
+        </StackPanel>
+
+        <DataGrid Grid.Row="4"
+                  Grid.ColumnSpan="2"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  ItemsSource="{Binding PaintList}"
+                  SelectedItem="{Binding SelectedPaint.Value}"
+                  SelectionMode="Single">
+
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <l:LivetCallMethodAction MethodName="FindPaintChanged" MethodTarget="{Binding}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Code">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Background">
+                                <Setter.Value>
+                                    <SolidColorBrush Color="{Binding Color}" />
+                                </Setter.Value>
+                            </Setter>
+                            <Setter Property="Margin" Value="2,0" />
+                            <Setter Property="Text" Value="{Binding ColorCode}" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Width="2*" Binding="{Binding ColorName}" Header="Name" />
+                <DataGridTextColumn Width="*" Binding="{Binding Note}" Header="Note" />
+                <DataGridTextColumn Binding="{Binding DeltaE, StringFormat=f2}" Header="ΔE">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Margin" Value="2,0" />
+                            <Setter Property="TextAlignment" Value="Right" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StatusBar Grid.Row="5" Grid.ColumnSpan="2">
             <StatusBarItem Content="{Binding Clock}" />
         </StatusBar>
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ColorMine.ColorSpaces;
 
 namespace PaintColorSelector.Models
 {
@@ -39,8 +40,24 @@ namespace PaintColorSelector.Models
 					saturation = 255 * (max - min) / (510 - max - min);
 				}
 			}
-
 			return (hue, saturation, lightness);
+		}
+	}
+
+	public static class Extensions
+	{
+		public static void Deconstruct(this Hsl hsl, out double h, out double s, out double l)
+		{
+			h = hsl.H;
+			s = hsl.S;
+			l = hsl.L;
+		}
+
+		public static void Deconstruct(this Lab lab, out double l, out double a, out double b)
+		{
+			l = lab.L;
+			a = lab.A;
+			b = lab.B;
 		}
 	}
 }

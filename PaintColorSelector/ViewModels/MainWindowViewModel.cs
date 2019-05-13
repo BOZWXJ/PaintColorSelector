@@ -15,6 +15,8 @@ using PaintColorSelector.Models;
 using System.Threading.Tasks;
 using System.Threading;
 using System.Collections.ObjectModel;
+using Reactive.Bindings;
+using Reactive.Bindings.Extensions;
 
 namespace PaintColorSelector.ViewModels
 {
@@ -63,13 +65,35 @@ namespace PaintColorSelector.ViewModels
          * 自動的にUIDispatcher上での通知に変換されます。変更通知に際してUIDispatcherを操作する必要はありません。
          */
 
-		Models.AppContext model;
+		private Models.AppContext model;
+
+		public MainWindowViewModel()
+		{
+			model = Models.AppContext.Instance;
+			PaintList = model.PaintList.FilterdPaints
+				.ToReadOnlyReactiveCollection()
+				.AddTo(CompositeDisposable);
+			MakerList = model.PaintList.MakerList
+				.ToReadOnlyReactiveCollection()
+				.AddTo(CompositeDisposable);
+			MakerFilterStr = model.PaintList
+				.ToReactivePropertyAsSynchronized(p => p.MakerFilterStr)
+				.AddTo(CompositeDisposable);
+			SeriesList = model.PaintList.SeriesList
+				.ToReadOnlyReactiveCollection()
+				.AddTo(CompositeDisposable);
+			SeriesFilterStr = model.PaintList
+				.ToReactivePropertyAsSynchronized(p => p.SeriesFilterStr)
+				.AddTo(CompositeDisposable);
+			SelectedPaint = new ReactiveProperty<Paint>()
+				.AddTo(CompositeDisposable);
+			FindPaint = new ReactiveProperty<Paint>()
+				.AddTo(CompositeDisposable);
+		}
 
 		public void Initialize()
 		{
-			model = Models.AppContext.Instance;
-			PaintList = ViewModelHelper.CreateReadOnlyDispatcherCollection(model.Paints, m => m, DispatcherHelper.UIDispatcher);
-
+			// 
 			Task.Run(() => {
 				while (true) {
 					Clock = DateTime.Now.ToString();
@@ -78,12 +102,58 @@ namespace PaintColorSelector.ViewModels
 			});
 		}
 
-		public ReadOnlyDispatcherCollection<Paint> PaintList
+		/// <summary>
+		/// カラーリスト
+		/// </summary>
+		public ReadOnlyReactiveCollection<Paint> PaintList { get; private set; }
+
+		// フィルター処理
+
+		/// <summary>
+		/// 大分類 フィルターリスト
+		/// </summary>
+		public ReadOnlyReactiveCollection<string> MakerList { get; private set; }
+		/// <summary>
+		/// 大分類 選択項目
+		/// </summary>
+		public ReactiveProperty<string> MakerFilterStr { get; private set; }
+		/// <summary>
+		/// 小分類 フィルターリスト
+		/// </summary>
+		public ReadOnlyReactiveCollection<string> SeriesList { get; private set; }
+		/// <summary>
+		/// 小分類 選択項目
+		/// </summary>
+		public ReactiveProperty<string> SeriesFilterStr { get; private set; }
+		/// <summary>
+		/// フィルター変更
+		/// </summary>
+		public void FilterChanged()
 		{
-			get => _PaintList;
-			set => RaisePropertyChangedIfSet(ref _PaintList, value);
+			model.PaintList.FilterChanged();
 		}
-		private ReadOnlyDispatcherCollection<Paint> _PaintList;
+
+		// 基準カラー処理
+
+		/// <summary>
+		/// 選択カラー
+		/// </summary>
+		public ReactiveProperty<Paint> SelectedPaint { get; private set; }
+
+		/// <summary>
+		/// 検索カラー
+		/// </summary>
+		public ReactiveProperty<Paint> FindPaint { get; private set; }
+		/// <summary>
+		/// 検索カラー設定
+		/// </summary>
+		public void FindPaintChanged()
+		{
+			FindPaint.Value = SelectedPaint.Value;
+			model.PaintList.ReferenceColorChanged(FindPaint.Value.Lab);
+		}
+
+
 
 		public string Clock
 		{
@@ -91,9 +161,6 @@ namespace PaintColorSelector.ViewModels
 			private set => RaisePropertyChangedIfSet(ref _Clock, value);
 		}
 		private string _Clock;
-
-		
-
 
 	}
 }

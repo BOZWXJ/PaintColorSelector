@@ -5,33 +5,21 @@ using System.Linq;
 using System.Text;
 
 using Livet;
+using System.Collections.ObjectModel;
 
 namespace PaintColorSelector.Models
 {
 	public class AppContext : NotificationObject
 	{
-		//* NotificationObjectはプロパティ変更通知の仕組みを実装したオブジェクトです。
+		// NotificationObjectはプロパティ変更通知の仕組みを実装したオブジェクトです。
 
 		public static AppContext Instance { get; } = new AppContext();
 		private AppContext()
 		{
-			foreach (var paint in PaintListFile.Read(PaintListPath)) {
-				Paints.Add(paint);
-				System.Diagnostics.Debug.WriteLine(paint);
-			}
-
+			PaintList = new PaintList();
 		}
 
-		/// <summary>
-		/// 
-		/// </summary>
-		readonly string PaintListPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Data\PaintList.txt");
-
-		/// <summary>
-		/// 
-		/// </summary>
-		public ObservableSynchronizedCollection<Paint> Paints { get; private set; } = new ObservableSynchronizedCollection<Paint>();
-
+		public PaintList PaintList { get; private set; }
 
 	}
 }

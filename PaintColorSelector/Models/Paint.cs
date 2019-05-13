@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Windows.Media;
+using ColorMine.ColorSpaces;
 using Livet;
 
 namespace PaintColorSelector.Models
 {
 	public class Paint : NotificationObject
 	{
-		//* NotificationObjectはプロパティ変更通知の仕組みを実装したオブジェクトです。
-
 		/// <summary>
 		/// メーカー
 		/// </summary>
@@ -65,12 +64,6 @@ namespace PaintColorSelector.Models
 		}
 		private string _Note;
 
-		private void SetColorCode(string colorCode)
-		{
-			Color = (Color)ColorConverter.ConvertFromString(colorCode);
-			(Hue, Saturation, Lightness) = Utility.ConvertHSL(Color.R, Color.G, Color.B);
-		}
-
 		/// <summary>
 		/// サンプルカラー
 		/// </summary>
@@ -82,17 +75,24 @@ namespace PaintColorSelector.Models
 		private Color _Color;
 
 		/// <summary>
-		/// 色相
+		/// CIE L*a*b*
 		/// </summary>
-		public int Hue { get; private set; }
+		public Lab Lab
+		{
+			get => _Lab;
+			set => RaisePropertyChangedIfSet(ref _Lab, value);
+		}
+		private Lab _Lab;
+
 		/// <summary>
-		/// 彩度
+		/// ΔE
 		/// </summary>
-		public int Saturation { get; private set; }
-		/// <summary>
-		/// 輝度
-		/// </summary>
-		public int Lightness { get; private set; }
+		public double DeltaE
+		{
+			get => _DeltaE;
+			set => RaisePropertyChangedIfSet(ref _DeltaE, value);
+		}
+		private double _DeltaE;
 
 		public override string ToString()
 		{
@@ -103,6 +103,18 @@ namespace PaintColorSelector.Models
 		{
 			string[] vs = s.Split('\t');
 			return new Paint() { Maker = vs[0], Series = vs[1], ColorCode = vs[2], ColorName = vs[3], Note = vs.Length >= 5 ? vs[4] : "" };
+		}
+
+		private void SetColorCode(string colorCode)
+		{
+			Color = (Color)ColorConverter.ConvertFromString(colorCode);
+			var rgb = new Rgb {
+				R = Color.R,
+				G = Color.G,
+				B = Color.B
+			};
+			Lab = rgb.To<Lab>();
+			DeltaE = 0;
 		}
 
 	}

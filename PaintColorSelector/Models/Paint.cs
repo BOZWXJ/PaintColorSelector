@@ -102,6 +102,9 @@ namespace PaintColorSelector.Models
 		public static Paint FromString(string s)
 		{
 			string[] vs = s.Split('\t');
+			if (vs.Length < 4) {
+				throw new NotImplementedException();
+			}
 			return new Paint() { Maker = vs[0], Series = vs[1], ColorCode = vs[2], ColorName = vs[3], Note = vs.Length >= 5 ? vs[4] : "" };
 		}
 

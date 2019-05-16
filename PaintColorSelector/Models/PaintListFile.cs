@@ -13,7 +13,9 @@ namespace PaintColorSelector.Models
 		{
 			List<Paint> list = new List<Paint>();
 			foreach (var s in File.ReadLines(path)) {
-				list.Add(Paint.FromString(s));
+				if (!string.IsNullOrWhiteSpace(s)) {
+					list.Add(Paint.FromString(s));
+				}
 			}
 			return list.ToArray();
 		}

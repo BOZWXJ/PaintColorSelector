@@ -1,4 +1,5 @@
-﻿using PaintColorSelector.ViewModels;
+﻿using PaintColorSelector.Models;
+using PaintColorSelector.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,6 +32,42 @@ namespace PaintColorSelector.Views
 		public MainWindow()
 		{
 			InitializeComponent();
+
+			viewSource = (CollectionViewSource)Resources["PaintListViewSource"];
+		}
+
+		CollectionViewSource viewSource;
+
+		private void PaintListDataGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+		{
+			// VM にイベント送信 検索カラー設定 ΔE 計算
+			ViewModel.FindPaintChange();
+
+			// DataGrid ΔE 列でソート
+			viewSource.SortDescriptions.Clear();
+			viewSource.SortDescriptions.Add(new System.ComponentModel.SortDescription() { PropertyName = "DeltaE", Direction = System.ComponentModel.ListSortDirection.Ascending });
+
+			// DataGrid 先頭行にスクロール
+			PaintListDataGrid.ScrollIntoView(viewSource.View.CurrentItem);
+		}
+
+		private void MenuItem_Click(object sender, RoutedEventArgs e)
+		{
+			viewSource.View.Filter = p => { return MakerListBox.SelectedItems.Contains(((Paint)p).Maker); };
+		}
+
+		private void MakerListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		{
+			System.Diagnostics.Debug.WriteLine("MakerListBox_SelectionChanged()");
+			// 
+			// 
+		}
+
+		private void SeriesListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		{
+			System.Diagnostics.Debug.WriteLine("SeriesListBox_SelectionChanged()");
+
+
 		}
 	}
 }

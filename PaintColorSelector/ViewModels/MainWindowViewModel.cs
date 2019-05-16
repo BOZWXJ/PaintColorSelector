@@ -70,21 +70,24 @@ namespace PaintColorSelector.ViewModels
 		public MainWindowViewModel()
 		{
 			model = Models.AppContext.Instance;
-			PaintList = model.PaintList.FilterdPaints
+
+			PaintList = model.PaintList.Paints
 				.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
-			MakerList = model.PaintList.MakerList
+
+			MakerList = model.PaintList.PaintFilter.MakerList
 				.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
-			MakerFilterStr = model.PaintList
-				.ToReactivePropertyAsSynchronized(p => p.MakerFilterStr)
-				.AddTo(CompositeDisposable);
-			SeriesList = model.PaintList.SeriesList
+			SelectedMakerList = model.PaintList.PaintFilter.SelectedMakerList
 				.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
-			SeriesFilterStr = model.PaintList
-				.ToReactivePropertyAsSynchronized(p => p.SeriesFilterStr)
+			SeriesList = model.PaintList.PaintFilter.SeriesList
+				.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
+			SelectedSeriesList = model.PaintList.PaintFilter.SelectedSeriesList
+				.ToReadOnlyReactiveCollection()
+				.AddTo(CompositeDisposable);
+
 			SelectedPaint = new ReactiveProperty<Paint>()
 				.AddTo(CompositeDisposable);
 			FindPaint = new ReactiveProperty<Paint>()
@@ -107,33 +110,7 @@ namespace PaintColorSelector.ViewModels
 		/// </summary>
 		public ReadOnlyReactiveCollection<Paint> PaintList { get; private set; }
 
-		// フィルター処理
-
-		/// <summary>
-		/// 大分類 フィルターリスト
-		/// </summary>
-		public ReadOnlyReactiveCollection<string> MakerList { get; private set; }
-		/// <summary>
-		/// 大分類 選択項目
-		/// </summary>
-		public ReactiveProperty<string> MakerFilterStr { get; private set; }
-		/// <summary>
-		/// 小分類 フィルターリスト
-		/// </summary>
-		public ReadOnlyReactiveCollection<string> SeriesList { get; private set; }
-		/// <summary>
-		/// 小分類 選択項目
-		/// </summary>
-		public ReactiveProperty<string> SeriesFilterStr { get; private set; }
-		/// <summary>
-		/// フィルター変更
-		/// </summary>
-		public void FilterChanged()
-		{
-			model.PaintList.FilterChanged();
-		}
-
-		// 基準カラー処理
+		#region 基準カラー処理
 
 		/// <summary>
 		/// 選択カラー
@@ -144,17 +121,44 @@ namespace PaintColorSelector.ViewModels
 		/// 検索カラー
 		/// </summary>
 		public ReactiveProperty<Paint> FindPaint { get; private set; }
+
 		/// <summary>
 		/// 検索カラー設定
 		/// </summary>
-		public void FindPaintChanged()
+		public void FindPaintChange()
 		{
 			FindPaint.Value = SelectedPaint.Value;
-			model.PaintList.ReferenceColorChanged(FindPaint.Value.Lab);
+			model.PaintList.ReferenceColorChange(FindPaint.Value.Lab);
 		}
 
+		#endregion
+
+		#region フィルター処理
+
+		/// <summary>
+		/// 大分類 フィルターリスト
+		/// </summary>
+		public ReadOnlyReactiveCollection<string> MakerList { get; private set; }
+		public ReadOnlyReactiveCollection<string> SelectedMakerList { get; private set; }
+		/// <summary>
+		/// 小分類 フィルターリスト
+		/// </summary>
+		public ReadOnlyReactiveCollection<string> SeriesList { get; private set; }
+		public ReadOnlyReactiveCollection<string> SelectedSeriesList { get; private set; }
 
 
+		/// <summary>
+		/// フィルター変更
+		/// </summary>
+		public void MakerFilterChange()
+		{
+
+
+		}
+
+		#endregion
+
+		// debug: Clock
 		public string Clock
 		{
 			get => _Clock;

@@ -7,12 +7,21 @@
         xmlns:v="clr-namespace:PaintColorSelector.Views"
         xmlns:vm="clr-namespace:PaintColorSelector.ViewModels"
         Title="MainWindow"
-        Width="525"
-        Height="350">
+        Width="640"
+        Height="480">
 
     <Window.DataContext>
-        <vm:MainWindowViewModel />
+        <vm:MainWindowViewModel x:Name="ViewModel" />
     </Window.DataContext>
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Style/CheckedListBoxStyle.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <CollectionViewSource x:Key="PaintListViewSource" Source="{Binding PaintList}" />
+        </ResourceDictionary>
+    </Window.Resources>
 
     <i:Interaction.Triggers>
 
@@ -35,12 +44,7 @@
     </i:Interaction.Triggers>
 
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="Auto" MinWidth="80" />
-            <ColumnDefinition />
-        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
@@ -48,61 +52,105 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <Menu x:Name="menu" Grid.ColumnSpan="2">
+        <!--  0 Menu  -->
+        <Menu>
             <MenuItem Header="File">
                 <MenuItem Header="Exit" />
             </MenuItem>
+            <MenuItem Header="Debug">
+                <MenuItem Click="MenuItem_Click" Header="Test1" />
+                <MenuItem Header="Test2" />
+                <MenuItem Header="Test3" />
+            </MenuItem>
         </Menu>
 
-        <Rectangle Grid.Row="1" Margin="5,5,5,0" Stroke="Black">
-            <Rectangle.Fill>
-                <!--  todo FindPaint.Value が null の時  -->
-                <SolidColorBrush Color="{Binding FindPaint.Value.Color}" />
-            </Rectangle.Fill>
-        </Rectangle>
-        <TextBlock Grid.Row="1" Grid.Column="1" Margin="5" Text="{Binding FindPaint.Value.ColorName}" />
+        <!--  1 Paint  -->
+        <Grid Grid.Row="1" Margin="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
 
-        <Rectangle Grid.Row="2" Margin="5,0,5,5" Stroke="Black">
-            <Rectangle.Fill>
-                <!--  todo SelectedPaint.Value が null の時  -->
-                <SolidColorBrush Color="{Binding SelectedPaint.Value.Color}" />
-            </Rectangle.Fill>
-        </Rectangle>
-        <TextBlock Grid.Row="2" Grid.Column="1" Margin="5" Text="{Binding SelectedPaint.Value.ColorName}" />
+            <Rectangle Grid.Row="0" Grid.RowSpan="2" Grid.Column="0" Stroke="Black">
+                <Rectangle.Fill>
+                    <!--  todo FindPaint.Value が null の時  -->
+                    <SolidColorBrush Color="{Binding FindPaint.Value.Color}" />
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock Grid.Row="0" Grid.Column="2" Text="{Binding FindPaint.Value.ColorName}" />
+            <TextBlock Grid.Row="1" Grid.Column="2" Text="{Binding FindPaint.Value.Note}" />
 
-        <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal">
-            <TextBlock Margin="10,0,5,0" VerticalAlignment="Center" Text="大分類" />
-            <ComboBox Width="120" Height="22" Margin="0,5" ItemsSource="{Binding MakerList}" SelectedItem="{Binding MakerFilterStr.Value}">
-                <i:Interaction.Triggers>
-                    <i:EventTrigger EventName="SelectionChanged">
-                        <l:LivetCallMethodAction MethodName="FilterChanged" MethodTarget="{Binding}" />
-                    </i:EventTrigger>
-                </i:Interaction.Triggers>
-            </ComboBox>
-            <TextBlock Margin="10,0,5,0" VerticalAlignment="Center" Text="小分類" />
-            <ComboBox Width="120" Height="22" Margin="0,5" ItemsSource="{Binding SeriesList}" SelectedItem="{Binding SeriesFilterStr.Value}">
-                <i:Interaction.Triggers>
-                    <i:EventTrigger EventName="SelectionChanged">
-                        <l:LivetCallMethodAction MethodName="FilterChanged" MethodTarget="{Binding}" />
-                    </i:EventTrigger>
-                </i:Interaction.Triggers>
-            </ComboBox>
-        </StackPanel>
+            <Rectangle Grid.Row="2" Grid.RowSpan="2" Grid.Column="0" Stroke="Black">
+                <Rectangle.Fill>
+                    <!--  todo SelectedPaint.Value が null の時  -->
+                    <SolidColorBrush Color="{Binding SelectedPaint.Value.Color}" />
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock Grid.Row="2" Grid.Column="2" Text="{Binding SelectedPaint.Value.ColorName}" />
+            <TextBlock Grid.Row="3" Grid.Column="2" Text="{Binding SelectedPaint.Value.Note}" />
+        </Grid>
 
-        <DataGrid Grid.Row="4"
-                  Grid.ColumnSpan="2"
+        <!--  2 Filter  -->
+        <Grid Grid.Row="2" Margin="5,0,5,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="5" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" VerticalAlignment="Center" Text="大分類" />
+            <ListBox x:Name="MakerListBox"
+                     Grid.Row="0"
+                     Grid.Column="2"
+                     Width="Auto"
+                     ItemsSource="{Binding MakerList}"
+                     SelectionChanged="MakerListBox_SelectionChanged"
+                     Style="{StaticResource CheckedListBoxStyle}">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+
+            <TextBlock Grid.Row="2" VerticalAlignment="Center" Text="小分類" />
+            <ListBox x:Name="SeriesListBox"
+                     Grid.Row="2"
+                     Grid.Column="2"
+                     Width="Auto"
+                     ItemsSource="{Binding SeriesList}"
+                     SelectionChanged="SeriesListBox_SelectionChanged"
+                     Style="{StaticResource CheckedListBoxStyle}">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+        </Grid>
+
+        <!--  3 DataGrid  -->
+        <DataGrid x:Name="PaintListDataGrid"
+                  Grid.Row="3"
+                  Margin="5,0,5,5"
                   AutoGenerateColumns="False"
                   IsReadOnly="True"
-                  ItemsSource="{Binding PaintList}"
+                  ItemsSource="{Binding Mode=OneWay, Source={StaticResource PaintListViewSource}}"
+                  MouseDoubleClick="PaintListDataGrid_MouseDoubleClick"
                   SelectedItem="{Binding SelectedPaint.Value}"
                   SelectionMode="Single">
-
-            <i:Interaction.Triggers>
-                <i:EventTrigger EventName="MouseDoubleClick">
-                    <l:LivetCallMethodAction MethodName="FindPaintChanged" MethodTarget="{Binding}" />
-                </i:EventTrigger>
-            </i:Interaction.Triggers>
-
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Code">
                     <DataGridTextColumn.ElementStyle>
@@ -130,8 +178,10 @@
             </DataGrid.Columns>
         </DataGrid>
 
-        <StatusBar Grid.Row="5" Grid.ColumnSpan="2">
+        <!--  4 StatusBar  -->
+        <StatusBar Grid.Row="4">
             <StatusBarItem Content="{Binding Clock}" />
+            <StatusBarItem Content="" />
         </StatusBar>
 
     </Grid>

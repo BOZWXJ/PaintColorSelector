@@ -34,6 +34,7 @@ namespace PaintColorSelector.Views
 			InitializeComponent();
 
 			viewSource = (CollectionViewSource)Resources["PaintListViewSource"];
+			viewSource.View.Filter = new Predicate<object>(ViewModel.Contains);
 		}
 
 		CollectionViewSource viewSource;
@@ -46,28 +47,15 @@ namespace PaintColorSelector.Views
 			// DataGrid ΔE 列でソート
 			viewSource.SortDescriptions.Clear();
 			viewSource.SortDescriptions.Add(new System.ComponentModel.SortDescription() { PropertyName = "DeltaE", Direction = System.ComponentModel.ListSortDirection.Ascending });
+			viewSource.View.Filter = new Predicate<object>(ViewModel.Contains);
 
 			// DataGrid 先頭行にスクロール
 			PaintListDataGrid.ScrollIntoView(viewSource.View.CurrentItem);
 		}
 
-		private void MenuItem_Click(object sender, RoutedEventArgs e)
-		{
-			viewSource.View.Filter = p => { return MakerListBox.SelectedItems.Contains(((Paint)p).Maker); };
-		}
-
-		private void MakerListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-		{
-			System.Diagnostics.Debug.WriteLine("MakerListBox_SelectionChanged()");
-			// 
-			// 
-		}
-
 		private void SeriesListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
-			System.Diagnostics.Debug.WriteLine("SeriesListBox_SelectionChanged()");
-
-
+			viewSource.View.Refresh();
 		}
 	}
 }

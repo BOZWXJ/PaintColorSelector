@@ -1,592 +1,592 @@
-Standard	Federal Standard 595C	#372726	FS10032
-Standard	Federal Standard 595C	#5f4f4a	FS10045
-Standard	Federal Standard 595C	#4f2a25	FS10049
-Standard	Federal Standard 595C	#6f4625	FS10055
-Standard	Federal Standard 595C	#47362c	FS10059
-Standard	Federal Standard 595C	#654037	FS10075
-Standard	Federal Standard 595C	#7c3925	FS10076
-Standard	Federal Standard 595C	#614a36	FS10080
-Standard	Federal Standard 595C	#824725	FS10091
-Standard	Federal Standard 595C	#a66e44	FS10115
-Standard	Federal Standard 595C	#876f55	FS10129
-Standard	Federal Standard 595C	#9a7e67	FS10219
-Standard	Federal Standard 595C	#ac7d6d	FS10233
-Standard	Federal Standard 595C	#d0b072	FS10260
-Standard	Federal Standard 595C	#b18f58	FS10266
-Standard	Federal Standard 595C	#b59b88	FS10324
-Standard	Federal Standard 595C	#cc9a63	FS10371
-Standard	Federal Standard 595C	#ad2328	FS11086
-Standard	Federal Standard 595C	#ae2825	FS11105
-Standard	Federal Standard 595C	#c23b31	FS11120
-Standard	Federal Standard 595C	#a32b25	FS11136	Insignia Red
-Standard	Federal Standard 595C	#ae2b29	FS11140
-Standard	Federal Standard 595C	#cd4f3a	FS11302
-Standard	Federal Standard 595C	#be4a52	FS11328
-Standard	Federal Standard 595C	#d65030	FS11400
-Standard	Federal Standard 595C	#e7c1bb	FS11630	Pink
-Standard	Federal Standard 595C	#f8d4bb	FS11670
-Standard	Federal Standard 595C	#b36647	FS12160
-Standard	Federal Standard 595C	#d24e00	FS12197	International Orange
-Standard	Federal Standard 595C	#ec4300	FS12199
-Standard	Federal Standard 595C	#d76117	FS12215
-Standard	Federal Standard 595C	#e37300	FS12243
-Standard	Federal Standard 595C	#df6100	FS12246
-Standard	Federal Standard 595C	#df8a7f	FS12300
-Standard	Federal Standard 595C	#ed7a00	FS12473
-Standard	Federal Standard 595C	#eec9a2	FS12648
-Standard	Federal Standard 595C	#ab8000	FS13275
-Standard	Federal Standard 595C	#efa400	FS13415
-Standard	Federal Standard 595C	#f5a400	FS13432
-Standard	Federal Standard 595C	#ffb700	FS13507
-Standard	Federal Standard 595C	#d2c1a4	FS13522
-Standard	Federal Standard 595C	#dec809	FS13523
-Standard	Federal Standard 595C	#d7c1a8	FS13531
-Standard	Federal Standard 595C	#f9b000	FS13538	Orange Yellow
-Standard	Federal Standard 595C	#dfcca7	FS13578
-Standard	Federal Standard 595C	#f7d100	FS13591
-Standard	Federal Standard 595C	#f2cd88	FS13594
-Standard	Federal Standard 595C	#e7c686	FS13596
-Standard	Federal Standard 595C	#f1d2aa	FS13613
-Standard	Federal Standard 595C	#f6d26d	FS13618
-Standard	Federal Standard 595C	#e2b41e	FS13637
-Standard	Federal Standard 595C	#ffc700	FS13655	Blue Angels Yellow
-Standard	Federal Standard 595C	#ffdd68	FS13670	Lime Yellow
-Standard	Federal Standard 595C	#ecdab7	FS13690
-Standard	Federal Standard 595C	#f6d488	FS13695
-Standard	Federal Standard 595C	#efd7b1	FS13711
-Standard	Federal Standard 595C	#263d37	FS14036
-Standard	Federal Standard 595C	#42463c	FS14050
-Standard	Federal Standard 595C	#434438	FS14052	Green
-Standard	Federal Standard 595C	#84330c	FS14056
-Standard	Federal Standard 595C	#1f563b	FS14062	Dark Green
-Standard	Federal Standard 595C	#4c4b3c	FS14064
-Standard	Federal Standard 595C	#005b40	FS14066
-Standard	Federal Standard 595C	#464e44	FS14077
-Standard	Federal Standard 595C	#515240	FS14079
-Standard	Federal Standard 595C	#3c3728	FS14084
-Standard	Federal Standard 595C	#3c3727	FS14087	Olive Drab
-Standard	Federal Standard 595C	#007145	FS14090
-Standard	Federal Standard 595C	#60684a	FS14097
-Standard	Federal Standard 595C	#2a563f	FS14108
-Standard	Federal Standard 595C	#005f45	FS14109
-Standard	Federal Standard 595C	#276f3a	FS14110
-Standard	Federal Standard 595C	#007a59	FS14115	Green
-Standard	Federal Standard 595C	#007e60	FS14120
-Standard	Federal Standard 595C	#6b7976	FS14158
-Standard	Federal Standard 595C	#747b6e	FS14159
-Standard	Federal Standard 595C	#528431	FS14187
-Standard	Federal Standard 595C	#5f8c6a	FS14223
-Standard	Federal Standard 595C	#87a298	FS14241
-Standard	Federal Standard 595C	#988e60	FS14255
-Standard	Federal Standard 595C	#949166	FS14257
-Standard	Federal Standard 595C	#639e7e	FS14260
-Standard	Federal Standard 595C	#7a9f81	FS14272
-Standard	Federal Standard 595C	#8b9e96	FS14277
-Standard	Federal Standard 595C	#84ac9b	FS14325
-Standard	Federal Standard 595C	#aabd9c	FS14449
-Standard	Federal Standard 595C	#aec2ad	FS14491
-Standard	Federal Standard 595C	#b8c8b7	FS14516
-Standard	Federal Standard 595C	#b2bf98	FS14533
-Standard	Federal Standard 595C	#d5dbc0	FS14672
-Standard	Federal Standard 595C	#2d373d	FS15042	Sea Blue
-Standard	Federal Standard 595C	#263042	FS15044	Insignia Blue
-Standard	Federal Standard 595C	#213b4a	FS15045
-Standard	Federal Standard 595C	#214061	FS15050	"Blue Angels" Blue
-Standard	Federal Standard 595C	#1f2f60	FS15052
-Standard	Federal Standard 595C	#263b56	FS15053
-Standard	Federal Standard 595C	#253273	FS15056	Blue
-Standard	Federal Standard 595C	#005686	FS15065
-Standard	Federal Standard 595C	#1e5270	FS15080
-Standard	Federal Standard 595C	#00537b	FS15090
-Standard	Federal Standard 595C	#0075aa	FS15092
-Standard	Federal Standard 595C	#186493	FS15102	Dark Blue
-Standard	Federal Standard 595C	#628498	FS15107
-Standard	Federal Standard 595C	#3a6ca7	FS15123
-Standard	Federal Standard 595C	#006e8e	FS15125
-Standard	Federal Standard 595C	#61819a	FS15177
-Standard	Federal Standard 595C	#0073b4	FS15180
-Standard	Federal Standard 595C	#0080b0	FS15182
-Standard	Federal Standard 595C	#009cc8	FS15187
-Standard	Federal Standard 595C	#588c95	FS15193
-Standard	Federal Standard 595C	#54b7d4	FS15200	Sky Blue
-Standard	Federal Standard 595C	#97bcd5	FS15450	Air Superiority Blue
-Standard	Federal Standard 595C	#b4c5cc	FS15526
-Standard	Federal Standard 595C	#555856	FS16081	Engine Gray
-Standard	Federal Standard 595C	#565e62	FS16099
-Standard	Federal Standard 595C	#5c6369	FS16152
-Standard	Federal Standard 595C	#8a7752	FS16160
-Standard	Federal Standard 595C	#7b7867	FS16165
-Standard	Federal Standard 595C	#70818f	FS16187
-Standard	Federal Standard 595C	#767b7f	FS16231
-Standard	Federal Standard 595C	#8e8f8e	FS16251
-Standard	Federal Standard 595C	#9d9d95	FS16307
-Standard	Federal Standard 595C	#9b9f9b	FS16314
-Standard	Federal Standard 595C	#b8857b	FS16350
-Standard	Federal Standard 595C	#afaa97	FS16357
-Standard	Federal Standard 595C	#b6af9b	FS16360
-Standard	Federal Standard 595C	#a9a99e	FS16376
-Standard	Federal Standard 595C	#c8bea8	FS16405
-Standard	Federal Standard 595C	#bcbab2	FS16440	Light Gull Gray
-Standard	Federal Standard 595C	#aab2b0	FS16473	Aircraft Gray
-Standard	Federal Standard 595C	#c5c3bc	FS16492
-Standard	Federal Standard 595C	#c7c9c7	FS16515	Canadian Voodoo Gray
-Standard	Federal Standard 595C	#d2c6a9	FS16555
-Standard	Federal Standard 595C	#2c2926	FS17038	Black
-Standard	Federal Standard 595C	#978449	FS17043	Gold
-Standard	Federal Standard 595C	#744e7a	FS17100	Purple
-Standard	Federal Standard 595C	#a15987	FS17142
-Standard	Federal Standard 595C	#9e6294	FS17155
-Standard	Federal Standard 595C	#9b9d9f	FS17178	Aluminum / Silver
-Standard	Federal Standard 595C	#919699	FS17200
-Standard	Federal Standard 595C	#e6eae1	FS17773
-Standard	Federal Standard 595C	#f1e9d2	FS17778
-Standard	Federal Standard 595C	#f5e7c5	FS17855
-Standard	Federal Standard 595C	#f1f0ea	FS17875	Insignia White
-Standard	Federal Standard 595C	#f7f1e3	FS17886
-Standard	Federal Standard 595C	#faf7f1	FS17925	Insignia White
-Standard	Federal Standard 595C	#504337	FS20040
-Standard	Federal Standard 595C	#61504c	FS20045
-Standard	Federal Standard 595C	#5d483e	FS20059
-Standard	Federal Standard 595C	#6c4444	FS20061	Maroon
-Standard	Federal Standard 595C	#564944	FS20062	Brown
-Standard	Federal Standard 595C	#7c6a56	FS20095
-Standard	Federal Standard 595C	#8f5938	FS20100	Brown Yellow
-Standard	Federal Standard 595C	#8c503f	FS20109	Red Brown
-Standard	Federal Standard 595C	#866046	FS20117
-Standard	Federal Standard 595C	#76573c	FS20122
-Standard	Federal Standard 595C	#876f55	FS20129
-Standard	Federal Standard 595C	#876e5b	FS20140	Brown Special
-Standard	Federal Standard 595C	#954a3b	FS20152
-Standard	Federal Standard 595C	#9f7f79	FS20206
-Standard	Federal Standard 595C	#9b7f66	FS20219
-Standard	Federal Standard 595C	#a38b78	FS20227
-Standard	Federal Standard 595C	#ac7f71	FS20233
-Standard	Federal Standard 595C	#ba816a	FS20252	Tan
-Standard	Federal Standard 595C	#d1af6f	FS20260	Tan
-Standard	Federal Standard 595C	#af9157	FS20266	Yellow Sand
-Standard	Federal Standard 595C	#b39b8a	FS20313
-Standard	Federal Standard 595C	#b09f85	FS20318
-Standard	Federal Standard 595C	#b8a791	FS20372
-Standard	Federal Standard 595C	#d1a779	FS20400	Tan
-Standard	Federal Standard 595C	#ccb19a	FS20450	Night Tan
-Standard	Federal Standard 595C	#b90f21	FS21105	Red
-Standard	Federal Standard 595C	#a3302a	FS21136
-Standard	Federal Standard 595C	#c25b64	FS21158
-Standard	Federal Standard 595C	#ca4e3f	FS21302
-Standard	Federal Standard 595C	#c32502	FS21310	Red
-Standard	Federal Standard 595C	#d74d2c	FS21400	Red
-Standard	Federal Standard 595C	#d2a08b	FS21433
-Standard	Federal Standard 595C	#e8c0aa	FS21575
-Standard	Federal Standard 595C	#efd5bb	FS21643
-Standard	Federal Standard 595C	#f1d4b4	FS21667
-Standard	Federal Standard 595C	#f0d3ca	FS21668
-Standard	Federal Standard 595C	#f4d2ba	FS21670
-Standard	Federal Standard 595C	#af583a	FS22144
-Standard	Federal Standard 595C	#db4612	FS22190	Red
-Standard	Federal Standard 595C	#c3663e	FS22203
-Standard	Federal Standard 595C	#e10d28	FS22246
-Standard	Federal Standard 595C	#cd7d60	FS22276
-Standard	Federal Standard 595C	#de8970	FS22356
-Standard	Federal Standard 595C	#ff7b00	FS22510
-Standard	Federal Standard 595C	#e1a279	FS22516	Tan
-Standard	Federal Standard 595C	#dfba9e	FS22519
-Standard	Federal Standard 595C	#f9a24d	FS22544
-Standard	Federal Standard 595C	#e0c2a2	FS22563
-Standard	Federal Standard 595C	#ecc9ab	FS22630
-Standard	Federal Standard 595C	#f2ceab	FS22648
-Standard	Federal Standard 595C	#c1aa81	FS23448
-Standard	Federal Standard 595C	#d2c0a4	FS23522
-Standard	Federal Standard 595C	#d7c3a9	FS23531
-Standard	Federal Standard 595C	#feb500	FS23538
-Standard	Federal Standard 595C	#e1cfa4	FS23564
-Standard	Federal Standard 595C	#ddcdaa	FS23578	Cream
-Standard	Federal Standard 595C	#f2cd8c	FS23594	Beige
-Standard	Federal Standard 595C	#efd0a7	FS23613
-Standard	Federal Standard 595C	#e9d0a6	FS23617
-Standard	Federal Standard 595C	#e9d0a6	FS23619
-Standard	Federal Standard 595C	#ffcc00	FS23655	Yellow
-Standard	Federal Standard 595C	#ece3aa	FS23685
-Standard	Federal Standard 595C	#ead8b6	FS23690
-Standard	Federal Standard 595C	#f8d58b	FS23695
-Standard	Federal Standard 595C	#f5d78e	FS23697	Yellow Sand
-Standard	Federal Standard 595C	#f4dbb4	FS23711
-Standard	Federal Standard 595C	#efddba	FS23717
-Standard	Federal Standard 595C	#eedbaf	FS23722	Sand
-Standard	Federal Standard 595C	#f2e1ae	FS23727
-Standard	Federal Standard 595C	#f4d64f	FS23785
-Standard	Federal Standard 595C	#f8e994	FS23793
-Standard	Federal Standard 595C	#e8e7a4	FS23814
-Standard	Federal Standard 595C	#494a3f	FS24052	Green
-Standard	Federal Standard 595C	#504d40	FS24064
-Standard	Federal Standard 595C	#575849	FS24079	Forest Green
-Standard	Federal Standard 595C	#464132	FS24084
-Standard	Federal Standard 595C	#454031	FS24087
-Standard	Federal Standard 595C	#645e5a	FS24091
-Standard	Federal Standard 595C	#61694e	FS24097
-Standard	Federal Standard 595C	#686541	FS24098
-Standard	Federal Standard 595C	#426953	FS24108
-Standard	Federal Standard 595C	#617876	FS24148
-Standard	Federal Standard 595C	#6c7976	FS24158
-Standard	Federal Standard 595C	#777d70	FS24159
-Standard	Federal Standard 595C	#6d7e68	FS24172
-Standard	Federal Standard 595C	#8d856b	FS24201
-Standard	Federal Standard 595C	#848f7f	FS24226
-Standard	Federal Standard 595C	#7f9271	FS24227
-Standard	Federal Standard 595C	#839693	FS24233
-Standard	Federal Standard 595C	#89a499	FS24241
-Standard	Federal Standard 595C	#6d9f83	FS24260
-Standard	Federal Standard 595C	#759c7e	FS24272	Green
-Standard	Federal Standard 595C	#8b9d95	FS24277
-Standard	Federal Standard 595C	#8ca494	FS24300
-Standard	Federal Standard 595C	#82ab9a	FS24325
-Standard	Federal Standard 595C	#a1b095	FS24373
-Standard	Federal Standard 595C	#a7b8a8	FS24410	Green
-Standard	Federal Standard 595C	#b1b9a4	FS24417
-Standard	Federal Standard 595C	#b3b69e	FS24424
-Standard	Federal Standard 595C	#b2b8a6	FS24432
-Standard	Federal Standard 595C	#b1bca1	FS24441
-Standard	Federal Standard 595C	#a8bb9a	FS24449
-Standard	Federal Standard 595C	#a7bda4	FS24466
-Standard	Federal Standard 595C	#adc3b0	FS24491
-Standard	Federal Standard 595C	#b2c1a8	FS24504
-Standard	Federal Standard 595C	#b7c5b5	FS24516
-Standard	Federal Standard 595C	#b2c1af	FS24518
-Standard	Federal Standard 595C	#b9c6ac	FS24525
-Standard	Federal Standard 595C	#b3c098	FS24533
-Standard	Federal Standard 595C	#d1ce8c	FS24552
-Standard	Federal Standard 595C	#d7d7ba	FS24554
-Standard	Federal Standard 595C	#c1d1b2	FS24558
-Standard	Federal Standard 595C	#cbdcb8	FS24583
-Standard	Federal Standard 595C	#cee2c7	FS24585
-Standard	Federal Standard 595C	#c5d9c0	FS24664
-Standard	Federal Standard 595C	#d4ddcb	FS24670
-Standard	Federal Standard 595C	#d7ddc1	FS24672
-Standard	Federal Standard 595C	#353f45	FS25042
-Standard	Federal Standard 595C	#2c3f4f	FS25045
-Standard	Federal Standard 595C	#464e63	FS25051
-Standard	Federal Standard 595C	#03265e	FS25052
-Standard	Federal Standard 595C	#344a65	FS25053
-Standard	Federal Standard 595C	#253475	FS25056
-Standard	Federal Standard 595C	#2f628c	FS25102
-Standard	Federal Standard 595C	#517287	FS25109
-Standard	Federal Standard 595C	#647d99	FS25177
-Standard	Federal Standard 595C	#2b7eb1	FS25183
-Standard	Federal Standard 595C	#52869d	FS25184
-Standard	Federal Standard 595C	#748a93	FS25189
-Standard	Federal Standard 595C	#6490a7	FS25190
-Standard	Federal Standard 595C	#5d8e96	FS25193
-Standard	Federal Standard 595C	#849095	FS25237
-Standard	Federal Standard 595C	#7f99bb	FS25240
-Standard	Federal Standard 595C	#7aa7a1	FS25299
-Standard	Federal Standard 595C	#92a7a1	FS25352	Blue
-Standard	Federal Standard 595C	#98b2b0	FS25414
-Standard	Federal Standard 595C	#83c2e5	FS25466
-Standard	Federal Standard 595C	#a2bfd9	FS25488
-Standard	Federal Standard 595C	#b7c6cd	FS25526
-Standard	Federal Standard 595C	#d1dfe6	FS25550	Light Blue
-Standard	Federal Standard 595C	#d4dad2	FS25622
-Standard	Federal Standard 595C	#dddcd6	FS25630
-Standard	Federal Standard 595C	#54575b	FS26008	Dark Gray
-Standard	Federal Standard 595C	#3e444b	FS26044	Gray
-Standard	Federal Standard 595C	#585b5b	FS26081	Seaplane Gray
-Standard	Federal Standard 595C	#60534a	FS26120
-Standard	Federal Standard 595C	#6d6a69	FS26122
-Standard	Federal Standard 595C	#6f7172	FS26132
-Standard	Federal Standard 595C	#74746f	FS26134
-Standard	Federal Standard 595C	#727779	FS26152	Gray
-Standard	Federal Standard 595C	#7f848b	FS26173
-Standard	Federal Standard 595C	#76808a	FS26176
-Standard	Federal Standard 595C	#7b8284	FS26187
-Standard	Federal Standard 595C	#898d8f	FS26231
-Standard	Federal Standard 595C	#8c9290	FS26250
-Standard	Federal Standard 595C	#929392	FS26251
-Standard	Federal Standard 595C	#919597	FS26270	Medium Gray
-Standard	Federal Standard 595C	#969896	FS26280
-Standard	Federal Standard 595C	#999b9c	FS26293
-Standard	Federal Standard 595C	#a49a8f	FS26306
-Standard	Federal Standard 595C	#9d9d93	FS26307
-Standard	Federal Standard 595C	#9a9f9c	FS26314
-Standard	Federal Standard 595C	#98a6a7	FS26329
-Standard	Federal Standard 595C	#aca89b	FS26357
-Standard	Federal Standard 595C	#b5af9b	FS26360
-Standard	Federal Standard 595C	#acafb0	FS26373
-Standard	Federal Standard 595C	#d4cab0	FS26400
-Standard	Federal Standard 595C	#c3baa5	FS26405
-Standard	Federal Standard 595C	#c3c1b4	FS26408
-Standard	Federal Standard 595C	#c7bdb2	FS26424
-Standard	Federal Standard 595C	#b9b7b1	FS26440	Light Gull Gray
-Standard	Federal Standard 595C	#c5c4be	FS26492
-Standard	Federal Standard 595C	#c1c2c1	FS26493
-Standard	Federal Standard 595C	#bbbbaf	FS26496
-Standard	Federal Standard 595C	#cfc1b2	FS26521
-Standard	Federal Standard 595C	#d5c9ac	FS26555
-Standard	Federal Standard 595C	#ccc8b9	FS26559
-Standard	Federal Standard 595C	#d5ccb2	FS26586
-Standard	Federal Standard 595C	#cbcabd	FS26595
-Standard	Federal Standard 595C	#d0ccc2	FS26622
-Standard	Federal Standard 595C	#2b2d30	FS27038	Black
-Standard	Federal Standard 595C	#313235	FS27040
-Standard	Federal Standard 595C	#9f8b51	FS27043
-Standard	Federal Standard 595C	#a25b85	FS27142
-Standard	Federal Standard 595C	#8a6a8f	FS27144
-Standard	Federal Standard 595C	#e7e1d3	FS27722
-Standard	Federal Standard 595C	#00dcc4	FS27769
-Standard	Federal Standard 595C	#f0e9d3	FS27778
-Standard	Federal Standard 595C	#f3ecdd	FS27780	White
-Standard	Federal Standard 595C	#f2e6c4	FS27855
-Standard	Federal Standard 595C	#f3f2ec	FS27875	Insignia White
-Standard	Federal Standard 595C	#fbf5e8	FS27880
-Standard	Federal Standard 595C	#faf3e4	FS27886
-Standard	Federal Standard 595C	#faf7f2	FS27925
-Standard	Federal Standard 595C	#5f554d	FS30040
-Standard	Federal Standard 595C	#655551	FS30045	Brown
-Standard	Federal Standard 595C	#4f4239	FS30051	Leather Brown
-Standard	Federal Standard 595C	#620000	FS30076
-Standard	Federal Standard 595C	#6a5c4f	FS30097	Brown
-Standard	Federal Standard 595C	#746252	FS30099	Brown
-Standard	Federal Standard 595C	#6c5447	FS30108	Red Brown
-Standard	Federal Standard 595C	#905a4c	FS30109
-Standard	Federal Standard 595C	#7d5b52	FS30111	Brown
-Standard	Federal Standard 595C	#896750	FS30117	Earth Red
-Standard	Federal Standard 595C	#7b694e	FS30118	Field Drab
-Standard	Federal Standard 595C	#876f55	FS30129
-Standard	Federal Standard 595C	#886b58	FS30140	Brown Special
-Standard	Federal Standard 595C	#8b7258	FS30145
-Standard	Federal Standard 595C	#843320	FS30152
-Standard	Federal Standard 595C	#87535a	FS30160	Brown
-Standard	Federal Standard 595C	#8f5c51	FS30166
-Standard	Federal Standard 595C	#9f7e77	FS30206
-Standard	Federal Standard 595C	#9e7655	FS30215	Brown
-Standard	Federal Standard 595C	#a1836c	FS30219	Tan
-Standard	Federal Standard 595C	#a38b7a	FS30227	Tan
-Standard	Federal Standard 595C	#ab7e70	FS30233
-Standard	Federal Standard 595C	#bb8369	FS30252
-Standard	Federal Standard 595C	#c39b69	FS30257	Tan
-Standard	Federal Standard 595C	#b0935c	FS30266	Yellow Sand
-Standard	Federal Standard 595C	#a6977d	FS30277	Sand Brown
-Standard	Federal Standard 595C	#b79d8a	FS30279	Sand
-Standard	Federal Standard 595C	#b79c8b	FS30313
-Standard	Federal Standard 595C	#b59c8a	FS30315
-Standard	Federal Standard 595C	#b2a186	FS30318
-Standard	Federal Standard 595C	#b79f8b	FS30324
-Standard	Federal Standard 595C	#b6a690	FS30372	Sand
-Standard	Federal Standard 595C	#c29963	FS30400	Yellow Sand
-Standard	Federal Standard 595C	#cfb49d	FS30450
-Standard	Federal Standard 595C	#846349	FS31090	Brown
-Standard	Federal Standard 595C	#a84946	FS31136	Insignia Red
-Standard	Federal Standard 595C	#c2575f	FS31158
-Standard	Federal Standard 595C	#ce4b40	FS31302	Red
-Standard	Federal Standard 595C	#ba1c00	FS31350	Red
-Standard	Federal Standard 595C	#d4583e	FS31400	Red
-Standard	Federal Standard 595C	#d0a18b	FS31433
-Standard	Federal Standard 595C	#e7bea7	FS31575
-Standard	Federal Standard 595C	#f2b9b9	FS31638
-Standard	Federal Standard 595C	#edd3ba	FS31643
-Standard	Federal Standard 595C	#f2d5b4	FS31667
-Standard	Federal Standard 595C	#edd2c9	FS31668
-Standard	Federal Standard 595C	#f6d4d1	FS31669
-Standard	Federal Standard 595C	#f3d3bd	FS31670
-Standard	Federal Standard 595C	#b66644	FS32169
-Standard	Federal Standard 595C	#ea723d	FS32246
-Standard	Federal Standard 595C	#d28164	FS32276
-Standard	Federal Standard 595C	#de8971	FS32356
-Standard	Federal Standard 595C	#e9864e	FS32473	Orange
-Standard	Federal Standard 595C	#dfa277	FS32516
-Standard	Federal Standard 595C	#fca65f	FS32544
-Standard	Federal Standard 595C	#fdb666	FS32555
-Standard	Federal Standard 595C	#eac8a8	FS32630
-Standard	Federal Standard 595C	#f2cea9	FS32648	Sand
-Standard	Federal Standard 595C	#65604d	FS33070
-Standard	Federal Standard 595C	#7f6c52	FS33105	Brown
-Standard	Federal Standard 595C	#b38c5e	FS33245	Tan
-Standard	Federal Standard 595C	#a98100	FS33275
-Standard	Federal Standard 595C	#b0a183	FS33303	Sand
-Standard	Federal Standard 595C	#e59a00	FS33432
-Standard	Federal Standard 595C	#d9a95a	FS33434	Ochre
-Standard	Federal Standard 595C	#a79065	FS33440	Tan
-Standard	Federal Standard 595C	#b19f7b	FS33446	Dessert Tan
-Standard	Federal Standard 595C	#c3ac84	FS33448	Dark Yellow
-Standard	Federal Standard 595C	#d5ba57	FS33481
-Standard	Federal Standard 595C	#d3c1a3	FS33522
-Standard	Federal Standard 595C	#d6c1aa	FS33531	Middlestone
-Standard	Federal Standard 595C	#ffb700	FS33538	Orange Yellow
-Standard	Federal Standard 595C	#ddcda1	FS33564
-Standard	Federal Standard 595C	#dcccaa	FS33578
-Standard	Federal Standard 595C	#e8d300	FS33591
-Standard	Federal Standard 595C	#efd0a8	FS33613	Radome Tan
-Standard	Federal Standard 595C	#e3d1b9	FS33617	Sand
-Standard	Federal Standard 595C	#efc259	FS33637
-Standard	Federal Standard 595C	#ffca00	FS33655
-Standard	Federal Standard 595C	#eae1a9	FS33685
-Standard	Federal Standard 595C	#efdbb6	FS33690	Sand
-Standard	Federal Standard 595C	#fdb992	FS33695	Yellow Sand
-Standard	Federal Standard 595C	#ffd872	FS33696
-Standard	Federal Standard 595C	#f0d8b0	FS33711	Sand
-Standard	Federal Standard 595C	#efdcbb	FS33717	Sand
-Standard	Federal Standard 595C	#eddab1	FS33722
-Standard	Federal Standard 595C	#f2e0af	FS33727
-Standard	Federal Standard 595C	#f9ed91	FS33793
-Standard	Federal Standard 595C	#fae6a7	FS33798
-Standard	Federal Standard 595C	#e9eaa4	FS33814
-Standard	Federal Standard 595C	#575450	FS34031	Dark Green
-Standard	Federal Standard 595C	#55564f	FS34052	USMC Green
-Standard	Federal Standard 595C	#232d24	FS34056
-Standard	Federal Standard 595C	#3d5e5d	FS34058	Sea Blue
-Standard	Federal Standard 595C	#00401e	FS34062
-Standard	Federal Standard 595C	#5e5c56	FS34064	Dark Green
-Standard	Federal Standard 595C	#2e3933	FS34077	Green
-Standard	Federal Standard 595C	#595c4e	FS34079	Forest Green
-Standard	Federal Standard 595C	#60644c	FS34082	Green
-Standard	Federal Standard 595C	#5d5d50	FS34083	Green
-Standard	Federal Standard 595C	#565248	FS34084	Green
-Standard	Federal Standard 595C	#615f56	FS34086	I. R. Dark Green
-Standard	Federal Standard 595C	#554f44	FS34087	Olive Drab
-Standard	Federal Standard 595C	#554f44	FS34088	Olive Drab
-Standard	Federal Standard 595C	#6f6f4a	FS34089
-Standard	Federal Standard 595C	#238259	FS34090
-Standard	Federal Standard 595C	#53645a	FS34092	Dark Green
-Standard	Federal Standard 595C	#3e4b39	FS34094	Green
-Standard	Federal Standard 595C	#595f43	FS34095	Field Green
-Standard	Federal Standard 595C	#616352	FS34096	Dark Green
-Standard	Federal Standard 595C	#636a51	FS34097	Field Green
-Standard	Federal Standard 595C	#6f6c4c	FS34098	Green
-Standard	Federal Standard 595C	#636750	FS34102	Light Green
-Standard	Federal Standard 595C	#476e56	FS34108	Medium Green
-Standard	Federal Standard 595C	#005d39	FS34115
-Standard	Federal Standard 595C	#6f6d4b	FS34127	Green
-Standard	Federal Standard 595C	#65735e	FS34128	Deep Green
-Standard	Federal Standard 595C	#696748	FS34130
-Standard	Federal Standard 595C	#5e8450	FS34138	Green
-Standard	Federal Standard 595C	#657a77	FS34148
-Standard	Federal Standard 595C	#717048	FS34151	Interior Green
-Standard	Federal Standard 595C	#6c7977	FS34158
-Standard	Federal Standard 595C	#737a6c	FS34159	Green
-Standard	Federal Standard 595C	#556f56	FS34172
-Standard	Federal Standard 595C	#8c846a	FS34201	Tan Green
-Standard	Federal Standard 595C	#848e7d	FS34226
-Standard	Federal Standard 595C	#7f9170	FS34227	Medium Gray Green
-Standard	Federal Standard 595C	#599d5a	FS34230	Green
-Standard	Federal Standard 595C	#829795	FS34233
-Standard	Federal Standard 595C	#81a698	FS34241
-Standard	Federal Standard 595C	#909468	FS34258	Green
-Standard	Federal Standard 595C	#8e8342	FS34259	Yellow Green
-Standard	Federal Standard 595C	#779d80	FS34272
-Standard	Federal Standard 595C	#889d95	FS34277
-Standard	Federal Standard 595C	#8ba395	FS34300
-Standard	Federal Standard 595C	#80a998	FS34325
-Standard	Federal Standard 595C	#a0b4a5	FS34373
-Standard	Federal Standard 595C	#a2b4a5	FS34410
-Standard	Federal Standard 595C	#b8c4ad	FS34414	Green
-Standard	Federal Standard 595C	#b3b69f	FS34424	Light Gray Green
-Standard	Federal Standard 595C	#b1b7a4	FS34432
-Standard	Federal Standard 595C	#afbb9f	FS34441
-Standard	Federal Standard 595C	#a7bd9b	FS34449
-Standard	Federal Standard 595C	#b1c4ae	FS34491
-Standard	Federal Standard 595C	#b6c4ab	FS34504
-Standard	Federal Standard 595C	#b6c6b4	FS34516
-Standard	Federal Standard 595C	#b2c2b3	FS34518
-Standard	Federal Standard 595C	#bbc69c	FS34524
-Standard	Federal Standard 595C	#b5c49e	FS34533
-Standard	Federal Standard 595C	#a1d28b	FS34540
-Standard	Federal Standard 595C	#d4cf90	FS34552	Light Green
-Standard	Federal Standard 595C	#d2d5b9	FS34554	Sky
-Standard	Federal Standard 595C	#c0d0b0	FS34558
-Standard	Federal Standard 595C	#c2c3a4	FS34583
-Standard	Federal Standard 595C	#dbe7ab	FS34666	Green
-Standard	Federal Standard 595C	#d0dac9	FS34670
-Standard	Federal Standard 595C	#d5dbbf	FS34672
-Standard	Federal Standard 595C	#454a4e	FS35042	Sea Blue
-Standard	Federal Standard 595C	#444854	FS35044	Insignia Blue
-Standard	Federal Standard 595C	#41505d	FS35045	Dark Blue
-Standard	Federal Standard 595C	#18324d	FS35050
-Standard	Federal Standard 595C	#00285c	FS35052	Blue
-Standard	Federal Standard 595C	#263b56	FS35053
-Standard	Federal Standard 595C	#334685	FS35056
-Standard	Federal Standard 595C	#457285	FS35109	Dark Blue
-Standard	Federal Standard 595C	#035c3c	FS35115
-Standard	Federal Standard 595C	#6f7c8a	FS35164	Intermediate Blue
-Standard	Federal Standard 595C	#65829a	FS35177	Medium Blue
-Standard	Federal Standard 595C	#137abb	FS35180
-Standard	Federal Standard 595C	#2a6da2	FS35182
-Standard	Federal Standard 595C	#2280b2	FS35183
-Standard	Federal Standard 595C	#6f8a91	FS35189	Blue Gray
-Standard	Federal Standard 595C	#6390a9	FS35190	Dark Blue
-Standard	Federal Standard 595C	#598f98	FS35193
-Standard	Federal Standard 595C	#7d91b9	FS35231	Azure Blue
-Standard	Federal Standard 595C	#879297	FS35237	Gray Blue
-Standard	Federal Standard 595C	#7f9cbf	FS35240	Blue
-Standard	Federal Standard 595C	#5ba6d6	FS35250	Blue
-Standard	Federal Standard 595C	#35a49e	FS35275
-Standard	Federal Standard 595C	#77a59e	FS35299
-Standard	Federal Standard 595C	#94a8a4	FS35352	Blue
-Standard	Federal Standard 595C	#9db3ae	FS35414	Blue
-Standard	Federal Standard 595C	#92b6d1	FS35450	Air Superiority Blue
-Standard	Federal Standard 595C	#86cbe4	FS35466
-Standard	Federal Standard 595C	#a1bbd1	FS35488
-Standard	Federal Standard 595C	#b6c4cc	FS35526	Light Sky Blue
-Standard	Federal Standard 595C	#cedbe2	FS35550
-Standard	Federal Standard 595C	#cdd8cd	FS35622	Light Blue
-Standard	Federal Standard 595C	#dbdbd5	FS35630
-Standard	Federal Standard 595C	#575b62	FS36076	Gray
-Standard	Federal Standard 595C	#5b5e5f	FS36081	Dark Gunship Gray
-Standard	Federal Standard 595C	#5f656a	FS36099	Dark Gray
-Standard	Federal Standard 595C	#676c73	FS36118	Medium Gunship Gray
-Standard	Federal Standard 595C	#565654	FS36134
-Standard	Federal Standard 595C	#74797b	FS36152	Gray
-Standard	Federal Standard 595C	#7f848a	FS36173	Neutral Gray
-Standard	Federal Standard 595C	#778089	FS36176	Dark Gull Gray
-Standard	Federal Standard 595C	#697374	FS36187
-Standard	Federal Standard 595C	#888b8d	FS36231	Dark Gull Gray
-Standard	Federal Standard 595C	#8e908f	FS36251	Gray
-Standard	Federal Standard 595C	#8f9396	FS36270	Medium Gray
-Standard	Federal Standard 595C	#8f9396	FS36280	Dark Gray
-Standard	Federal Standard 595C	#989a9b	FS36293
-Standard	Federal Standard 595C	#9da2a8	FS36300	Aircraft Exterior Gray
-Standard	Federal Standard 595C	#a99e93	FS36306
-Standard	Federal Standard 595C	#9fa097	FS36307	Gray
-Standard	Federal Standard 595C	#9b9f9b	FS36314	Flint Gray
-Standard	Federal Standard 595C	#98a1a9	FS36320	Dark Compass Ghost Gray
-Standard	Federal Standard 595C	#849899	FS36329	Light Gray
-Standard	Federal Standard 595C	#aca99c	FS36357
-Standard	Federal Standard 595C	#aeb1b2	FS36373	Light Gray
-Standard	Federal Standard 595C	#a6adb4	FS36375	Light Compass Ghost Gray
-Standard	Federal Standard 595C	#c3c19b	FS36400
-Standard	Federal Standard 595C	#c6bea8	FS36405
-Standard	Federal Standard 595C	#c6b69c	FS36415
-Standard	Federal Standard 595C	#c4baaf	FS36424	Medium Gray
-Standard	Federal Standard 595C	#b6b5b0	FS36440	Light Gull Gray
-Standard	Federal Standard 595C	#b1b3b2	FS36463	Gray
-Standard	Federal Standard 595C	#adb5b3	FS36473	Sky Gray
-Standard	Federal Standard 595C	#c2c0bf	FS36492	Gray
-Standard	Federal Standard 595C	#cfd1d2	FS36495	Light Gray
-Standard	Federal Standard 595C	#d2c5b4	FS36521	Tan
-Standard	Federal Standard 595C	#d4c6a8	FS36555	Tan
-Standard	Federal Standard 595C	#c9c4b3	FS36559	Gray
-Standard	Federal Standard 595C	#d3ccb7	FS36586
-Standard	Federal Standard 595C	#cdcabe	FS36595
-Standard	Federal Standard 595C	#d4d0c7	FS36622	Gray
-Standard	Federal Standard 595C	#d8d8d4	FS36628	Flat Aluminum
-Standard	Federal Standard 595C	#e9d7c3	FS36642
-Standard	Federal Standard 595C	#454445	FS37030
-Standard	Federal Standard 595C	#434244	FS37031	Black Gray
-Standard	Federal Standard 595C	#424243	FS37038	Black
-Standard	Federal Standard 595C	#807537	FS37043
-Standard	Federal Standard 595C	#564e4a	FS37056
-Standard	Federal Standard 595C	#79537f	FS37100	Purple
-Standard	Federal Standard 595C	#9f5d87	FS37142
-Standard	Federal Standard 595C	#8b6c8f	FS37144
-Standard	Federal Standard 595C	#ded3c4	FS37150
-Standard	Federal Standard 595C	#879296	FS37178
-Standard	Federal Standard 595C	#a09f9f	FS37200
-Standard	Federal Standard 595C	#ebe3d4	FS37722
-Standard	Federal Standard 595C	#e2d6c0	FS37769
-Standard	Federal Standard 595C	#f1e7cf	FS37778
-Standard	Federal Standard 595C	#f6ebc8	FS37855	White
-Standard	Federal Standard 595C	#f2f1ea	FS37875	Insignia White
-Standard	Federal Standard 595C	#f8f1e1	FS37886
-Standard	Federal Standard 595C	#fbf8f6	FS37925	Insignia White
-Standard	Federal Standard 595C	#ff5500	FS38903
-Standard	Federal Standard 595C	#ff2d00	FS38913
+Standard	FS	#372726	FS10032
+Standard	FS	#5f4f4a	FS10045
+Standard	FS	#4f2a25	FS10049
+Standard	FS	#6f4625	FS10055
+Standard	FS	#47362c	FS10059
+Standard	FS	#654037	FS10075
+Standard	FS	#7c3925	FS10076
+Standard	FS	#614a36	FS10080
+Standard	FS	#824725	FS10091
+Standard	FS	#a66e44	FS10115
+Standard	FS	#876f55	FS10129
+Standard	FS	#9a7e67	FS10219
+Standard	FS	#ac7d6d	FS10233
+Standard	FS	#d0b072	FS10260
+Standard	FS	#b18f58	FS10266
+Standard	FS	#b59b88	FS10324
+Standard	FS	#cc9a63	FS10371
+Standard	FS	#ad2328	FS11086
+Standard	FS	#ae2825	FS11105
+Standard	FS	#c23b31	FS11120
+Standard	FS	#a32b25	FS11136	Insignia Red
+Standard	FS	#ae2b29	FS11140
+Standard	FS	#cd4f3a	FS11302
+Standard	FS	#be4a52	FS11328
+Standard	FS	#d65030	FS11400
+Standard	FS	#e7c1bb	FS11630	Pink
+Standard	FS	#f8d4bb	FS11670
+Standard	FS	#b36647	FS12160
+Standard	FS	#d24e00	FS12197	International Orange
+Standard	FS	#ec4300	FS12199
+Standard	FS	#d76117	FS12215
+Standard	FS	#e37300	FS12243
+Standard	FS	#df6100	FS12246
+Standard	FS	#df8a7f	FS12300
+Standard	FS	#ed7a00	FS12473
+Standard	FS	#eec9a2	FS12648
+Standard	FS	#ab8000	FS13275
+Standard	FS	#efa400	FS13415
+Standard	FS	#f5a400	FS13432
+Standard	FS	#ffb700	FS13507
+Standard	FS	#d2c1a4	FS13522
+Standard	FS	#dec809	FS13523
+Standard	FS	#d7c1a8	FS13531
+Standard	FS	#f9b000	FS13538	Orange Yellow
+Standard	FS	#dfcca7	FS13578
+Standard	FS	#f7d100	FS13591
+Standard	FS	#f2cd88	FS13594
+Standard	FS	#e7c686	FS13596
+Standard	FS	#f1d2aa	FS13613
+Standard	FS	#f6d26d	FS13618
+Standard	FS	#e2b41e	FS13637
+Standard	FS	#ffc700	FS13655	Blue Angels Yellow
+Standard	FS	#ffdd68	FS13670	Lime Yellow
+Standard	FS	#ecdab7	FS13690
+Standard	FS	#f6d488	FS13695
+Standard	FS	#efd7b1	FS13711
+Standard	FS	#263d37	FS14036
+Standard	FS	#42463c	FS14050
+Standard	FS	#434438	FS14052	Green
+Standard	FS	#84330c	FS14056
+Standard	FS	#1f563b	FS14062	Dark Green
+Standard	FS	#4c4b3c	FS14064
+Standard	FS	#005b40	FS14066
+Standard	FS	#464e44	FS14077
+Standard	FS	#515240	FS14079
+Standard	FS	#3c3728	FS14084
+Standard	FS	#3c3727	FS14087	Olive Drab
+Standard	FS	#007145	FS14090
+Standard	FS	#60684a	FS14097
+Standard	FS	#2a563f	FS14108
+Standard	FS	#005f45	FS14109
+Standard	FS	#276f3a	FS14110
+Standard	FS	#007a59	FS14115	Green
+Standard	FS	#007e60	FS14120
+Standard	FS	#6b7976	FS14158
+Standard	FS	#747b6e	FS14159
+Standard	FS	#528431	FS14187
+Standard	FS	#5f8c6a	FS14223
+Standard	FS	#87a298	FS14241
+Standard	FS	#988e60	FS14255
+Standard	FS	#949166	FS14257
+Standard	FS	#639e7e	FS14260
+Standard	FS	#7a9f81	FS14272
+Standard	FS	#8b9e96	FS14277
+Standard	FS	#84ac9b	FS14325
+Standard	FS	#aabd9c	FS14449
+Standard	FS	#aec2ad	FS14491
+Standard	FS	#b8c8b7	FS14516
+Standard	FS	#b2bf98	FS14533
+Standard	FS	#d5dbc0	FS14672
+Standard	FS	#2d373d	FS15042	Sea Blue
+Standard	FS	#263042	FS15044	Insignia Blue
+Standard	FS	#213b4a	FS15045
+Standard	FS	#214061	FS15050	"Blue Angels" Blue
+Standard	FS	#1f2f60	FS15052
+Standard	FS	#263b56	FS15053
+Standard	FS	#253273	FS15056	Blue
+Standard	FS	#005686	FS15065
+Standard	FS	#1e5270	FS15080
+Standard	FS	#00537b	FS15090
+Standard	FS	#0075aa	FS15092
+Standard	FS	#186493	FS15102	Dark Blue
+Standard	FS	#628498	FS15107
+Standard	FS	#3a6ca7	FS15123
+Standard	FS	#006e8e	FS15125
+Standard	FS	#61819a	FS15177
+Standard	FS	#0073b4	FS15180
+Standard	FS	#0080b0	FS15182
+Standard	FS	#009cc8	FS15187
+Standard	FS	#588c95	FS15193
+Standard	FS	#54b7d4	FS15200	Sky Blue
+Standard	FS	#97bcd5	FS15450	Air Superiority Blue
+Standard	FS	#b4c5cc	FS15526
+Standard	FS	#555856	FS16081	Engine Gray
+Standard	FS	#565e62	FS16099
+Standard	FS	#5c6369	FS16152
+Standard	FS	#8a7752	FS16160
+Standard	FS	#7b7867	FS16165
+Standard	FS	#70818f	FS16187
+Standard	FS	#767b7f	FS16231
+Standard	FS	#8e8f8e	FS16251
+Standard	FS	#9d9d95	FS16307
+Standard	FS	#9b9f9b	FS16314
+Standard	FS	#b8857b	FS16350
+Standard	FS	#afaa97	FS16357
+Standard	FS	#b6af9b	FS16360
+Standard	FS	#a9a99e	FS16376
+Standard	FS	#c8bea8	FS16405
+Standard	FS	#bcbab2	FS16440	Light Gull Gray
+Standard	FS	#aab2b0	FS16473	Aircraft Gray
+Standard	FS	#c5c3bc	FS16492
+Standard	FS	#c7c9c7	FS16515	Canadian Voodoo Gray
+Standard	FS	#d2c6a9	FS16555
+Standard	FS	#2c2926	FS17038	Black
+Standard	FS	#978449	FS17043	Gold
+Standard	FS	#744e7a	FS17100	Purple
+Standard	FS	#a15987	FS17142
+Standard	FS	#9e6294	FS17155
+Standard	FS	#9b9d9f	FS17178	Aluminum / Silver
+Standard	FS	#919699	FS17200
+Standard	FS	#e6eae1	FS17773
+Standard	FS	#f1e9d2	FS17778
+Standard	FS	#f5e7c5	FS17855
+Standard	FS	#f1f0ea	FS17875	Insignia White
+Standard	FS	#f7f1e3	FS17886
+Standard	FS	#faf7f1	FS17925	Insignia White
+Standard	FS	#504337	FS20040
+Standard	FS	#61504c	FS20045
+Standard	FS	#5d483e	FS20059
+Standard	FS	#6c4444	FS20061	Maroon
+Standard	FS	#564944	FS20062	Brown
+Standard	FS	#7c6a56	FS20095
+Standard	FS	#8f5938	FS20100	Brown Yellow
+Standard	FS	#8c503f	FS20109	Red Brown
+Standard	FS	#866046	FS20117
+Standard	FS	#76573c	FS20122
+Standard	FS	#876f55	FS20129
+Standard	FS	#876e5b	FS20140	Brown Special
+Standard	FS	#954a3b	FS20152
+Standard	FS	#9f7f79	FS20206
+Standard	FS	#9b7f66	FS20219
+Standard	FS	#a38b78	FS20227
+Standard	FS	#ac7f71	FS20233
+Standard	FS	#ba816a	FS20252	Tan
+Standard	FS	#d1af6f	FS20260	Tan
+Standard	FS	#af9157	FS20266	Yellow Sand
+Standard	FS	#b39b8a	FS20313
+Standard	FS	#b09f85	FS20318
+Standard	FS	#b8a791	FS20372
+Standard	FS	#d1a779	FS20400	Tan
+Standard	FS	#ccb19a	FS20450	Night Tan
+Standard	FS	#b90f21	FS21105	Red
+Standard	FS	#a3302a	FS21136
+Standard	FS	#c25b64	FS21158
+Standard	FS	#ca4e3f	FS21302
+Standard	FS	#c32502	FS21310	Red
+Standard	FS	#d74d2c	FS21400	Red
+Standard	FS	#d2a08b	FS21433
+Standard	FS	#e8c0aa	FS21575
+Standard	FS	#efd5bb	FS21643
+Standard	FS	#f1d4b4	FS21667
+Standard	FS	#f0d3ca	FS21668
+Standard	FS	#f4d2ba	FS21670
+Standard	FS	#af583a	FS22144
+Standard	FS	#db4612	FS22190	Red
+Standard	FS	#c3663e	FS22203
+Standard	FS	#e10d28	FS22246
+Standard	FS	#cd7d60	FS22276
+Standard	FS	#de8970	FS22356
+Standard	FS	#ff7b00	FS22510
+Standard	FS	#e1a279	FS22516	Tan
+Standard	FS	#dfba9e	FS22519
+Standard	FS	#f9a24d	FS22544
+Standard	FS	#e0c2a2	FS22563
+Standard	FS	#ecc9ab	FS22630
+Standard	FS	#f2ceab	FS22648
+Standard	FS	#c1aa81	FS23448
+Standard	FS	#d2c0a4	FS23522
+Standard	FS	#d7c3a9	FS23531
+Standard	FS	#feb500	FS23538
+Standard	FS	#e1cfa4	FS23564
+Standard	FS	#ddcdaa	FS23578	Cream
+Standard	FS	#f2cd8c	FS23594	Beige
+Standard	FS	#efd0a7	FS23613
+Standard	FS	#e9d0a6	FS23617
+Standard	FS	#e9d0a6	FS23619
+Standard	FS	#ffcc00	FS23655	Yellow
+Standard	FS	#ece3aa	FS23685
+Standard	FS	#ead8b6	FS23690
+Standard	FS	#f8d58b	FS23695
+Standard	FS	#f5d78e	FS23697	Yellow Sand
+Standard	FS	#f4dbb4	FS23711
+Standard	FS	#efddba	FS23717
+Standard	FS	#eedbaf	FS23722	Sand
+Standard	FS	#f2e1ae	FS23727
+Standard	FS	#f4d64f	FS23785
+Standard	FS	#f8e994	FS23793
+Standard	FS	#e8e7a4	FS23814
+Standard	FS	#494a3f	FS24052	Green
+Standard	FS	#504d40	FS24064
+Standard	FS	#575849	FS24079	Forest Green
+Standard	FS	#464132	FS24084
+Standard	FS	#454031	FS24087
+Standard	FS	#645e5a	FS24091
+Standard	FS	#61694e	FS24097
+Standard	FS	#686541	FS24098
+Standard	FS	#426953	FS24108
+Standard	FS	#617876	FS24148
+Standard	FS	#6c7976	FS24158
+Standard	FS	#777d70	FS24159
+Standard	FS	#6d7e68	FS24172
+Standard	FS	#8d856b	FS24201
+Standard	FS	#848f7f	FS24226
+Standard	FS	#7f9271	FS24227
+Standard	FS	#839693	FS24233
+Standard	FS	#89a499	FS24241
+Standard	FS	#6d9f83	FS24260
+Standard	FS	#759c7e	FS24272	Green
+Standard	FS	#8b9d95	FS24277
+Standard	FS	#8ca494	FS24300
+Standard	FS	#82ab9a	FS24325
+Standard	FS	#a1b095	FS24373
+Standard	FS	#a7b8a8	FS24410	Green
+Standard	FS	#b1b9a4	FS24417
+Standard	FS	#b3b69e	FS24424
+Standard	FS	#b2b8a6	FS24432
+Standard	FS	#b1bca1	FS24441
+Standard	FS	#a8bb9a	FS24449
+Standard	FS	#a7bda4	FS24466
+Standard	FS	#adc3b0	FS24491
+Standard	FS	#b2c1a8	FS24504
+Standard	FS	#b7c5b5	FS24516
+Standard	FS	#b2c1af	FS24518
+Standard	FS	#b9c6ac	FS24525
+Standard	FS	#b3c098	FS24533
+Standard	FS	#d1ce8c	FS24552
+Standard	FS	#d7d7ba	FS24554
+Standard	FS	#c1d1b2	FS24558
+Standard	FS	#cbdcb8	FS24583
+Standard	FS	#cee2c7	FS24585
+Standard	FS	#c5d9c0	FS24664
+Standard	FS	#d4ddcb	FS24670
+Standard	FS	#d7ddc1	FS24672
+Standard	FS	#353f45	FS25042
+Standard	FS	#2c3f4f	FS25045
+Standard	FS	#464e63	FS25051
+Standard	FS	#03265e	FS25052
+Standard	FS	#344a65	FS25053
+Standard	FS	#253475	FS25056
+Standard	FS	#2f628c	FS25102
+Standard	FS	#517287	FS25109
+Standard	FS	#647d99	FS25177
+Standard	FS	#2b7eb1	FS25183
+Standard	FS	#52869d	FS25184
+Standard	FS	#748a93	FS25189
+Standard	FS	#6490a7	FS25190
+Standard	FS	#5d8e96	FS25193
+Standard	FS	#849095	FS25237
+Standard	FS	#7f99bb	FS25240
+Standard	FS	#7aa7a1	FS25299
+Standard	FS	#92a7a1	FS25352	Blue
+Standard	FS	#98b2b0	FS25414
+Standard	FS	#83c2e5	FS25466
+Standard	FS	#a2bfd9	FS25488
+Standard	FS	#b7c6cd	FS25526
+Standard	FS	#d1dfe6	FS25550	Light Blue
+Standard	FS	#d4dad2	FS25622
+Standard	FS	#dddcd6	FS25630
+Standard	FS	#54575b	FS26008	Dark Gray
+Standard	FS	#3e444b	FS26044	Gray
+Standard	FS	#585b5b	FS26081	Seaplane Gray
+Standard	FS	#60534a	FS26120
+Standard	FS	#6d6a69	FS26122
+Standard	FS	#6f7172	FS26132
+Standard	FS	#74746f	FS26134
+Standard	FS	#727779	FS26152	Gray
+Standard	FS	#7f848b	FS26173
+Standard	FS	#76808a	FS26176
+Standard	FS	#7b8284	FS26187
+Standard	FS	#898d8f	FS26231
+Standard	FS	#8c9290	FS26250
+Standard	FS	#929392	FS26251
+Standard	FS	#919597	FS26270	Medium Gray
+Standard	FS	#969896	FS26280
+Standard	FS	#999b9c	FS26293
+Standard	FS	#a49a8f	FS26306
+Standard	FS	#9d9d93	FS26307
+Standard	FS	#9a9f9c	FS26314
+Standard	FS	#98a6a7	FS26329
+Standard	FS	#aca89b	FS26357
+Standard	FS	#b5af9b	FS26360
+Standard	FS	#acafb0	FS26373
+Standard	FS	#d4cab0	FS26400
+Standard	FS	#c3baa5	FS26405
+Standard	FS	#c3c1b4	FS26408
+Standard	FS	#c7bdb2	FS26424
+Standard	FS	#b9b7b1	FS26440	Light Gull Gray
+Standard	FS	#c5c4be	FS26492
+Standard	FS	#c1c2c1	FS26493
+Standard	FS	#bbbbaf	FS26496
+Standard	FS	#cfc1b2	FS26521
+Standard	FS	#d5c9ac	FS26555
+Standard	FS	#ccc8b9	FS26559
+Standard	FS	#d5ccb2	FS26586
+Standard	FS	#cbcabd	FS26595
+Standard	FS	#d0ccc2	FS26622
+Standard	FS	#2b2d30	FS27038	Black
+Standard	FS	#313235	FS27040
+Standard	FS	#9f8b51	FS27043
+Standard	FS	#a25b85	FS27142
+Standard	FS	#8a6a8f	FS27144
+Standard	FS	#e7e1d3	FS27722
+Standard	FS	#00dcc4	FS27769
+Standard	FS	#f0e9d3	FS27778
+Standard	FS	#f3ecdd	FS27780	White
+Standard	FS	#f2e6c4	FS27855
+Standard	FS	#f3f2ec	FS27875	Insignia White
+Standard	FS	#fbf5e8	FS27880
+Standard	FS	#faf3e4	FS27886
+Standard	FS	#faf7f2	FS27925
+Standard	FS	#5f554d	FS30040
+Standard	FS	#655551	FS30045	Brown
+Standard	FS	#4f4239	FS30051	Leather Brown
+Standard	FS	#620000	FS30076
+Standard	FS	#6a5c4f	FS30097	Brown
+Standard	FS	#746252	FS30099	Brown
+Standard	FS	#6c5447	FS30108	Red Brown
+Standard	FS	#905a4c	FS30109
+Standard	FS	#7d5b52	FS30111	Brown
+Standard	FS	#896750	FS30117	Earth Red
+Standard	FS	#7b694e	FS30118	Field Drab
+Standard	FS	#876f55	FS30129
+Standard	FS	#886b58	FS30140	Brown Special
+Standard	FS	#8b7258	FS30145
+Standard	FS	#843320	FS30152
+Standard	FS	#87535a	FS30160	Brown
+Standard	FS	#8f5c51	FS30166
+Standard	FS	#9f7e77	FS30206
+Standard	FS	#9e7655	FS30215	Brown
+Standard	FS	#a1836c	FS30219	Tan
+Standard	FS	#a38b7a	FS30227	Tan
+Standard	FS	#ab7e70	FS30233
+Standard	FS	#bb8369	FS30252
+Standard	FS	#c39b69	FS30257	Tan
+Standard	FS	#b0935c	FS30266	Yellow Sand
+Standard	FS	#a6977d	FS30277	Sand Brown
+Standard	FS	#b79d8a	FS30279	Sand
+Standard	FS	#b79c8b	FS30313
+Standard	FS	#b59c8a	FS30315
+Standard	FS	#b2a186	FS30318
+Standard	FS	#b79f8b	FS30324
+Standard	FS	#b6a690	FS30372	Sand
+Standard	FS	#c29963	FS30400	Yellow Sand
+Standard	FS	#cfb49d	FS30450
+Standard	FS	#846349	FS31090	Brown
+Standard	FS	#a84946	FS31136	Insignia Red
+Standard	FS	#c2575f	FS31158
+Standard	FS	#ce4b40	FS31302	Red
+Standard	FS	#ba1c00	FS31350	Red
+Standard	FS	#d4583e	FS31400	Red
+Standard	FS	#d0a18b	FS31433
+Standard	FS	#e7bea7	FS31575
+Standard	FS	#f2b9b9	FS31638
+Standard	FS	#edd3ba	FS31643
+Standard	FS	#f2d5b4	FS31667
+Standard	FS	#edd2c9	FS31668
+Standard	FS	#f6d4d1	FS31669
+Standard	FS	#f3d3bd	FS31670
+Standard	FS	#b66644	FS32169
+Standard	FS	#ea723d	FS32246
+Standard	FS	#d28164	FS32276
+Standard	FS	#de8971	FS32356
+Standard	FS	#e9864e	FS32473	Orange
+Standard	FS	#dfa277	FS32516
+Standard	FS	#fca65f	FS32544
+Standard	FS	#fdb666	FS32555
+Standard	FS	#eac8a8	FS32630
+Standard	FS	#f2cea9	FS32648	Sand
+Standard	FS	#65604d	FS33070
+Standard	FS	#7f6c52	FS33105	Brown
+Standard	FS	#b38c5e	FS33245	Tan
+Standard	FS	#a98100	FS33275
+Standard	FS	#b0a183	FS33303	Sand
+Standard	FS	#e59a00	FS33432
+Standard	FS	#d9a95a	FS33434	Ochre
+Standard	FS	#a79065	FS33440	Tan
+Standard	FS	#b19f7b	FS33446	Dessert Tan
+Standard	FS	#c3ac84	FS33448	Dark Yellow
+Standard	FS	#d5ba57	FS33481
+Standard	FS	#d3c1a3	FS33522
+Standard	FS	#d6c1aa	FS33531	Middlestone
+Standard	FS	#ffb700	FS33538	Orange Yellow
+Standard	FS	#ddcda1	FS33564
+Standard	FS	#dcccaa	FS33578
+Standard	FS	#e8d300	FS33591
+Standard	FS	#efd0a8	FS33613	Radome Tan
+Standard	FS	#e3d1b9	FS33617	Sand
+Standard	FS	#efc259	FS33637
+Standard	FS	#ffca00	FS33655
+Standard	FS	#eae1a9	FS33685
+Standard	FS	#efdbb6	FS33690	Sand
+Standard	FS	#fdb992	FS33695	Yellow Sand
+Standard	FS	#ffd872	FS33696
+Standard	FS	#f0d8b0	FS33711	Sand
+Standard	FS	#efdcbb	FS33717	Sand
+Standard	FS	#eddab1	FS33722
+Standard	FS	#f2e0af	FS33727
+Standard	FS	#f9ed91	FS33793
+Standard	FS	#fae6a7	FS33798
+Standard	FS	#e9eaa4	FS33814
+Standard	FS	#575450	FS34031	Dark Green
+Standard	FS	#55564f	FS34052	USMC Green
+Standard	FS	#232d24	FS34056
+Standard	FS	#3d5e5d	FS34058	Sea Blue
+Standard	FS	#00401e	FS34062
+Standard	FS	#5e5c56	FS34064	Dark Green
+Standard	FS	#2e3933	FS34077	Green
+Standard	FS	#595c4e	FS34079	Forest Green
+Standard	FS	#60644c	FS34082	Green
+Standard	FS	#5d5d50	FS34083	Green
+Standard	FS	#565248	FS34084	Green
+Standard	FS	#615f56	FS34086	I. R. Dark Green
+Standard	FS	#554f44	FS34087	Olive Drab
+Standard	FS	#554f44	FS34088	Olive Drab
+Standard	FS	#6f6f4a	FS34089
+Standard	FS	#238259	FS34090
+Standard	FS	#53645a	FS34092	Dark Green
+Standard	FS	#3e4b39	FS34094	Green
+Standard	FS	#595f43	FS34095	Field Green
+Standard	FS	#616352	FS34096	Dark Green
+Standard	FS	#636a51	FS34097	Field Green
+Standard	FS	#6f6c4c	FS34098	Green
+Standard	FS	#636750	FS34102	Light Green
+Standard	FS	#476e56	FS34108	Medium Green
+Standard	FS	#005d39	FS34115
+Standard	FS	#6f6d4b	FS34127	Green
+Standard	FS	#65735e	FS34128	Deep Green
+Standard	FS	#696748	FS34130
+Standard	FS	#5e8450	FS34138	Green
+Standard	FS	#657a77	FS34148
+Standard	FS	#717048	FS34151	Interior Green
+Standard	FS	#6c7977	FS34158
+Standard	FS	#737a6c	FS34159	Green
+Standard	FS	#556f56	FS34172
+Standard	FS	#8c846a	FS34201	Tan Green
+Standard	FS	#848e7d	FS34226
+Standard	FS	#7f9170	FS34227	Medium Gray Green
+Standard	FS	#599d5a	FS34230	Green
+Standard	FS	#829795	FS34233
+Standard	FS	#81a698	FS34241
+Standard	FS	#909468	FS34258	Green
+Standard	FS	#8e8342	FS34259	Yellow Green
+Standard	FS	#779d80	FS34272
+Standard	FS	#889d95	FS34277
+Standard	FS	#8ba395	FS34300
+Standard	FS	#80a998	FS34325
+Standard	FS	#a0b4a5	FS34373
+Standard	FS	#a2b4a5	FS34410
+Standard	FS	#b8c4ad	FS34414	Green
+Standard	FS	#b3b69f	FS34424	Light Gray Green
+Standard	FS	#b1b7a4	FS34432
+Standard	FS	#afbb9f	FS34441
+Standard	FS	#a7bd9b	FS34449
+Standard	FS	#b1c4ae	FS34491
+Standard	FS	#b6c4ab	FS34504
+Standard	FS	#b6c6b4	FS34516
+Standard	FS	#b2c2b3	FS34518
+Standard	FS	#bbc69c	FS34524
+Standard	FS	#b5c49e	FS34533
+Standard	FS	#a1d28b	FS34540
+Standard	FS	#d4cf90	FS34552	Light Green
+Standard	FS	#d2d5b9	FS34554	Sky
+Standard	FS	#c0d0b0	FS34558
+Standard	FS	#c2c3a4	FS34583
+Standard	FS	#dbe7ab	FS34666	Green
+Standard	FS	#d0dac9	FS34670
+Standard	FS	#d5dbbf	FS34672
+Standard	FS	#454a4e	FS35042	Sea Blue
+Standard	FS	#444854	FS35044	Insignia Blue
+Standard	FS	#41505d	FS35045	Dark Blue
+Standard	FS	#18324d	FS35050
+Standard	FS	#00285c	FS35052	Blue
+Standard	FS	#263b56	FS35053
+Standard	FS	#334685	FS35056
+Standard	FS	#457285	FS35109	Dark Blue
+Standard	FS	#035c3c	FS35115
+Standard	FS	#6f7c8a	FS35164	Intermediate Blue
+Standard	FS	#65829a	FS35177	Medium Blue
+Standard	FS	#137abb	FS35180
+Standard	FS	#2a6da2	FS35182
+Standard	FS	#2280b2	FS35183
+Standard	FS	#6f8a91	FS35189	Blue Gray
+Standard	FS	#6390a9	FS35190	Dark Blue
+Standard	FS	#598f98	FS35193
+Standard	FS	#7d91b9	FS35231	Azure Blue
+Standard	FS	#879297	FS35237	Gray Blue
+Standard	FS	#7f9cbf	FS35240	Blue
+Standard	FS	#5ba6d6	FS35250	Blue
+Standard	FS	#35a49e	FS35275
+Standard	FS	#77a59e	FS35299
+Standard	FS	#94a8a4	FS35352	Blue
+Standard	FS	#9db3ae	FS35414	Blue
+Standard	FS	#92b6d1	FS35450	Air Superiority Blue
+Standard	FS	#86cbe4	FS35466
+Standard	FS	#a1bbd1	FS35488
+Standard	FS	#b6c4cc	FS35526	Light Sky Blue
+Standard	FS	#cedbe2	FS35550
+Standard	FS	#cdd8cd	FS35622	Light Blue
+Standard	FS	#dbdbd5	FS35630
+Standard	FS	#575b62	FS36076	Gray
+Standard	FS	#5b5e5f	FS36081	Dark Gunship Gray
+Standard	FS	#5f656a	FS36099	Dark Gray
+Standard	FS	#676c73	FS36118	Medium Gunship Gray
+Standard	FS	#565654	FS36134
+Standard	FS	#74797b	FS36152	Gray
+Standard	FS	#7f848a	FS36173	Neutral Gray
+Standard	FS	#778089	FS36176	Dark Gull Gray
+Standard	FS	#697374	FS36187
+Standard	FS	#888b8d	FS36231	Dark Gull Gray
+Standard	FS	#8e908f	FS36251	Gray
+Standard	FS	#8f9396	FS36270	Medium Gray
+Standard	FS	#8f9396	FS36280	Dark Gray
+Standard	FS	#989a9b	FS36293
+Standard	FS	#9da2a8	FS36300	Aircraft Exterior Gray
+Standard	FS	#a99e93	FS36306
+Standard	FS	#9fa097	FS36307	Gray
+Standard	FS	#9b9f9b	FS36314	Flint Gray
+Standard	FS	#98a1a9	FS36320	Dark Compass Ghost Gray
+Standard	FS	#849899	FS36329	Light Gray
+Standard	FS	#aca99c	FS36357
+Standard	FS	#aeb1b2	FS36373	Light Gray
+Standard	FS	#a6adb4	FS36375	Light Compass Ghost Gray
+Standard	FS	#c3c19b	FS36400
+Standard	FS	#c6bea8	FS36405
+Standard	FS	#c6b69c	FS36415
+Standard	FS	#c4baaf	FS36424	Medium Gray
+Standard	FS	#b6b5b0	FS36440	Light Gull Gray
+Standard	FS	#b1b3b2	FS36463	Gray
+Standard	FS	#adb5b3	FS36473	Sky Gray
+Standard	FS	#c2c0bf	FS36492	Gray
+Standard	FS	#cfd1d2	FS36495	Light Gray
+Standard	FS	#d2c5b4	FS36521	Tan
+Standard	FS	#d4c6a8	FS36555	Tan
+Standard	FS	#c9c4b3	FS36559	Gray
+Standard	FS	#d3ccb7	FS36586
+Standard	FS	#cdcabe	FS36595
+Standard	FS	#d4d0c7	FS36622	Gray
+Standard	FS	#d8d8d4	FS36628	Flat Aluminum
+Standard	FS	#e9d7c3	FS36642
+Standard	FS	#454445	FS37030
+Standard	FS	#434244	FS37031	Black Gray
+Standard	FS	#424243	FS37038	Black
+Standard	FS	#807537	FS37043
+Standard	FS	#564e4a	FS37056
+Standard	FS	#79537f	FS37100	Purple
+Standard	FS	#9f5d87	FS37142
+Standard	FS	#8b6c8f	FS37144
+Standard	FS	#ded3c4	FS37150
+Standard	FS	#879296	FS37178
+Standard	FS	#a09f9f	FS37200
+Standard	FS	#ebe3d4	FS37722
+Standard	FS	#e2d6c0	FS37769
+Standard	FS	#f1e7cf	FS37778
+Standard	FS	#f6ebc8	FS37855	White
+Standard	FS	#f2f1ea	FS37875	Insignia White
+Standard	FS	#f8f1e1	FS37886
+Standard	FS	#fbf8f6	FS37925	Insignia White
+Standard	FS	#ff5500	FS38903
+Standard	FS	#ff2d00	FS38913
 Standard	RML	#9b9d9f	RLM 01	SILVER FS17178
 Standard	RML	#797061	RLM 02	GREY FS36307
 Standard	RML	#ee880a	RLM 04	YELLOW FS33538

@@ -75,23 +75,15 @@ namespace PaintColorSelector.ViewModels
 				.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
 
-			MakerList = model.PaintList.PaintFilter.MakerList
-				.ToReadOnlyReactiveCollection()
-				.AddTo(CompositeDisposable);
-			SelectedMakerList = model.PaintList.PaintFilter.SelectedMakerList
-				.ToReadOnlyReactiveCollection()
-				.AddTo(CompositeDisposable);
 			SeriesList = model.PaintList.PaintFilter.SeriesList
-				.ToReadOnlyReactiveCollection()
-				.AddTo(CompositeDisposable);
-			SelectedSeriesList = model.PaintList.PaintFilter.SelectedSeriesList
-				.ToReadOnlyReactiveCollection()
+				.ToReadOnlyReactiveCollection(p => new CheckedListBoxItem(p))
 				.AddTo(CompositeDisposable);
 
-			SelectedPaint = new ReactiveProperty<Paint>()
+			SelectedPaint = new ReactiveProperty<Paint>(new Paint())
 				.AddTo(CompositeDisposable);
-			FindPaint = new ReactiveProperty<Paint>()
+			FindPaint = new ReactiveProperty<Paint>(new Paint())
 				.AddTo(CompositeDisposable);
+
 		}
 
 		public void Initialize()
@@ -136,24 +128,15 @@ namespace PaintColorSelector.ViewModels
 		#region フィルター処理
 
 		/// <summary>
-		/// 大分類 フィルターリスト
-		/// </summary>
-		public ReadOnlyReactiveCollection<string> MakerList { get; private set; }
-		public ReadOnlyReactiveCollection<string> SelectedMakerList { get; private set; }
-		/// <summary>
 		/// 小分類 フィルターリスト
 		/// </summary>
-		public ReadOnlyReactiveCollection<string> SeriesList { get; private set; }
-		public ReadOnlyReactiveCollection<string> SelectedSeriesList { get; private set; }
+		public ReadOnlyReactiveCollection<CheckedListBoxItem> SeriesList { get; private set; }
 
 
-		/// <summary>
-		/// フィルター変更
-		/// </summary>
-		public void MakerFilterChange()
+		public bool Contains(object obj)
 		{
-
-
+			Paint paint = obj as Paint;
+			return SeriesList.First(p => p.Text == paint.Series).IsSelected;
 		}
 
 		#endregion

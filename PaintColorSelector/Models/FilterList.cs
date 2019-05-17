@@ -26,13 +26,11 @@ namespace PaintColorSelector.Models
 		/// フィルター用メーカー名リスト
 		/// </summary>
 		public ObservableCollection<string> MakerList { get; private set; } = new ObservableCollection<string>();
-		public ObservableCollection<string> SelectedMakerList { get; private set; } = new ObservableCollection<string>();
 
 		/// <summary>
 		/// フィルター用シリーズ名リスト
 		/// </summary>
 		public ObservableCollection<string> SeriesList { get; private set; } = new ObservableCollection<string>();
-		public ObservableCollection<string> SelectedSeriesList { get; private set; } = new ObservableCollection<string>();
 
 		private void FilterInitialize()
 		{
@@ -48,9 +46,5 @@ namespace PaintColorSelector.Models
 				SeriesList.Add(s);
 			}
 		}
-
-
-
-
 	}
 }

@@ -10,7 +10,11 @@
                         <Setter.Value>
                             <ControlTemplate TargetType="{x:Type ListBoxItem}">
                                 <!--  CheckBoxに見た目を差し替えてContentをバインドする  -->
-                                <CheckBox Content="{TemplateBinding Content}" IsChecked="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=IsSelected}" />
+                                <CheckBox IsChecked="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=IsSelected}">
+                                    <CheckBox.Content>
+                                        <ContentPresenter />
+                                    </CheckBox.Content>
+                                </CheckBox>
                             </ControlTemplate>
                         </Setter.Value>
                     </Setter>

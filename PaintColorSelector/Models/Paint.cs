@@ -94,6 +94,11 @@ namespace PaintColorSelector.Models
 		}
 		private double _DeltaE;
 
+		public Paint()
+		{
+			ColorCode = "#ffffff";
+		}
+
 		public override string ToString()
 		{
 			return $"{Maker}\t{Series}\t{ColorCode}\t{ColorName}\t{Note}";

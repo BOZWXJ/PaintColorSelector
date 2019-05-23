@@ -76,7 +76,7 @@ namespace PaintColorSelector.ViewModels
 				.AddTo(CompositeDisposable);
 
 			SeriesList = model.PaintList.PaintFilter.SeriesList
-				.ToReadOnlyReactiveCollection(p => new CheckedListBoxItem(p))
+				.ToReadOnlyReactiveCollection(p => new CheckedListBoxItem() { Text=p })
 				.AddTo(CompositeDisposable);
 
 			SelectedPaint = new ReactiveProperty<Paint>(new Paint())
@@ -128,15 +128,50 @@ namespace PaintColorSelector.ViewModels
 		#region フィルター処理
 
 		/// <summary>
+		/// 全選択
+		/// </summary>
+		public bool? AllCheckBox
+		{
+			get => _AllCheckBox;
+			set => RaisePropertyChangedIfSet(ref _AllCheckBox, value);
+		}
+		private bool? _AllCheckBox;
+
+		/// <summary>
 		/// 小分類 フィルターリスト
 		/// </summary>
 		public ReadOnlyReactiveCollection<CheckedListBoxItem> SeriesList { get; private set; }
-
 
 		public bool Contains(object obj)
 		{
 			Paint paint = obj as Paint;
 			return SeriesList.First(p => p.Text == paint.Series).IsSelected;
+		}
+
+		public void AllCheckBox_Click()
+		{
+			System.Diagnostics.Debug.WriteLine("AllCheckBox_Click()");
+			bool f;
+			if (AllCheckBox != null) {
+				f = !(bool)AllCheckBox;
+			} else {
+				f = true;
+			}
+			foreach (var item in SeriesList) {
+				item.IsSelected = f;
+			}
+		}
+
+		public void CheckBox_Click()
+		{
+			System.Diagnostics.Debug.WriteLine("CheckBox_Click()");
+			if (SeriesList.All(p => p.IsSelected)) {
+				AllCheckBox = true;
+			} else if (SeriesList.All(p => !p.IsSelected)) {
+				AllCheckBox = false;
+			} else {
+				AllCheckBox = null;
+			}
 		}
 
 		#endregion

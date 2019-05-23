@@ -31,13 +31,6 @@ namespace PaintColorSelector.ViewModels
 			get => _IsSelected;
 			set => RaisePropertyChangedIfSet(ref _IsSelected, value);
 		}
-		private bool _IsSelected;
-
-		public CheckedListBoxItem() : this(string.Empty) { }
-		public CheckedListBoxItem(string text)
-		{
-			Text = text;
-			IsSelected = true;
-		}
+		private bool _IsSelected = true;
 	}
 }

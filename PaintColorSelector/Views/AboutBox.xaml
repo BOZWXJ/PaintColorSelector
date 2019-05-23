@@ -1,0 +1,48 @@
+﻿<Window x:Class="PaintColorSelector.Views.AboutBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:l="http://schemas.livet-mvvm.net/2011/wpf"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:v="clr-namespace:PaintColorSelector.Views"
+        xmlns:vm="clr-namespace:PaintColorSelector.ViewModels"
+        Title="{Binding AssemblyTitle, Mode=OneWay}"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False"
+        SizeToContent="WidthAndHeight"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="ToolWindow">
+
+    <Window.DataContext>
+        <vm:AboutBoxViewModel />
+    </Window.DataContext>
+
+    <i:Interaction.Triggers>
+
+        <!--  Viewに特別な要件が存在しない限りは、トリガーやアクションの自作にこだわらず積極的にコードビハインドを使いましょう  -->
+        <!--  Viewのコードビハインドは、基本的にView内で完結するロジックとViewModelからのイベントの受信(専用リスナを使用する)に限るとトラブルが少なくなります  -->
+        <!--  Livet1.1からはコードビハインドでViewModelのイベントを受信するためのWeakEventLisnterサポートが追加されています  -->
+
+        <!--  WindowのContentRenderedイベントのタイミングでViewModelのInitializeメソッドが呼ばれます  -->
+        <i:EventTrigger EventName="ContentRendered">
+            <l:LivetCallMethodAction MethodName="Initialize" MethodTarget="{Binding}" />
+        </i:EventTrigger>
+
+        <!--  Windowが閉じたタイミングでViewModelのDisposeメソッドが呼ばれます  -->
+        <i:EventTrigger EventName="Closed">
+            <l:DataContextDisposeAction />
+        </i:EventTrigger>
+
+        <!--  WindowのCloseキャンセル処理に対応する場合は、WindowCloseCancelBehaviorの使用を検討してください  -->
+
+    </i:Interaction.Triggers>
+
+    <StackPanel>
+        <TextBox Margin="5,0" BorderThickness="0" Text="{Binding AssemblyProduct, Mode=OneWay}" TextWrapping="Wrap" Height="16" />
+        <TextBox Margin="5,0" BorderThickness="0" Text="{Binding AssemblyVersion, Mode=OneWay}" TextWrapping="Wrap" Height="16" />
+        <TextBox Margin="5,0" BorderThickness="0" Text="{Binding AssemblyCopyright, Mode=OneWay}" TextWrapping="Wrap" Height="16" />
+        <Button HorizontalAlignment="Right" Margin="10" Padding="20,1" Click="Button_Click">Close</Button>
+    </StackPanel>
+</Window>

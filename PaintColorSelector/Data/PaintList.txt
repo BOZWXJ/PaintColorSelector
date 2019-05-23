@@ -625,326 +625,672 @@ Standard	RML	#191a0a	RLM 83	DARK GREEN FS34083
 Standard	RML	#adc1b5	RLM 84v.1	GREEN-BLUE FS35622
 Standard	RML	#78a296	RLM 84v.2	GREEN-BLUE FS34432
 Standard	RML	#b8c58f	RLM 84v.3	GREEN-BLUE FS34554
-vallejo	モデルカラー	#ffffff	70951 001 ホワイト
-vallejo	モデルカラー	#ffffff	70919 002 ファンデーションホワイト
-vallejo	モデルカラー	#ffffff	70842 003 グロスホワイト
-vallejo	モデルカラー	#f3f3e8	70820 004 オフホワイト
-vallejo	モデルカラー	#f5f5df	70918 005 アイボリー
-vallejo	モデルカラー	#fcf0d9	70928 006 ライトフレッシュ
-vallejo	モデルカラー	#d2c79a	70837 007 ペールサンド
-vallejo	モデルカラー	#ddcc8f	70917 008 ベージュ
-vallejo	モデルカラー	#dcc771	70916 009 サンドイエロー
-vallejo	モデルカラー	#ffeb57	70949 010 ライトイエロー
-vallejo	モデルカラー	#fef000	70952 011 レモンイエロー
-vallejo	モデルカラー	#e8e881	70806 012 ジャーマンイエロー
-vallejo	モデルカラー	#feef86	70858 013 アイスイエロー
-vallejo	モデルカラー	#fee602	70915 014 ディープイエロー
-vallejo	モデルカラー	#fdd300	70953 015 フラットイエロー
-vallejo	モデルカラー	#f8c951	70948 016 ゴールデンイエロー
-vallejo	モデルカラー	#f7be89	70815 017 ベーシックスキントーン
-vallejo	モデルカラー	#ddae75	70955 018 フラットフレッシュ
-vallejo	モデルカラー	#dbaa5b	70927 019 ダークフレッシュ
-vallejo	モデルカラー	#eeb565	70845 020 サニースキントーン
-vallejo	モデルカラー	#c08534	70860 021 ミディアムフレッシュトーン
-vallejo	モデルカラー	#ef8500	70911 022 ライトオレンジ
-vallejo	モデルカラー	#e8500f	70805 023 ジャーマンオレンジ
-vallejo	モデルカラー	#e96123	70851 024 ブライトオレンジ
-vallejo	モデルカラー	#e94e18	70956 025 クリアオレンジ
-vallejo	モデルカラー	#d42d20	70817 026 スカーレット
-vallejo	モデルカラー	#e04611	70910 027 オレンジレッド
-vallejo	モデルカラー	#d12520	70909 028 バーミリオン
-vallejo	モデルカラー	#c11e23	70947 029 ダークバーミリオン
-vallejo	モデルカラー	#b62028	70908 030 カーマインレッド
-vallejo	モデルカラー	#a8232d	70957 031 フラットレッド
-vallejo	モデルカラー	#9e403c	70946 032 ダークレッド
-vallejo	モデルカラー	#942a30	70926 033 レッド
-vallejo	モデルカラー	#673131	70814 034 バーントレッド
-vallejo	モデルカラー	#632d33	70859 035 ブラックレッド
-vallejo	モデルカラー	#c99661	70804 036 ベージュレッド
-vallejo	モデルカラー	#f2a282	70835 037 サーモンローズ
-vallejo	モデルカラー	#cd866e	70803 038 ブラウンローズ
-vallejo	モデルカラー	#d77e78	70944 039 オールドローズ
-vallejo	モデルカラー	#d67493	70958 040 ピンク
-vallejo	モデルカラー	#bf2356	70802 041 サンセットレッド
-vallejo	モデルカラー	#a61f49	70945 042 マゼンタ
-vallejo	モデルカラー	#6f2442	70812 043 バイオレットレッド
-vallejo	モデルカラー	#844769	70959 044 パープル
-vallejo	モデルカラー	#4c1d65	70810 045 ロイヤルパープル
-vallejo	モデルカラー	#7d5292	70811 046 ブルーバイオレット
-vallejo	モデルカラー	#472866	70960 047 バイオレット
-vallejo	モデルカラー	#1b3f47	70898 048 ダークシーブルー
-vallejo	モデルカラー	#2f3e5b	70807 049 オックスフォードブルー
-vallejo	モデルカラー	#10283e	70899 050 ダークプルシャンブルー
-vallejo	モデルカラー	#14506c	70965 051 プルシャンブルー
-vallejo	モデルカラー	#012f66	70925 052 ブルー
-vallejo	モデルカラー	#015282	70930 053 ダークブルー
-vallejo	モデルカラー	#344c88	70809 054 ロイヤルブルー
-vallejo	モデルカラー	#2f52a0	70839 055 ウルトラマリン
-vallejo	モデルカラー	#1a6390	70962 056 フラットブルー
-vallejo	モデルカラー	#025f86	70963 057 ミディアムブルー
-vallejo	モデルカラー	#406871	70964 058 フィールドブルー
-vallejo	モデルカラー	#57787f	70900 059 フレンチミラージュブルー
-vallejo	モデルカラー	#5d7d82	70903 060 インターメディエイトブルー
-vallejo	モデルカラー	#3e6c89	70943 061 グレーブルー
-vallejo	モデルカラー	#6e7dad	70902 062 アズール
-vallejo	モデルカラー	#64859a	70901 063 パステルブルー
-vallejo	モデルカラー	#86b8b1	70906 064 ペールブルー
-vallejo	モデルカラー	#0583c6	70841 065 アンドレアブルー
-vallejo	モデルカラー	#089fdd	70844 066 ディープスカイブルー
-vallejo	モデルカラー	#99d6f5	70961 067 スカイブルー
-vallejo	モデルカラー	#0290a3	70840 068 ライトターコイズ
-vallejo	モデルカラー	#098499	70966 069 ターコイズ
-vallejo	モデルカラー	#088f91	70808 070 グリーンブルー
-vallejo	モデルカラー	#068a63	70838 071 エメラルド
-vallejo	モデルカラー	#016a41	70970 072 ディープグリーン
-vallejo	モデルカラー	#048556	70969 073 パークグリーンフラット
-vallejo	モデルカラー	#399045	70891 074 インターメディエイトグリーン
-vallejo	モデルカラー	#009c46	70942 075 ライトグリーン
-vallejo	モデルカラー	#5eac7d	70974 076 グリーンスカイ
-vallejo	モデルカラー	#6fad3c	70827 077 ライムグリーン
-vallejo	モデルカラー	#dae003	70954 078 イエローグリーン
-vallejo	モデルカラー	#78942a	70857 079 ゴールデンオリーブ
-vallejo	モデルカラー	#50883c	70833 080 ジャーマンカムフラージュブライトグリーン
-vallejo	モデルカラー	#1f7028	70850 081 ミディアムオリーブ
-vallejo	モデルカラー	#6d8b29	70967 082 オリーブグリーン
-vallejo	モデルカラー	#1f6a2c	70968 083 フラットグリーン
-vallejo	モデルカラー	#507e2f	70922 084 ユニフォームグリーン
-vallejo	モデルカラー	#1f6052	70920 085 ドイツ軍ユニフォーム色
-vallejo	モデルカラー	#566b3b	70823 086 ドイツ空軍カムフラージュグリーン
-vallejo	モデルカラー	#20392c	70892 087 イエローオリーブ
-vallejo	モデルカラー	#396959	70895 088 ガンシップグリーン
-vallejo	モデルカラー	#3d5a47	70975 089 ミリタリーグリーン
-vallejo	モデルカラー	#496743	70890 090 リフラクティブグリーン
-vallejo	モデルカラー	#3b4745	70889 091 オリーブブラウン
-vallejo	モデルカラー	#37574a	70888 092 オリーブグレー
-vallejo	モデルカラー	#50614b	70887 093 アメリカ軍オリーブドラブ
-vallejo	モデルカラー	#626f50	70924 094 WWⅡロシア軍ユニフォーム色
-vallejo	モデルカラー	#5a6c52	70893 095 アメリカ軍ダークグリーン
-vallejo	モデルカラー	#395648	70894 096 カムフラージュオリーブグリーン
-vallejo	モデルカラー	#284a43	70979 097 ジャーマンカムフラージュダークグリーン
-vallejo	モデルカラー	#27544f	70897 098 ブロンズグリーン
-vallejo	モデルカラー	#2c514a	70896 099 ジャーマンカムフラージュエクストラダークグリーン
-vallejo	モデルカラー	#00453d	70980 100 ブラックグリーン
-vallejo	モデルカラー	#877f57	70886 101 グリーングレー
-vallejo	モデルカラー	#5f5a44	70830 102 WWⅡドイツ軍フィールドグレー
-vallejo	モデルカラー	#a3956d	70821 103 WWⅡドイツ軍カムフラージュベージュ
-vallejo	モデルカラー	#999d7c	70884 104 ストーングレー
-vallejo	モデルカラー	#414a53	70816 105 WWⅡドイツ空軍ユニフォーム色
-vallejo	モデルカラー	#b6cec1	70971 106 グリーングレー
-vallejo	モデルカラー	#729e98	70972 107 ライトグリーンブルー
-vallejo	モデルカラー	#9ab8b8	70973 108 ライトシーグレー
-vallejo	モデルカラー	#a8c196	70885 109 パステルグリーン
-vallejo	モデルカラー	#c5cdb8	70986 110 デッキタン
-vallejo	モデルカラー	#959f80	70987 111 ミディアムグレー
-vallejo	モデルカラー	#958a40	70881 112 イエローグリーン
-vallejo	モデルカラー	#908554	70880 113 カーキグレー
-vallejo	モデルカラー	#947e4f	70879 114 グリーンブラウン
-vallejo	モデルカラー	#97945d	70988 115 カーキ
-vallejo	モデルカラー	#a1954e	70978 116 ダークイエロー
-vallejo	モデルカラー	#9b8741	70923 117 WWⅡ日本軍ユニフォーム色
-vallejo	モデルカラー	#a29a53	70882 118 ミドルストーン
-vallejo	モデルカラー	#ad8f5f	70914 119 グリーンオーカー
-vallejo	モデルカラー	#d7d09b	70976 120 バフ
-vallejo	モデルカラー	#c69c3c	70913 121 イエローオーカー
-vallejo	モデルカラー	#b89855	70912 122 タンイエロー
-vallejo	モデルカラー	#d4b978	70847 123 ダークサンド
-vallejo	モデルカラー	#baa16c	70819 124 イラクサンド
-vallejo	モデルカラー	#b29142	70977 125 デザートイエロー
-vallejo	モデルカラー	#bd891d	70877 126 ゴールドブラウン
-vallejo	モデルカラー	#ad7823	70856 127 オーカーブラウン
-vallejo	モデルカラー	#a4844c	70824 128 ジャーマンカムフラージュオレンジオーカー
-vallejo	モデルカラー	#be7544	70929 129 ライトブラウン
-vallejo	モデルカラー	#cd3a25	70829 130 アマランスレッド
-vallejo	モデルカラー	#b76e39	70981 131 オレンジブラウン
-vallejo	モデルカラー	#ad7e5a	70876 132 ブラウンサンド
-vallejo	モデルカラー	#a87b57	70843 133 コルクブラウン
-vallejo	モデルカラー	#9e785b	70874 134 タンアース
-vallejo	モデルカラー	#7a5741	70875 135 ベージュブラウン
-vallejo	モデルカラー	#944132	70818 136 レッドレザー
-vallejo	モデルカラー	#853634	70982 137 キャバリーブラウン
-vallejo	モデルカラー	#8d5647	70940 138 サドルブラウン
-vallejo	モデルカラー	#86493e	70846 139 マホガニーブラウン
-vallejo	モデルカラー	#77443b	70984 140 フラットブラウン
-vallejo	モデルカラー	#795d29	70921 141 イギリス軍ユニフォーム色
-vallejo	モデルカラー	#755d3b	70873 142 アメリカ軍フィールドドラブ
-vallejo	モデルカラー	#876133	70983 143 フラットアース
-vallejo	モデルカラー	#826a56	70825 144 ジャーマンカムフラージュペールバイオレットブラウン
-vallejo	モデルカラー	#712729	70826 145 ジャーマンカムフラージュミディアムブラウン
-vallejo	モデルカラー	#502220	70985 146 ハルレッド
-vallejo	モデルカラー	#4d4436	70871 147 レザーブラウン
-vallejo	モデルカラー	#695344	70941 148 バーントアンバー
-vallejo	モデルカラー	#645042	70872 149 チョコレートブラウン
-vallejo	モデルカラー	#5c3423	70822 150 ジャーマンカムフラージュブラックブラウン
-vallejo	モデルカラー	#edefef	70993 151 ホワイトグレー
-vallejo	モデルカラー	#dfe1d6	70883 152 シルバーグレー
-vallejo	モデルカラー	#c7d5d3	70907 153 ペールグレーブルー
-vallejo	モデルカラー	#bac0b9	70989 154 スカイグレー
-vallejo	モデルカラー	#9ea29b	70990 155 ライトグレー
-vallejo	モデルカラー	#a6aca7	70905 156 ブルーグレーペール
-vallejo	モデルカラー	#5d7775	70904 157 ダークブルーグレー
-vallejo	モデルカラー	#899693	70870 158 ミディアムシーグレー
-vallejo	モデルカラー	#828079	70991 159 ダークシーグレー
-vallejo	モデルカラー	#64787a	70992 160 ニュートラルグレー
-vallejo	モデルカラー	#515a63	70836 161 ロンドングレー
-vallejo	モデルカラー	#59695f	70869 162 バサルトグレー
-vallejo	モデルカラー	#234543	70868 163 ダークシーグリーン
-vallejo	モデルカラー	#47554d	70867 164 ダークブルーグレー
-vallejo	モデルカラー	#495852	70866 165 グレーグリーン
-vallejo	モデルカラー	#1e3e3b	70994 166 ダークグレー
-vallejo	モデルカラー	#132e2e	70995 167 ジャーマングレー
-vallejo	モデルカラー	#2a3538	70862 168 ブラックグレー
-vallejo	モデルカラー	#232a2f	70950 169 ブラック
-vallejo	モデルカラー	#000000	70861 170 グロスブラック
-vallejo	モデルカラー	#cbd5d3	70997 171 シルバー
-vallejo	モデルカラー	#d4b653	70996 172 ゴールド
-vallejo	モデルカラー	#988548	70878 173 オールドゴールド
-vallejo	モデルカラー	#a87d2c	70801 174 ブラス（真鍮色）
-vallejo	モデルカラー	#786f37	70998 175 ブロンズ
-vallejo	モデルカラー	#ae5227	70999 176 カッパー
-vallejo	モデルカラー	#7a7d73	70865 177 オイリースチール
-vallejo	モデルカラー	#878b84	70864 178 ナチュラルスチール
-vallejo	モデルカラー	#606964	70863 179 ガンメタルグレー
-vallejo	モデルカラー	#33463c	70800 180 ガンメタルブルー
-vallejo	モデルカラー	#322d27	70939 181 スモーク
-vallejo	モデルカラー	#c26a4b	70828 182 ウッドグレイン（木目）
-vallejo	モデルカラー	#eacc5a	70834 183 ナチュラルウッドグレイン
-vallejo	メカカラー	#ffffff	69001 001 ピュアホワイト
-vallejo	メカカラー	#f1ede3	69002 002 ホワイトグレー
-vallejo	メカカラー	#edecde	69003 003 オフホワイト
-vallejo	メカカラー	#f9b735	69004 004 イエロー
-vallejo	メカカラー	#f8dac7	69005 005 ライトフレッシュ
-vallejo	メカカラー	#cf8375	69006 006 ピンク
-vallejo	メカカラー	#e9602b	69007 007 オレンジ
-vallejo	メカカラー	#bc3f42	69008 008 レッド
-vallejo	メカカラー	#b43739	69009 009 SZ レッド
-vallejo	メカカラー	#bf0f25	69010 010 マゼンタ
-vallejo	メカカラー	#90242b	69011 011 ダークレッド
-vallejo	メカカラー	#ab8cbc	69012 012 パープル
-vallejo	メカカラー	#4d4e6d	69013 013 ティターンブルー
-vallejo	メカカラー	#6c8488	69014 014 グレーグリーン
-vallejo	メカカラー	#678798	69015 015 ブルーグレー
-vallejo	メカカラー	#6b8bbb	69016 016 ライトブルー
-vallejo	メカカラー	#79caeb	69017 017 スカイブルー
-vallejo	メカカラー	#2196c4	69018 018 ディープブルー
-vallejo	メカカラー	#3f6799	69019 019 ブルー
-vallejo	メカカラー	#0b70b1	69020 020 エレクトリックブルー
-vallejo	メカカラー	#3a5977	69021 021 ダークブルー
-vallejo	メカカラー	#3f454c	69022 022 ティターンダークブルー
-vallejo	メカカラー	#199b9d	69023 023 ターコイズ
-vallejo	メカカラー	#a0b2b2	69024 024 ストーングレー
-vallejo	メカカラー	#c4ccbc	69025 025 ライトグリーン
-vallejo	メカカラー	#a3a791	69026 026 グリーン
-vallejo	メカカラー	#899f7d	69027 027 グリーンブルー
-vallejo	メカカラー	#606e45	69028 028 オリーブグリーン
-vallejo	メカカラー	#717538	69029 029 ディープグリーン
-vallejo	メカカラー	#525445	69030 030 ダークグリーン
-vallejo	メカカラー	#b8a072	69031 031 グレーサンド
-vallejo	メカカラー	#eaa330	69032 032 イエローオーカー
-vallejo	メカカラー	#e4b76f	69033 033 サンドイエロー
-vallejo	メカカラー	#7b654e	69034 034 ブラウン
-vallejo	メカカラー	#484242	69035 035 チッピングブラウン
-vallejo	メカカラー	#969da1	69036 036 ライトグレー
-vallejo	メカカラー	#8a979f	69037 037 グレー
-vallejo	メカカラー	#818487	69038 038 ミディアムグレー
-vallejo	メカカラー	#7a7b7d	69039 039 グレーZ
-vallejo	メカカラー	#525661	69040 040 ファントムグレー
-vallejo	メカカラー	#4e5250	69041 041 ダークグレーグリーン
-vallejo	メカカラー	#1a171b	69042 042 ピュアブラック
-vallejo	メカカラー	#f0e53e	69054 054 蛍光イエロー
-vallejo	メカカラー	#e75f12	69055 055 蛍光オレンジ
-vallejo	メカカラー	#e4408d	69056 056 蛍光マゼンタ
-vallejo	メカカラー	#a6c956	69057 057 蛍光グリーン
-vallejo	メカカラー	#616760	69058 058 ガンメタル
-vallejo	メカカラー	#ab8321	69059 059 ゴールド
-vallejo	メカカラー	#9b8548	69060 060 オールドゴールド
-vallejo	メカカラー	#985937	69061 061 カッパー
-vallejo	メカカラー	#766b34	69062 062 ブロンズ
-vallejo	メカカラー	#888982	69063 063 スチール
-vallejo	メカカラー	#ced5d2	69064 064 ライトスチール
-vallejo	メカカラー	#727275	69065 065 ダークスチール
-vallejo	メカカラー	#ca586f	69066 066 メタリックレッド
-vallejo	メカカラー	#363c4c	69067 067 メタリックブルー
-vallejo	メカカラー	#24917e	69068 068 メタリックグリーン
-vallejo	ゲームカラー	#ffffff	72001 001 デッドホワイト
-vallejo	ゲームカラー	#ffffff	72002 002 アークティックホワイト
-vallejo	ゲームカラー	#e5bba4	72003 003 ペールフレッシュ
-vallejo	ゲームカラー	#d6a070	72004 004 エルフスキントーン
-vallejo	ゲームカラー	#eedb00	72005 005 ムーンイエロー
-vallejo	ゲームカラー	#e89c00	72006 006 サンイエロー
-vallejo	ゲームカラー	#e69001	72007 007 ゴールドイエロー
-vallejo	ゲームカラー	#de6517	72008 008 オレンジファイヤー
-vallejo	ゲームカラー	#dc5028	72009 009 ホットオレンジ
-vallejo	ゲームカラー	#b61b32	72010 010 ブラッディレッド
-vallejo	ゲームカラー	#763939	72011 011 ゴーリーレッド
-vallejo	ゲームカラー	#981e2d	72012 012 スカーレットレッド
-vallejo	ゲームカラー	#c681ad	72013 013 スクイッドピンク
-vallejo	ゲームカラー	#a62971	72014 014 ウォーロードパープル
-vallejo	ゲームカラー	#48287d	72015 015 ヘックスドライケン
-vallejo	ゲームカラー	#433f64	72016 016 ロイヤルパープル
-vallejo	ゲームカラー	#404378	72017 017 ダークブルー
-vallejo	ゲームカラー	#3d3d5c	72018 018 ストーミーブルー
-vallejo	ゲームカラー	#373748	72019 019 ナイトブルー
-vallejo	ゲームカラー	#304666	72020 020 インペリアルブルー
-vallejo	ゲームカラー	#0065a8	72021 021 マジックブルー
-vallejo	ゲームカラー	#155187	72022 022 ウルトラマリンブルー
-vallejo	ゲームカラー	#338aae	72023 023 エレクトリックブルー
-vallejo	ゲームカラー	#047c89	72024 024 ターコイズ
-vallejo	ゲームカラー	#329a7f	72025 025 フォールグリーン
-vallejo	ゲームカラー	#06816a	72026 026 ジェイドグリーン
-vallejo	ゲームカラー	#215753	72027 027 スカービーグリーン
-vallejo	ゲームカラー	#33443d	72028 028 ダークグリーン
-vallejo	ゲームカラー	#486f52	72029 029 シックグリーン
-vallejo	ゲームカラー	#687343	72030 030 ゴブリングリーン
-vallejo	ゲームカラー	#887d3c	72031 031 カムフラージュグリーン
-vallejo	ゲームカラー	#6ba24e	72032 032 エスコルピナグリーン
-vallejo	ゲームカラー	#8fbe55	72033 033 ライブリーグリーン
-vallejo	ゲームカラー	#cebc8f	72034 034 ボーンホワイト
-vallejo	ゲームカラー	#aea06b	72035 035 デッドフレッシュ
-vallejo	ゲームカラー	#bf8245	72036 036 ブロンズフレッシュトーン
-vallejo	ゲームカラー	#be8137	72037 037 フィルシーブラウン
-vallejo	ゲームカラー	#b5792e	72038 038 スクロフュラスブラウン
-vallejo	ゲームカラー	#c98e0b	72039 039 プレーグブラウン
-vallejo	ゲームカラー	#866539	72040 040 レザーブラウン
-vallejo	ゲームカラー	#d18d65	72041 041 ドワーフスキン
-vallejo	ゲームカラー	#9e5323	72042 042 パラサイトブラウン
-vallejo	ゲームカラー	#77583d	72043 043 ビースティーブラウン
-vallejo	ゲームカラー	#5f4038	72044 044 ダークフレッシュトーン
-vallejo	ゲームカラー	#4b3f3b	72045 045 チャードブラウン
-vallejo	ゲームカラー	#bac8d1	72046 046 ゴーストグレイ
-vallejo	ゲームカラー	#aabcc9	72047 047 ウルフグレイ
-vallejo	ゲームカラー	#5c6980	72048 048 ソンブルグレイ
-vallejo	ゲームカラー	#9d9da0	72049 049 ストーンウォールグレイ
-vallejo	ゲームカラー	#7c7c80	72050 050 コールドグレイ
-vallejo	ゲームカラー	#040000	72051 051 ブラック
-vallejo	ゲームカラー	#a3a9ae	72052 052 シルバー
-vallejo	ゲームカラー	#7c7c80	72053 053 チェインメイルシルバー
-vallejo	ゲームカラー	#63646a	72054 054 ガンメタル
-vallejo	ゲームカラー	#e3a900	72055 055 ポリッシュドゴールド
-vallejo	ゲームカラー	#976f31	72056 056 グロリアスゴールド
-vallejo	ゲームカラー	#91694b	72057 057 ブライトブロンズ
-vallejo	ゲームカラー	#855536	72058 058 ブラッシーブラス
-vallejo	ゲームカラー	#7a4733	72059 059 ハンマードカッパー
-vallejo	ゲームカラー	#4e2b2a	72060 060 ティニーティン
-vallejo	ゲームカラー	#a59c6f	72061 061 カーキ
-vallejo	ゲームカラー	#7b6345	72062 062 アース
-vallejo	ゲームカラー	#958745	72063 063 デザートイエロー
-vallejo	ゲームカラー	#4e5729	72064 064 イエローオリーブ
-vallejo	ゲームカラー	#6a3d38	72065 065 テラコッタ
-vallejo	ゲームカラー	#a55b4b	72066 066 タン
-vallejo	ゲームカラー	#5d5c45	72067 067 カイマングリーン
-vallejo	ゲームカラー	#2c2122	72068 068 スモーキーインク
-vallejo	ゲームカラー	#acc5e2	72095 095 グレイシャーブルー
-vallejo	ゲームカラー	#9dcfca	72096 096 ベルデグリ
-vallejo	ゲームカラー	#e2ca78	72097 097 ペールイエロー
-vallejo	ゲームカラー	#e4d5b3	72098 098 エルフィックフレッシュ
-vallejo	ゲームカラー	#ecab7d	72099 099 カドミウムスキン
-vallejo	ゲームカラー	#e29083	72100 100 ローズフレッシュ
-vallejo	ゲームカラー	#faf1d7	72101 101 オフホワイト
-vallejo	ゲームカラー	#3e657e	72102 102 スチールグレイ
-vallejo	ゲームカラー	#d2d725	72103 103 蛍光イエロー
-vallejo	ゲームカラー	#60ac44	72104 104 蛍光グリーン
-vallejo	ゲームカラー	#3f5846	72105 105 ミューテーショングリーン
-vallejo	ゲームカラー	#a53934	72106 106 スカーレットレッド
+Standard	RAL	#bebd7f	RAL 1000	Green beige
+Standard	RAL	#c2b078	RAL 1001	Beige
+Standard	RAL	#c6a664	RAL 1002	Sand yellow
+Standard	RAL	#e5be01	RAL 1003	Signal yellow
+Standard	RAL	#cda434	RAL 1004	Golden yellow
+Standard	RAL	#a98307	RAL 1005	Honey yellow
+Standard	RAL	#e4a010	RAL 1006	Maize yellow
+Standard	RAL	#dc9d00	RAL 1007	Daffodil yellow
+Standard	RAL	#8a6642	RAL 1011	Brown beige
+Standard	RAL	#c7b446	RAL 1012	Lemon yellow
+Standard	RAL	#eeeacd	RAL 1013	Oyster white
+Standard	RAL	#e1cc4f	RAL 1014	Ivory
+Standard	RAL	#e6d690	RAL 1015	Light ivory
+Standard	RAL	#edff21	RAL 1016	Sulfur yellow
+Standard	RAL	#f5d033	RAL 1017	Saffron yellow
+Standard	RAL	#f8f32b	RAL 1018	Zinc yellow
+Standard	RAL	#9e9764	RAL 1019	Grey beige
+Standard	RAL	#999950	RAL 1020	Olive yellow
+Standard	RAL	#f3da0b	RAL 1021	Colza yellow
+Standard	RAL	#fad201	RAL 1023	Traffic yellow
+Standard	RAL	#aea04b	RAL 1024	Ochre yellow
+Standard	RAL	#ffff00	RAL 1026	Luminous yellow
+Standard	RAL	#9d9101	RAL 1027	Curry
+Standard	RAL	#f4a900	RAL 1028	Melon yellow
+Standard	RAL	#d6ae01	RAL 1032	Broom yellow
+Standard	RAL	#f3a505	RAL 1033	Dahlia yellow
+Standard	RAL	#efa94a	RAL 1034	Pastel yellow
+Standard	RAL	#6a5d4d	RAL 1035	Pearl beige
+Standard	RAL	#705335	RAL 1036	Pearl gold
+Standard	RAL	#f39f18	RAL 1037	Sun yellow
+Standard	RAL	#ed760e	RAL 2000	Yellow orange
+Standard	RAL	#c93c20	RAL 2001	Red orange
+Standard	RAL	#cb2821	RAL 2002	Vermilion
+Standard	RAL	#ff7514	RAL 2003	Pastel orange
+Standard	RAL	#f44611	RAL 2004	Pure orange
+Standard	RAL	#ff2301	RAL 2005	Luminous orange
+Standard	RAL	#ffa420	RAL 2007	Luminous bright orange
+Standard	RAL	#f75e25	RAL 2008	Bright red orange
+Standard	RAL	#f54021	RAL 2009	Traffic orange
+Standard	RAL	#d84b20	RAL 2010	Signal orange
+Standard	RAL	#ec7c26	RAL 2011	Deep orange
+Standard	RAL	#e55137	RAL 2012	Salmon range
+Standard	RAL	#c35831	RAL 2013	Pearl orange
+Standard	RAL	#af2b1e	RAL 3000	Flame red
+Standard	RAL	#a52019	RAL 3001	Signal red
+Standard	RAL	#a2231d	RAL 3002	Carmine red
+Standard	RAL	#9b111e	RAL 3003	Ruby red
+Standard	RAL	#75151e	RAL 3004	Purple red
+Standard	RAL	#5e2129	RAL 3005	Wine red
+Standard	RAL	#351f21	RAL 3007	Black red
+Standard	RAL	#642424	RAL 3009	Oxide red
+Standard	RAL	#781f19	RAL 3011	Brown red
+Standard	RAL	#c1876b	RAL 3012	Beige red
+Standard	RAL	#a12312	RAL 3013	Tomato red
+Standard	RAL	#d36e70	RAL 3014	Antique pink
+Standard	RAL	#ea899a	RAL 3015	Light pink
+Standard	RAL	#b32821	RAL 3016	Coral red
+Standard	RAL	#e63244	RAL 3017	Rose
+Standard	RAL	#d53032	RAL 3018	Strawberry red
+Standard	RAL	#cc0605	RAL 3020	Traffic red
+Standard	RAL	#d95030	RAL 3022	Salmon pink
+Standard	RAL	#f80000	RAL 3024	Luminous red
+Standard	RAL	#fe0000	RAL 3026	Luminous bright red
+Standard	RAL	#c51d34	RAL 3027	Raspberry red
+Standard	RAL	#cb3234	RAL 3028	Pure  red
+Standard	RAL	#b32428	RAL 3031	Orient red
+Standard	RAL	#721422	RAL 3032	Pearl ruby red
+Standard	RAL	#b44c43	RAL 3033	Pearl pink
+Standard	RAL	#6d3f5b	RAL 4001	Red lilac
+Standard	RAL	#922b3e	RAL 4002	Red violet
+Standard	RAL	#de4c8a	RAL 4003	Heather violet
+Standard	RAL	#6e1c34	RAL 4004	Claret violet
+Standard	RAL	#6c4675	RAL 4005	Blue lilac
+Standard	RAL	#a03472	RAL 4006	Traffic purple
+Standard	RAL	#4a192c	RAL 4007	Purple violet
+Standard	RAL	#924e7d	RAL 4008	Signal violet
+Standard	RAL	#a47d90	RAL 4009	Pastel violet
+Standard	RAL	#d72d6d	RAL 4010	Telemagenta
+Standard	RAL	#8673a1	RAL 4011	Pearl violet
+Standard	RAL	#6c6881	RAL 4012	Pearl black berry
+Standard	RAL	#2a2e4b	RAL 5000	Violet blue
+Standard	RAL	#1f3438	RAL 5001	Green blue
+Standard	RAL	#20214f	RAL 5002	Ultramarine blue
+Standard	RAL	#1d1e33	RAL 5003	Saphire blue
+Standard	RAL	#18171c	RAL 5004	Black blue
+Standard	RAL	#1e2d6e	RAL 5005	Signal blue
+Standard	RAL	#3e5f8a	RAL 5007	Brillant blue
+Standard	RAL	#26252d	RAL 5008	Grey blue
+Standard	RAL	#025669	RAL 5009	Azure blue
+Standard	RAL	#0e294b	RAL 5010	Gentian blue
+Standard	RAL	#231a24	RAL 5011	Steel blue
+Standard	RAL	#3b83bd	RAL 5012	Light blue
+Standard	RAL	#1e213d	RAL 5013	Cobalt blue
+Standard	RAL	#606e8c	RAL 5014	Pigeon blue
+Standard	RAL	#2271b3	RAL 5015	Sky blue
+Standard	RAL	#063971	RAL 5017	Traffic blue
+Standard	RAL	#3f888f	RAL 5018	Turquoise blue
+Standard	RAL	#1b5583	RAL 5019	Capri blue
+Standard	RAL	#1d334a	RAL 5020	Ocean blue
+Standard	RAL	#256d7b	RAL 5021	Water blue
+Standard	RAL	#252850	RAL 5022	Night blue
+Standard	RAL	#49678d	RAL 5023	Distant blue
+Standard	RAL	#5d9b9b	RAL 5024	Pastel blue
+Standard	RAL	#2a6478	RAL 5025	Pearl gentian blue
+Standard	RAL	#102c54	RAL 5026	Pearl night blue
+Standard	RAL	#316650	RAL 6000	Patina green
+Standard	RAL	#287233	RAL 6001	Emerald green
+Standard	RAL	#2d572c	RAL 6002	Leaf green
+Standard	RAL	#424632	RAL 6003	Olive green
+Standard	RAL	#1f3a3d	RAL 6004	Blue green
+Standard	RAL	#2f4538	RAL 6005	Moss green
+Standard	RAL	#3e3b32	RAL 6006	Grey olive
+Standard	RAL	#343b29	RAL 6007	Bottle green
+Standard	RAL	#39352a	RAL 6008	Brown green
+Standard	RAL	#31372b	RAL 6009	Fir green
+Standard	RAL	#35682d	RAL 6010	Grass green
+Standard	RAL	#587246	RAL 6011	Reseda green
+Standard	RAL	#343e40	RAL 6012	Black green
+Standard	RAL	#6c7156	RAL 6013	Reed green
+Standard	RAL	#47402e	RAL 6014	Yellow olive
+Standard	RAL	#3b3c36	RAL 6015	Black olive
+Standard	RAL	#1e5945	RAL 6016	Turquoise green
+Standard	RAL	#4c9141	RAL 6017	May green
+Standard	RAL	#57a639	RAL 6018	Yellow green
+Standard	RAL	#bdecb6	RAL 6019	Pastel green
+Standard	RAL	#2e3a23	RAL 6020	Chrome green
+Standard	RAL	#89ac76	RAL 6021	Pale green
+Standard	RAL	#25221b	RAL 6022	Olive drab
+Standard	RAL	#308446	RAL 6024	Traffic green
+Standard	RAL	#3d642d	RAL 6025	Fern green
+Standard	RAL	#015d52	RAL 6026	Opal green
+Standard	RAL	#84c3be	RAL 6027	Light green
+Standard	RAL	#2c5545	RAL 6028	Pine green
+Standard	RAL	#20603d	RAL 6029	Mint green
+Standard	RAL	#317f43	RAL 6032	Signal green
+Standard	RAL	#497e76	RAL 6033	Mint turquoise
+Standard	RAL	#7fb5b5	RAL 6034	Pastel turquoise
+Standard	RAL	#1c542d	RAL 6035	Pearl green
+Standard	RAL	#193737	RAL 6036	Pearl opal green
+Standard	RAL	#008f39	RAL 6037	Pure green
+Standard	RAL	#00bb2d	RAL 6038	Luminous green
+Standard	RAL	#78858b	RAL 7000	Squirrel grey
+Standard	RAL	#8a9597	RAL 7001	Silver grey
+Standard	RAL	#7e7b52	RAL 7002	Olive grey
+Standard	RAL	#6c7059	RAL 7003	Moss grey
+Standard	RAL	#969992	RAL 7004	Signal grey
+Standard	RAL	#646b63	RAL 7005	Mouse grey
+Standard	RAL	#6d6552	RAL 7006	Beige grey
+Standard	RAL	#6a5f31	RAL 7008	Khaki grey
+Standard	RAL	#4d5645	RAL 7009	Green grey
+Standard	RAL	#4c514a	RAL 7010	Tarpaulin grey
+Standard	RAL	#434b4d	RAL 7011	Iron grey
+Standard	RAL	#4e5754	RAL 7012	Basalt grey
+Standard	RAL	#464531	RAL 7013	Brown grey
+Standard	RAL	#434750	RAL 7015	Slate grey
+Standard	RAL	#293133	RAL 7016	Anthracite grey
+Standard	RAL	#23282b	RAL 7021	Black grey
+Standard	RAL	#332f2c	RAL 7022	Umbra grey
+Standard	RAL	#686c5e	RAL 7023	Concrete grey
+Standard	RAL	#474a51	RAL 7024	Graphite grey
+Standard	RAL	#2f353b	RAL 7026	Granite grey
+Standard	RAL	#8b8c7a	RAL 7030	Stone grey
+Standard	RAL	#474b4e	RAL 7031	Blue grey
+Standard	RAL	#b8b799	RAL 7032	Pebble grey
+Standard	RAL	#7d8471	RAL 7033	Cement grey
+Standard	RAL	#8f8b66	RAL 7034	Yellow grey
+Standard	RAL	#d7d7d7	RAL 7035	Light grey
+Standard	RAL	#7f7679	RAL 7036	Platinum grey
+Standard	RAL	#7d7f7d	RAL 7037	Dusty grey
+Standard	RAL	#c3c3c3	RAL 7038	Agate grey
+Standard	RAL	#6c6960	RAL 7039	Quartz grey
+Standard	RAL	#9da1aa	RAL 7040	Window grey
+Standard	RAL	#8d948d	RAL 7042	Traffic grey A
+Standard	RAL	#4e5452	RAL 7043	Traffic grey B
+Standard	RAL	#cac4b0	RAL 7044	Silk grey
+Standard	RAL	#909090	RAL 7045	Telegrey 1
+Standard	RAL	#82898f	RAL 7046	Telegrey 2
+Standard	RAL	#d0d0d0	RAL 7047	Telegrey 4
+Standard	RAL	#898176	RAL 7048	Pearl mouse grey
+Standard	RAL	#826c34	RAL 8000	Green brown
+Standard	RAL	#955f20	RAL 8001	Ochre brown
+Standard	RAL	#6c3b2a	RAL 8002	Signal brown
+Standard	RAL	#734222	RAL 8003	Clay brown
+Standard	RAL	#8e402a	RAL 8004	Copper brown
+Standard	RAL	#59351f	RAL 8007	Fawn brown
+Standard	RAL	#6f4f28	RAL 8008	Olive brown
+Standard	RAL	#5b3a29	RAL 8011	Nut brown
+Standard	RAL	#592321	RAL 8012	Red brown
+Standard	RAL	#382c1e	RAL 8014	Sepia brown
+Standard	RAL	#633a34	RAL 8015	Chestnut brown
+Standard	RAL	#4c2f27	RAL 8016	Mahogany brown
+Standard	RAL	#45322e	RAL 8017	Chocolate brown
+Standard	RAL	#403a3a	RAL 8019	Grey brown
+Standard	RAL	#212121	RAL 8022	Black brown
+Standard	RAL	#a65e2e	RAL 8023	Orange brown
+Standard	RAL	#79553d	RAL 8024	Beige brown
+Standard	RAL	#755c48	RAL 8025	Pale brown
+Standard	RAL	#4e3b31	RAL 8028	Terra brown
+Standard	RAL	#763c28	RAL 8029	Pearl copper
+Standard	RAL	#faf4e3	RAL 9001	Cream
+Standard	RAL	#e7ebda	RAL 9002	Grey white
+Standard	RAL	#f4f4f4	RAL 9003	Signal white
+Standard	RAL	#282828	RAL 9004	Signal black
+Standard	RAL	#0a0a0a	RAL 9005	Jet black
+Standard	RAL	#a5a5a5	RAL 9006	White aluminium
+Standard	RAL	#8f8f8f	RAL 9007	Grey aluminium
+Standard	RAL	#ffffff	RAL 9010	Pure white
+Standard	RAL	#1c1c1c	RAL 9011	Graphite black
+Standard	RAL	#f6f6f6	RAL 9016	Traffic white
+Standard	RAL	#1e1e1d	RAL 9017	Traffic black
+Standard	RAL	#d7d7d7	RAL 9018	Papyrus white
+Standard	RAL	#9c9c9c	RAL 9022	Pearl light grey
+Standard	RAL	#828282	RAL 9023	Pearl dark grey
+vallejo	モデルカラー	#ffffff	70951 001 ホワイト	vallejo モデルカラー
+vallejo	モデルカラー	#ffffff	70919 002 ファンデーションホワイト	vallejo モデルカラー
+vallejo	モデルカラー	#ffffff	70842 003 グロスホワイト	vallejo モデルカラー
+vallejo	モデルカラー	#f3f3e8	70820 004 オフホワイト	vallejo モデルカラー
+vallejo	モデルカラー	#f5f5df	70918 005 アイボリー	vallejo モデルカラー
+vallejo	モデルカラー	#fcf0d9	70928 006 ライトフレッシュ	vallejo モデルカラー
+vallejo	モデルカラー	#d2c79a	70837 007 ペールサンド	vallejo モデルカラー
+vallejo	モデルカラー	#ddcc8f	70917 008 ベージュ	vallejo モデルカラー
+vallejo	モデルカラー	#dcc771	70916 009 サンドイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#ffeb57	70949 010 ライトイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#fef000	70952 011 レモンイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#e8e881	70806 012 ジャーマンイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#feef86	70858 013 アイスイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#fee602	70915 014 ディープイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#fdd300	70953 015 フラットイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#f8c951	70948 016 ゴールデンイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#f7be89	70815 017 ベーシックスキントーン	vallejo モデルカラー
+vallejo	モデルカラー	#ddae75	70955 018 フラットフレッシュ	vallejo モデルカラー
+vallejo	モデルカラー	#dbaa5b	70927 019 ダークフレッシュ	vallejo モデルカラー
+vallejo	モデルカラー	#eeb565	70845 020 サニースキントーン	vallejo モデルカラー
+vallejo	モデルカラー	#c08534	70860 021 ミディアムフレッシュトーン	vallejo モデルカラー
+vallejo	モデルカラー	#ef8500	70911 022 ライトオレンジ	vallejo モデルカラー
+vallejo	モデルカラー	#e8500f	70805 023 ジャーマンオレンジ	vallejo モデルカラー
+vallejo	モデルカラー	#e96123	70851 024 ブライトオレンジ	vallejo モデルカラー
+vallejo	モデルカラー	#e94e18	70956 025 クリアオレンジ	vallejo モデルカラー
+vallejo	モデルカラー	#d42d20	70817 026 スカーレット	vallejo モデルカラー
+vallejo	モデルカラー	#e04611	70910 027 オレンジレッド	vallejo モデルカラー
+vallejo	モデルカラー	#d12520	70909 028 バーミリオン	vallejo モデルカラー
+vallejo	モデルカラー	#c11e23	70947 029 ダークバーミリオン	vallejo モデルカラー
+vallejo	モデルカラー	#b62028	70908 030 カーマインレッド	vallejo モデルカラー
+vallejo	モデルカラー	#a8232d	70957 031 フラットレッド	vallejo モデルカラー
+vallejo	モデルカラー	#9e403c	70946 032 ダークレッド	vallejo モデルカラー
+vallejo	モデルカラー	#942a30	70926 033 レッド	vallejo モデルカラー
+vallejo	モデルカラー	#673131	70814 034 バーントレッド	vallejo モデルカラー
+vallejo	モデルカラー	#632d33	70859 035 ブラックレッド	vallejo モデルカラー
+vallejo	モデルカラー	#c99661	70804 036 ベージュレッド	vallejo モデルカラー
+vallejo	モデルカラー	#f2a282	70835 037 サーモンローズ	vallejo モデルカラー
+vallejo	モデルカラー	#cd866e	70803 038 ブラウンローズ	vallejo モデルカラー
+vallejo	モデルカラー	#d77e78	70944 039 オールドローズ	vallejo モデルカラー
+vallejo	モデルカラー	#d67493	70958 040 ピンク	vallejo モデルカラー
+vallejo	モデルカラー	#bf2356	70802 041 サンセットレッド	vallejo モデルカラー
+vallejo	モデルカラー	#a61f49	70945 042 マゼンタ	vallejo モデルカラー
+vallejo	モデルカラー	#6f2442	70812 043 バイオレットレッド	vallejo モデルカラー
+vallejo	モデルカラー	#844769	70959 044 パープル	vallejo モデルカラー
+vallejo	モデルカラー	#4c1d65	70810 045 ロイヤルパープル	vallejo モデルカラー
+vallejo	モデルカラー	#7d5292	70811 046 ブルーバイオレット	vallejo モデルカラー
+vallejo	モデルカラー	#472866	70960 047 バイオレット	vallejo モデルカラー
+vallejo	モデルカラー	#1b3f47	70898 048 ダークシーブルー	vallejo モデルカラー
+vallejo	モデルカラー	#2f3e5b	70807 049 オックスフォードブルー	vallejo モデルカラー
+vallejo	モデルカラー	#10283e	70899 050 ダークプルシャンブルー	vallejo モデルカラー
+vallejo	モデルカラー	#14506c	70965 051 プルシャンブルー	vallejo モデルカラー
+vallejo	モデルカラー	#012f66	70925 052 ブルー	vallejo モデルカラー
+vallejo	モデルカラー	#015282	70930 053 ダークブルー	vallejo モデルカラー
+vallejo	モデルカラー	#344c88	70809 054 ロイヤルブルー	vallejo モデルカラー
+vallejo	モデルカラー	#2f52a0	70839 055 ウルトラマリン	vallejo モデルカラー
+vallejo	モデルカラー	#1a6390	70962 056 フラットブルー	vallejo モデルカラー
+vallejo	モデルカラー	#025f86	70963 057 ミディアムブルー	vallejo モデルカラー
+vallejo	モデルカラー	#406871	70964 058 フィールドブルー	vallejo モデルカラー
+vallejo	モデルカラー	#57787f	70900 059 フレンチミラージュブルー	vallejo モデルカラー
+vallejo	モデルカラー	#5d7d82	70903 060 インターメディエイトブルー	vallejo モデルカラー
+vallejo	モデルカラー	#3e6c89	70943 061 グレーブルー	vallejo モデルカラー
+vallejo	モデルカラー	#6e7dad	70902 062 アズール	vallejo モデルカラー
+vallejo	モデルカラー	#64859a	70901 063 パステルブルー	vallejo モデルカラー
+vallejo	モデルカラー	#86b8b1	70906 064 ペールブルー	vallejo モデルカラー
+vallejo	モデルカラー	#0583c6	70841 065 アンドレアブルー	vallejo モデルカラー
+vallejo	モデルカラー	#089fdd	70844 066 ディープスカイブルー	vallejo モデルカラー
+vallejo	モデルカラー	#99d6f5	70961 067 スカイブルー	vallejo モデルカラー
+vallejo	モデルカラー	#0290a3	70840 068 ライトターコイズ	vallejo モデルカラー
+vallejo	モデルカラー	#098499	70966 069 ターコイズ	vallejo モデルカラー
+vallejo	モデルカラー	#088f91	70808 070 グリーンブルー	vallejo モデルカラー
+vallejo	モデルカラー	#068a63	70838 071 エメラルド	vallejo モデルカラー
+vallejo	モデルカラー	#016a41	70970 072 ディープグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#048556	70969 073 パークグリーンフラット	vallejo モデルカラー
+vallejo	モデルカラー	#399045	70891 074 インターメディエイトグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#009c46	70942 075 ライトグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#5eac7d	70974 076 グリーンスカイ	vallejo モデルカラー
+vallejo	モデルカラー	#6fad3c	70827 077 ライムグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#dae003	70954 078 イエローグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#78942a	70857 079 ゴールデンオリーブ	vallejo モデルカラー
+vallejo	モデルカラー	#50883c	70833 080 ジャーマンカムフラージュブライトグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#1f7028	70850 081 ミディアムオリーブ	vallejo モデルカラー
+vallejo	モデルカラー	#6d8b29	70967 082 オリーブグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#1f6a2c	70968 083 フラットグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#507e2f	70922 084 ユニフォームグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#1f6052	70920 085 ドイツ軍ユニフォーム色	vallejo モデルカラー
+vallejo	モデルカラー	#566b3b	70823 086 ドイツ空軍カムフラージュグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#20392c	70892 087 イエローオリーブ	vallejo モデルカラー
+vallejo	モデルカラー	#396959	70895 088 ガンシップグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#3d5a47	70975 089 ミリタリーグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#496743	70890 090 リフラクティブグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#3b4745	70889 091 オリーブブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#37574a	70888 092 オリーブグレー	vallejo モデルカラー
+vallejo	モデルカラー	#50614b	70887 093 アメリカ軍オリーブドラブ	vallejo モデルカラー
+vallejo	モデルカラー	#626f50	70924 094 WWⅡロシア軍ユニフォーム色	vallejo モデルカラー
+vallejo	モデルカラー	#5a6c52	70893 095 アメリカ軍ダークグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#395648	70894 096 カムフラージュオリーブグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#284a43	70979 097 ジャーマンカムフラージュダークグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#27544f	70897 098 ブロンズグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#2c514a	70896 099 ジャーマンカムフラージュエクストラダークグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#00453d	70980 100 ブラックグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#877f57	70886 101 グリーングレー	vallejo モデルカラー
+vallejo	モデルカラー	#5f5a44	70830 102 WWⅡドイツ軍フィールドグレー	vallejo モデルカラー
+vallejo	モデルカラー	#a3956d	70821 103 WWⅡドイツ軍カムフラージュベージュ	vallejo モデルカラー
+vallejo	モデルカラー	#999d7c	70884 104 ストーングレー	vallejo モデルカラー
+vallejo	モデルカラー	#414a53	70816 105 WWⅡドイツ空軍ユニフォーム色	vallejo モデルカラー
+vallejo	モデルカラー	#b6cec1	70971 106 グリーングレー	vallejo モデルカラー
+vallejo	モデルカラー	#729e98	70972 107 ライトグリーンブルー	vallejo モデルカラー
+vallejo	モデルカラー	#9ab8b8	70973 108 ライトシーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#a8c196	70885 109 パステルグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#c5cdb8	70986 110 デッキタン	vallejo モデルカラー
+vallejo	モデルカラー	#959f80	70987 111 ミディアムグレー	vallejo モデルカラー
+vallejo	モデルカラー	#958a40	70881 112 イエローグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#908554	70880 113 カーキグレー	vallejo モデルカラー
+vallejo	モデルカラー	#947e4f	70879 114 グリーンブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#97945d	70988 115 カーキ	vallejo モデルカラー
+vallejo	モデルカラー	#a1954e	70978 116 ダークイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#9b8741	70923 117 WWⅡ日本軍ユニフォーム色	vallejo モデルカラー
+vallejo	モデルカラー	#a29a53	70882 118 ミドルストーン	vallejo モデルカラー
+vallejo	モデルカラー	#ad8f5f	70914 119 グリーンオーカー	vallejo モデルカラー
+vallejo	モデルカラー	#d7d09b	70976 120 バフ	vallejo モデルカラー
+vallejo	モデルカラー	#c69c3c	70913 121 イエローオーカー	vallejo モデルカラー
+vallejo	モデルカラー	#b89855	70912 122 タンイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#d4b978	70847 123 ダークサンド	vallejo モデルカラー
+vallejo	モデルカラー	#baa16c	70819 124 イラクサンド	vallejo モデルカラー
+vallejo	モデルカラー	#b29142	70977 125 デザートイエロー	vallejo モデルカラー
+vallejo	モデルカラー	#bd891d	70877 126 ゴールドブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#ad7823	70856 127 オーカーブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#a4844c	70824 128 ジャーマンカムフラージュオレンジオーカー	vallejo モデルカラー
+vallejo	モデルカラー	#be7544	70929 129 ライトブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#cd3a25	70829 130 アマランスレッド	vallejo モデルカラー
+vallejo	モデルカラー	#b76e39	70981 131 オレンジブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#ad7e5a	70876 132 ブラウンサンド	vallejo モデルカラー
+vallejo	モデルカラー	#a87b57	70843 133 コルクブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#9e785b	70874 134 タンアース	vallejo モデルカラー
+vallejo	モデルカラー	#7a5741	70875 135 ベージュブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#944132	70818 136 レッドレザー	vallejo モデルカラー
+vallejo	モデルカラー	#853634	70982 137 キャバリーブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#8d5647	70940 138 サドルブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#86493e	70846 139 マホガニーブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#77443b	70984 140 フラットブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#795d29	70921 141 イギリス軍ユニフォーム色	vallejo モデルカラー
+vallejo	モデルカラー	#755d3b	70873 142 アメリカ軍フィールドドラブ	vallejo モデルカラー
+vallejo	モデルカラー	#876133	70983 143 フラットアース	vallejo モデルカラー
+vallejo	モデルカラー	#826a56	70825 144 ジャーマンカムフラージュペールバイオレットブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#712729	70826 145 ジャーマンカムフラージュミディアムブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#502220	70985 146 ハルレッド	vallejo モデルカラー
+vallejo	モデルカラー	#4d4436	70871 147 レザーブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#695344	70941 148 バーントアンバー	vallejo モデルカラー
+vallejo	モデルカラー	#645042	70872 149 チョコレートブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#5c3423	70822 150 ジャーマンカムフラージュブラックブラウン	vallejo モデルカラー
+vallejo	モデルカラー	#edefef	70993 151 ホワイトグレー	vallejo モデルカラー
+vallejo	モデルカラー	#dfe1d6	70883 152 シルバーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#c7d5d3	70907 153 ペールグレーブルー	vallejo モデルカラー
+vallejo	モデルカラー	#bac0b9	70989 154 スカイグレー	vallejo モデルカラー
+vallejo	モデルカラー	#9ea29b	70990 155 ライトグレー	vallejo モデルカラー
+vallejo	モデルカラー	#a6aca7	70905 156 ブルーグレーペール	vallejo モデルカラー
+vallejo	モデルカラー	#5d7775	70904 157 ダークブルーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#899693	70870 158 ミディアムシーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#828079	70991 159 ダークシーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#64787a	70992 160 ニュートラルグレー	vallejo モデルカラー
+vallejo	モデルカラー	#515a63	70836 161 ロンドングレー	vallejo モデルカラー
+vallejo	モデルカラー	#59695f	70869 162 バサルトグレー	vallejo モデルカラー
+vallejo	モデルカラー	#234543	70868 163 ダークシーグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#47554d	70867 164 ダークブルーグレー	vallejo モデルカラー
+vallejo	モデルカラー	#495852	70866 165 グレーグリーン	vallejo モデルカラー
+vallejo	モデルカラー	#1e3e3b	70994 166 ダークグレー	vallejo モデルカラー
+vallejo	モデルカラー	#132e2e	70995 167 ジャーマングレー	vallejo モデルカラー
+vallejo	モデルカラー	#2a3538	70862 168 ブラックグレー	vallejo モデルカラー
+vallejo	モデルカラー	#232a2f	70950 169 ブラック	vallejo モデルカラー
+vallejo	モデルカラー	#000000	70861 170 グロスブラック	vallejo モデルカラー
+vallejo	モデルカラー	#cbd5d3	70997 171 シルバー	vallejo モデルカラー
+vallejo	モデルカラー	#d4b653	70996 172 ゴールド	vallejo モデルカラー
+vallejo	モデルカラー	#988548	70878 173 オールドゴールド	vallejo モデルカラー
+vallejo	モデルカラー	#a87d2c	70801 174 ブラス（真鍮色）	vallejo モデルカラー
+vallejo	モデルカラー	#786f37	70998 175 ブロンズ	vallejo モデルカラー
+vallejo	モデルカラー	#ae5227	70999 176 カッパー	vallejo モデルカラー
+vallejo	モデルカラー	#7a7d73	70865 177 オイリースチール	vallejo モデルカラー
+vallejo	モデルカラー	#878b84	70864 178 ナチュラルスチール	vallejo モデルカラー
+vallejo	モデルカラー	#606964	70863 179 ガンメタルグレー	vallejo モデルカラー
+vallejo	モデルカラー	#33463c	70800 180 ガンメタルブルー	vallejo モデルカラー
+vallejo	モデルカラー	#322d27	70939 181 スモーク	vallejo モデルカラー
+vallejo	モデルカラー	#c26a4b	70828 182 ウッドグレイン（木目）	vallejo モデルカラー
+vallejo	モデルカラー	#eacc5a	70834 183 ナチュラルウッドグレイン	vallejo モデルカラー
+vallejo	メカカラー	#ffffff	69001 001 ピュアホワイト	vallejo メカカラー
+vallejo	メカカラー	#f1ede3	69002 002 ホワイトグレー	vallejo メカカラー
+vallejo	メカカラー	#edecde	69003 003 オフホワイト	vallejo メカカラー
+vallejo	メカカラー	#f9b735	69004 004 イエロー	vallejo メカカラー
+vallejo	メカカラー	#f8dac7	69005 005 ライトフレッシュ	vallejo メカカラー
+vallejo	メカカラー	#cf8375	69006 006 ピンク	vallejo メカカラー
+vallejo	メカカラー	#e9602b	69007 007 オレンジ	vallejo メカカラー
+vallejo	メカカラー	#bc3f42	69008 008 レッド	vallejo メカカラー
+vallejo	メカカラー	#b43739	69009 009 SZ レッド	vallejo メカカラー
+vallejo	メカカラー	#bf0f25	69010 010 マゼンタ	vallejo メカカラー
+vallejo	メカカラー	#90242b	69011 011 ダークレッド	vallejo メカカラー
+vallejo	メカカラー	#ab8cbc	69012 012 パープル	vallejo メカカラー
+vallejo	メカカラー	#4d4e6d	69013 013 ティターンブルー	vallejo メカカラー
+vallejo	メカカラー	#6c8488	69014 014 グレーグリーン	vallejo メカカラー
+vallejo	メカカラー	#678798	69015 015 ブルーグレー	vallejo メカカラー
+vallejo	メカカラー	#6b8bbb	69016 016 ライトブルー	vallejo メカカラー
+vallejo	メカカラー	#79caeb	69017 017 スカイブルー	vallejo メカカラー
+vallejo	メカカラー	#2196c4	69018 018 ディープブルー	vallejo メカカラー
+vallejo	メカカラー	#3f6799	69019 019 ブルー	vallejo メカカラー
+vallejo	メカカラー	#0b70b1	69020 020 エレクトリックブルー	vallejo メカカラー
+vallejo	メカカラー	#3a5977	69021 021 ダークブルー	vallejo メカカラー
+vallejo	メカカラー	#3f454c	69022 022 ティターンダークブルー	vallejo メカカラー
+vallejo	メカカラー	#199b9d	69023 023 ターコイズ	vallejo メカカラー
+vallejo	メカカラー	#a0b2b2	69024 024 ストーングレー	vallejo メカカラー
+vallejo	メカカラー	#c4ccbc	69025 025 ライトグリーン	vallejo メカカラー
+vallejo	メカカラー	#a3a791	69026 026 グリーン	vallejo メカカラー
+vallejo	メカカラー	#899f7d	69027 027 グリーンブルー	vallejo メカカラー
+vallejo	メカカラー	#606e45	69028 028 オリーブグリーン	vallejo メカカラー
+vallejo	メカカラー	#717538	69029 029 ディープグリーン	vallejo メカカラー
+vallejo	メカカラー	#525445	69030 030 ダークグリーン	vallejo メカカラー
+vallejo	メカカラー	#b8a072	69031 031 グレーサンド	vallejo メカカラー
+vallejo	メカカラー	#eaa330	69032 032 イエローオーカー	vallejo メカカラー
+vallejo	メカカラー	#e4b76f	69033 033 サンドイエロー	vallejo メカカラー
+vallejo	メカカラー	#7b654e	69034 034 ブラウン	vallejo メカカラー
+vallejo	メカカラー	#484242	69035 035 チッピングブラウン	vallejo メカカラー
+vallejo	メカカラー	#969da1	69036 036 ライトグレー	vallejo メカカラー
+vallejo	メカカラー	#8a979f	69037 037 グレー	vallejo メカカラー
+vallejo	メカカラー	#818487	69038 038 ミディアムグレー	vallejo メカカラー
+vallejo	メカカラー	#7a7b7d	69039 039 グレーZ	vallejo メカカラー
+vallejo	メカカラー	#525661	69040 040 ファントムグレー	vallejo メカカラー
+vallejo	メカカラー	#4e5250	69041 041 ダークグレーグリーン	vallejo メカカラー
+vallejo	メカカラー	#1a171b	69042 042 ピュアブラック	vallejo メカカラー
+vallejo	メカカラー	#f0e53e	69054 054 蛍光イエロー	vallejo メカカラー
+vallejo	メカカラー	#e75f12	69055 055 蛍光オレンジ	vallejo メカカラー
+vallejo	メカカラー	#e4408d	69056 056 蛍光マゼンタ	vallejo メカカラー
+vallejo	メカカラー	#a6c956	69057 057 蛍光グリーン	vallejo メカカラー
+vallejo	メカカラー	#616760	69058 058 ガンメタル	vallejo メカカラー
+vallejo	メカカラー	#ab8321	69059 059 ゴールド	vallejo メカカラー
+vallejo	メカカラー	#9b8548	69060 060 オールドゴールド	vallejo メカカラー
+vallejo	メカカラー	#985937	69061 061 カッパー	vallejo メカカラー
+vallejo	メカカラー	#766b34	69062 062 ブロンズ	vallejo メカカラー
+vallejo	メカカラー	#888982	69063 063 スチール	vallejo メカカラー
+vallejo	メカカラー	#ced5d2	69064 064 ライトスチール	vallejo メカカラー
+vallejo	メカカラー	#727275	69065 065 ダークスチール	vallejo メカカラー
+vallejo	メカカラー	#ca586f	69066 066 メタリックレッド	vallejo メカカラー
+vallejo	メカカラー	#363c4c	69067 067 メタリックブルー	vallejo メカカラー
+vallejo	メカカラー	#24917e	69068 068 メタリックグリーン	vallejo メカカラー
+vallejo	ゲームカラー	#ffffff	72001 001 デッドホワイト	vallejo ゲームカラー
+vallejo	ゲームカラー	#ffffff	72002 002 アークティックホワイト	vallejo ゲームカラー
+vallejo	ゲームカラー	#e5bba4	72003 003 ペールフレッシュ	vallejo ゲームカラー
+vallejo	ゲームカラー	#d6a070	72004 004 エルフスキントーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#eedb00	72005 005 ムーンイエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#e89c00	72006 006 サンイエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#e69001	72007 007 ゴールドイエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#de6517	72008 008 オレンジファイヤー	vallejo ゲームカラー
+vallejo	ゲームカラー	#dc5028	72009 009 ホットオレンジ	vallejo ゲームカラー
+vallejo	ゲームカラー	#b61b32	72010 010 ブラッディレッド	vallejo ゲームカラー
+vallejo	ゲームカラー	#763939	72011 011 ゴーリーレッド	vallejo ゲームカラー
+vallejo	ゲームカラー	#981e2d	72012 012 スカーレットレッド	vallejo ゲームカラー
+vallejo	ゲームカラー	#c681ad	72013 013 スクイッドピンク	vallejo ゲームカラー
+vallejo	ゲームカラー	#a62971	72014 014 ウォーロードパープル	vallejo ゲームカラー
+vallejo	ゲームカラー	#48287d	72015 015 ヘックスドライケン	vallejo ゲームカラー
+vallejo	ゲームカラー	#433f64	72016 016 ロイヤルパープル	vallejo ゲームカラー
+vallejo	ゲームカラー	#404378	72017 017 ダークブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#3d3d5c	72018 018 ストーミーブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#373748	72019 019 ナイトブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#304666	72020 020 インペリアルブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#0065a8	72021 021 マジックブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#155187	72022 022 ウルトラマリンブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#338aae	72023 023 エレクトリックブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#047c89	72024 024 ターコイズ	vallejo ゲームカラー
+vallejo	ゲームカラー	#329a7f	72025 025 フォールグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#06816a	72026 026 ジェイドグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#215753	72027 027 スカービーグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#33443d	72028 028 ダークグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#486f52	72029 029 シックグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#687343	72030 030 ゴブリングリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#887d3c	72031 031 カムフラージュグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#6ba24e	72032 032 エスコルピナグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#8fbe55	72033 033 ライブリーグリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#cebc8f	72034 034 ボーンホワイト	vallejo ゲームカラー
+vallejo	ゲームカラー	#aea06b	72035 035 デッドフレッシュ	vallejo ゲームカラー
+vallejo	ゲームカラー	#bf8245	72036 036 ブロンズフレッシュトーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#be8137	72037 037 フィルシーブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#b5792e	72038 038 スクロフュラスブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#c98e0b	72039 039 プレーグブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#866539	72040 040 レザーブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#d18d65	72041 041 ドワーフスキン	vallejo ゲームカラー
+vallejo	ゲームカラー	#9e5323	72042 042 パラサイトブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#77583d	72043 043 ビースティーブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#5f4038	72044 044 ダークフレッシュトーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#4b3f3b	72045 045 チャードブラウン	vallejo ゲームカラー
+vallejo	ゲームカラー	#bac8d1	72046 046 ゴーストグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#aabcc9	72047 047 ウルフグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#5c6980	72048 048 ソンブルグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#9d9da0	72049 049 ストーンウォールグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#7c7c80	72050 050 コールドグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#040000	72051 051 ブラック	vallejo ゲームカラー
+vallejo	ゲームカラー	#a3a9ae	72052 052 シルバー	vallejo ゲームカラー
+vallejo	ゲームカラー	#7c7c80	72053 053 チェインメイルシルバー	vallejo ゲームカラー
+vallejo	ゲームカラー	#63646a	72054 054 ガンメタル	vallejo ゲームカラー
+vallejo	ゲームカラー	#e3a900	72055 055 ポリッシュドゴールド	vallejo ゲームカラー
+vallejo	ゲームカラー	#976f31	72056 056 グロリアスゴールド	vallejo ゲームカラー
+vallejo	ゲームカラー	#91694b	72057 057 ブライトブロンズ	vallejo ゲームカラー
+vallejo	ゲームカラー	#855536	72058 058 ブラッシーブラス	vallejo ゲームカラー
+vallejo	ゲームカラー	#7a4733	72059 059 ハンマードカッパー	vallejo ゲームカラー
+vallejo	ゲームカラー	#4e2b2a	72060 060 ティニーティン	vallejo ゲームカラー
+vallejo	ゲームカラー	#a59c6f	72061 061 カーキ	vallejo ゲームカラー
+vallejo	ゲームカラー	#7b6345	72062 062 アース	vallejo ゲームカラー
+vallejo	ゲームカラー	#958745	72063 063 デザートイエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#4e5729	72064 064 イエローオリーブ	vallejo ゲームカラー
+vallejo	ゲームカラー	#6a3d38	72065 065 テラコッタ	vallejo ゲームカラー
+vallejo	ゲームカラー	#a55b4b	72066 066 タン	vallejo ゲームカラー
+vallejo	ゲームカラー	#5d5c45	72067 067 カイマングリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#2c2122	72068 068 スモーキーインク	vallejo ゲームカラー
+vallejo	ゲームカラー	#acc5e2	72095 095 グレイシャーブルー	vallejo ゲームカラー
+vallejo	ゲームカラー	#9dcfca	72096 096 ベルデグリ	vallejo ゲームカラー
+vallejo	ゲームカラー	#e2ca78	72097 097 ペールイエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#e4d5b3	72098 098 エルフィックフレッシュ	vallejo ゲームカラー
+vallejo	ゲームカラー	#ecab7d	72099 099 カドミウムスキン	vallejo ゲームカラー
+vallejo	ゲームカラー	#e29083	72100 100 ローズフレッシュ	vallejo ゲームカラー
+vallejo	ゲームカラー	#faf1d7	72101 101 オフホワイト	vallejo ゲームカラー
+vallejo	ゲームカラー	#3e657e	72102 102 スチールグレイ	vallejo ゲームカラー
+vallejo	ゲームカラー	#d2d725	72103 103 蛍光イエロー	vallejo ゲームカラー
+vallejo	ゲームカラー	#60ac44	72104 104 蛍光グリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#3f5846	72105 105 ミューテーショングリーン	vallejo ゲームカラー
+vallejo	ゲームカラー	#a53934	72106 106 スカーレットレッド	vallejo ゲームカラー
+TAMIYA	アクリル	#010101	X-1 ブラック	アクリルミニ
+TAMIYA	アクリル	#ffffff	X-2 ホワイト	アクリルミニ
+TAMIYA	アクリル	#1d2c55	X-3 ロイヤルブルー	アクリルミニ
+TAMIYA	アクリル	#08347d	X-4 ブルー	アクリルミニ
+TAMIYA	アクリル	#00441d	X-5 グリーン	アクリルミニ
+TAMIYA	アクリル	#fe8100	X-6 オレンジ	アクリルミニ
+TAMIYA	アクリル	#fe0002	X-7 レッド	アクリルミニ
+TAMIYA	アクリル	#fee600	X-8 レモンイエロー	アクリルミニ
+TAMIYA	アクリル	#4c2307	X-9 ブラウン	アクリルミニ
+TAMIYA	アクリル	#4f5457	X-10 ガンメタル	アクリルミニ
+TAMIYA	アクリル	#c3c8cb	X-11 クロームシルバー	アクリルミニ
+TAMIYA	アクリル	#cda206	X-12 ゴールドリーフ	アクリルミニ
+TAMIYA	アクリル	#1e7497	X-13 メタリックブルー	アクリルミニ
+TAMIYA	アクリル	#1e99c3	X-14 スカイブルー	アクリルミニ
+TAMIYA	アクリル	#66b921	X-15 ライトグリーン	アクリルミニ
+TAMIYA	アクリル	#484aa1	X-16 パープル	アクリルミニ
+TAMIYA	アクリル	#fa81aa	X-17 ピンク	アクリルミニ
+TAMIYA	アクリル	#323232	X-18 セミグロスブラック	アクリルミニ
+TAMIYA	アクリル	#8f908b	X-19 スモーク	アクリルミニ
+TAMIYA	アクリル	#ffffff	X-20A 溶剤	アクリルミニ
+TAMIYA	アクリル	#ffffff	X-21 フラットベース	アクリルミニ
+TAMIYA	アクリル	#ffffff	X-22 クリヤー	アクリルミニ
+TAMIYA	アクリル	#33b4d1	X-23 クリヤーブルー	アクリルミニ
+TAMIYA	アクリル	#fee600	X-24 クリヤーイエロー	アクリルミニ
+TAMIYA	アクリル	#1b9743	X-25 クリヤーグリーン	アクリルミニ
+TAMIYA	アクリル	#ff8c17	X-26 クリヤーオレンジ	アクリルミニ
+TAMIYA	アクリル	#fa0026	X-27 クリヤーレッド	アクリルミニ
+TAMIYA	アクリル	#34a44e	X-28 パークグリーン	アクリルミニ
+TAMIYA	アクリル	#cdbb73	X-31 チタンゴールド	アクリルミニ
+TAMIYA	アクリル	#cdccb8	X-32 チタンシルバー	アクリルミニ
+TAMIYA	アクリル	#672823	X-33 ブロンズ	アクリルミニ
+TAMIYA	アクリル	#993e05	X-34 メタリックブラウン	アクリルミニ
+TAMIYA	アクリル	#ffffff	X-35 セミグロスクリヤー	アクリルミニ
+TAMIYA	アクリル	#323232	XF-1 フラットブラック	アクリルミニ
+TAMIYA	アクリル	#ffffff	XF-2 フラットホワイト	アクリルミニ
+TAMIYA	アクリル	#ffcc00	XF-3 フラットイエロー	アクリルミニ
+TAMIYA	アクリル	#b2c40e	XF-4 イエローグリーン	アクリルミニ
+TAMIYA	アクリル	#254311	XF-5 フラットグリーン	アクリルミニ
+TAMIYA	アクリル	#cc5d04	XF-6 コッパー	アクリルミニ
+TAMIYA	アクリル	#fe0002	XF-7 フラットレッド	アクリルミニ
+TAMIYA	アクリル	#294b79	XF-8 フラットブルー	アクリルミニ
+TAMIYA	アクリル	#3c0e00	XF-9 ハルレッド	アクリルミニ
+TAMIYA	アクリル	#3e2a09	XF-10 フラットブラウン	アクリルミニ
+TAMIYA	アクリル	#27330b	XF-11 暗緑色	アクリルミニ
+TAMIYA	アクリル	#b1caad	XF-12 明灰白色	アクリルミニ
+TAMIYA	アクリル	#334a1e	XF-13 濃緑色	アクリルミニ
+TAMIYA	アクリル	#b2ca8e	XF-14 明灰緑色	アクリルミニ
+TAMIYA	アクリル	#fdcd9f	XF-15 フラットフレッシュ	アクリルミニ
+TAMIYA	アクリル	#cdcdcd	XF-16 フラットアルミ	アクリルミニ
+TAMIYA	アクリル	#2e3b43	XF-17 シーブルー	アクリルミニ
+TAMIYA	アクリル	#475a60	XF-18 ミディアムブルー	アクリルミニ
+TAMIYA	アクリル	#abb8c0	XF-19 スカイグレイ	アクリルミニ
+TAMIYA	アクリル	#a3aa98	XF-20 ミディアムグレイ	アクリルミニ
+TAMIYA	アクリル	#b7bd77	XF-21 スカイ	アクリルミニ
+TAMIYA	アクリル	#7b8d7d	XF-22 RLM グレイ	アクリルミニ
+TAMIYA	アクリル	#90b5ad	XF-23 ライトブルー	アクリルミニ
+TAMIYA	アクリル	#3d4246	XF-24 ダークグレイ	アクリルミニ
+TAMIYA	アクリル	#7a8ba9	XF-25 ライトシーグレイ	アクリルミニ
+TAMIYA	アクリル	#004731	XF-26 ディープグリーン	アクリルミニ
+TAMIYA	アクリル	#032610	XF-27 ブラックグリーン	アクリルミニ
+TAMIYA	アクリル	#9a603b	XF-28 ダークコッパー	アクリルミニ
+TAMIYA	アクリル	#7e7740	XF-49 カーキ	アクリルミニ
+TAMIYA	アクリル	#374047	XF-50 フィールドブルー	アクリルミニ
+TAMIYA	アクリル	#293310	XF-51 カーキドラブ	アクリルミニ
+TAMIYA	アクリル	#734933	XF-52 フラットアース	アクリルミニ
+TAMIYA	アクリル	#6c7a7b	XF-53 ニュートラルグレイ	アクリルミニ
+TAMIYA	アクリル	#5b5f62	XF-54 ダークシーグレイ	アクリルミニ
+TAMIYA	アクリル	#b5b184	XF-55 デッキタン	アクリルミニ
+TAMIYA	アクリル	#5d6265	XF-56 メタリックグレイ	アクリルミニ
+TAMIYA	アクリル	#b7b36a	XF-57 バフ	アクリルミニ
+TAMIYA	アクリル	#1c3c13	XF-58 オリーブグリーン	アクリルミニ
+TAMIYA	アクリル	#d79c42	XF-59 デザートイエロー	アクリルミニ
+TAMIYA	アクリル	#c7b141	XF-60 ダークイエロー	アクリルミニ
+TAMIYA	アクリル	#1b2e12	XF-61 ダークグリーン	アクリルミニ
+TAMIYA	アクリル	#3e4b13	XF-62 オリーブドラブ	アクリルミニ
+TAMIYA	アクリル	#3d4749	XF-63 ジャーマングレイ	アクリルミニ
+TAMIYA	アクリル	#673709	XF-64 レッドブラウン	アクリルミニ
+TAMIYA	アクリル	#67856b	XF-65 フィールドグレイ	アクリルミニ
+TAMIYA	アクリル	#66757a	XF-66 ライトグレイ	アクリルミニ
+TAMIYA	アクリル	#345f18	XF-67 NATOグリーン	アクリルミニ
+TAMIYA	アクリル	#743106	XF-68 NATOブラウン	アクリルミニ
+TAMIYA	アクリル	#202423	XF-69 NATOブラック	アクリルミニ
+TAMIYA	アクリル	#032610	XF-70 暗緑色2	アクリルミニ
+TAMIYA	アクリル	#74925e	XF-71 コックピット色 （日本海軍）	アクリルミニ
+TAMIYA	アクリル	#724c0b	XF-72 茶色 （陸上自衛隊）	アクリルミニ
+TAMIYA	アクリル	#1c4316	XF-73 濃緑色 （陸上自衛隊）	アクリルミニ
+TAMIYA	アクリル	#334012	XF-74 OD色（陸上自衛隊）	アクリルミニ
+TAMIYA	アクリル	#838e94	XF-75 呉海軍工廠グレイ（日本海軍）	アクリルミニ
+TAMIYA	アクリル	#b9c3a8	XF-76 灰緑色（日本海軍）	アクリルミニ
+TAMIYA	アクリル	#686d71	XF-77 佐世保海軍工廠グレイ(日本海軍)	アクリルミニ
+TAMIYA	アクリル	#d2b686	XF-78 木甲板色	アクリルミニ
+TAMIYA	アクリル	#784729	XF-79 リノリウム甲板色	アクリルミニ
+TAMIYA	アクリル	#c1cac9	XF-80 ロイヤルライトグレイ	アクリルミニ
+TAMIYA	アクリル	#355533	XF-81 ダークグリーン2 （イギリス空軍）	アクリルミニ
+TAMIYA	アクリル	#6c8c99	XF-82 オーシャングレイ2 （イギリス空軍）	アクリルミニ
+TAMIYA	アクリル	#aabeb9	XF-83 ミディアムシーグレイ2 （イギリス空軍）	アクリルミニ
+TAMIYA	アクリル	#4f3732	XF-84 ダークアイアン （履帯色）	アクリルミニ
+TAMIYA	アクリル	#221815	XF-85 ラバーブラック	アクリルミニ
+TAMIYA	アクリル	#ffffff	XF-86 フラットクリヤー	アクリルミニ
+TAMIYA	アクリル	#7d8085	XF-87 舞鶴海軍工廠グレイ (日本海軍)	アクリルミニ
+TAMIYA	アクリル	#c1af4d	XF-88 ダークイエロー2（ドイツ陸軍）	アクリルミニ
+TAMIYA	アクリル	#5c8462	XF-89 ダークグリーン2(ドイツ陸軍)	アクリルミニ
+TAMIYA	アクリル	#4f3832	XF-90 レッドブラウン2（ドイツ陸軍）	アクリルミニ
+TAMIYA	ラッカー	#040000	LP-1 ブラック	ラッカー塗料
+TAMIYA	ラッカー	#ffffff	LP-2 ホワイト	ラッカー塗料
+TAMIYA	ラッカー	#040000	LP-3 フラットブラック	ラッカー塗料
+TAMIYA	ラッカー	#ffffff	LP-4 フラットホワイト	ラッカー塗料
+TAMIYA	ラッカー	#040000	LP-5 セミグロスブラック	ラッカー塗料
+TAMIYA	ラッカー	#005bac	LP-6 ピュアブルー	ラッカー塗料
+TAMIYA	ラッカー	#e40011	LP-7 ピュアレッド	ラッカー塗料
+TAMIYA	ラッカー	#fff001	LP-8 ピュアイエロー	ラッカー塗料
+TAMIYA	ラッカー	#ffffff	LP-9 クリヤー	ラッカー塗料
+TAMIYA	ラッカー	#ffffff	LP-10 ラッカー溶剤 （10ml）	ラッカー塗料
+TAMIYA	ラッカー	#dfdfdf	LP-11 シルバー	ラッカー塗料
+TAMIYA	ラッカー	#717b85	LP-12 呉海軍工廠グレイ (日本海軍)	ラッカー塗料
+TAMIYA	ラッカー	#52565f	LP-13 佐世保海軍工廠グレイ (日本海軍)	ラッカー塗料
+TAMIYA	ラッカー	#7d8087	LP-14 舞鶴海軍工廠グレイ (日本海軍)	ラッカー塗料
+TAMIYA	ラッカー	#636a74	LP-15 横須賀海軍工廠グレイ (日本海軍)	ラッカー塗料
+TAMIYA	ラッカー	#b8a27f	LP-16 木甲板色	ラッカー塗料
+TAMIYA	ラッカー	#674a2e	LP-17 リノリウム甲板色	ラッカー塗料
+TAMIYA	ラッカー	#8f442d	LP-18 ダルレッド	ラッカー塗料
+TAMIYA	ラッカー	#565656	LP-19 ガンメタル	ラッカー塗料
+TAMIYA	ラッカー	#878888	LP-20 ライトガンメタル	ラッカー塗料
+TAMIYA	ラッカー	#e4322c	LP-21 イタリアンレッド	ラッカー塗料
+TAMIYA	ラッカー	#fffffe	LP-22 フラットベース	ラッカー塗料
+TAMIYA	ラッカー	#fffffe	LP-23 フラットクリヤー	ラッカー塗料
+TAMIYA	ラッカー	#fffffe	LP-24 セミグロスクリヤー	ラッカー塗料
+TAMIYA	ラッカー	#7f5b30	LP-25 茶色(陸上自衛隊)	ラッカー塗料
+TAMIYA	ラッカー	#445c32	LP-26 濃緑色(陸上自衛隊)	ラッカー塗料
+TAMIYA	ラッカー	#4e646b	LP-27 ジャーマングレイ	ラッカー塗料
+TAMIYA	ラッカー	#585736	LP-28 オリーブドラブ	ラッカー塗料
+TAMIYA	ラッカー	#525931	LP-29 オリーブドラブ2	ラッカー塗料
+TAMIYA	ラッカー	#e0aa75	LP-30 ライトサンド	ラッカー塗料
 GSIクレオス	Mrカラー	#FFFFFF	C1 ホワイト（白）	光沢 基本色
 GSIクレオス	Mrカラー	#231815	C2 ブラック（黒）	光沢 基本色
 GSIクレオス	Mrカラー	#E60012	C3 レッド（赤）	光沢 基本色

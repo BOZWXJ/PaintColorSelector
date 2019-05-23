@@ -55,12 +55,10 @@
         <!--  0 Menu  -->
         <Menu>
             <MenuItem Header="File">
-                <MenuItem Header="Exit" />
+                <MenuItem Click="Close_Click" Header="Exit" />
             </MenuItem>
-            <MenuItem Header="Debug">
-                <MenuItem Header="Test1" />
-                <MenuItem Header="Test2" />
-                <MenuItem Header="Test3" />
+            <MenuItem Header="Help">
+                <MenuItem Click="About_Click" Header="About..." />
             </MenuItem>
         </Menu>
 
@@ -102,12 +100,21 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="5" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="5" />
                 <ColumnDefinition />
             </Grid.ColumnDefinitions>
 
             <TextBlock VerticalAlignment="Center" Text="Filter" />
+            <CheckBox Grid.Column="2" VerticalAlignment="Center" Content="All" IsChecked="{Binding AllCheckBox, Mode=OneWay}" IsThreeState="True">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="Click">
+                        <l:LivetCallMethodAction MethodName="AllCheckBox_Click" MethodTarget="{Binding}" />
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </CheckBox>
             <ListBox x:Name="SeriesListBox"
-                     Grid.Column="2"
+                     Grid.Column="4"
                      Width="Auto"
                      ItemsSource="{Binding SeriesList}"
                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
@@ -153,9 +160,14 @@
                   AutoGenerateColumns="False"
                   IsReadOnly="True"
                   ItemsSource="{Binding Mode=OneWay, Source={StaticResource PaintListViewSource}}"
-                  MouseDoubleClick="PaintListDataGrid_MouseDoubleClick"
+                  MouseDoubleClick="SelectFindPaint"
                   SelectedItem="{Binding SelectedPaint.Value}"
                   SelectionMode="Single">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Click="SelectFindPaint" Header="選択" />
+                </ContextMenu>
+            </DataGrid.ContextMenu>
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Code">
                     <DataGridTextColumn.ElementStyle>

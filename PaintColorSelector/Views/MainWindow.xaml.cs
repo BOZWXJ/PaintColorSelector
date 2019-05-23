@@ -34,12 +34,22 @@ namespace PaintColorSelector.Views
 			InitializeComponent();
 
 			viewSource = (CollectionViewSource)Resources["PaintListViewSource"];
-			viewSource.View.Filter = new Predicate<object>(ViewModel.Contains);
+			viewSource.View.Filter = ViewModel.Contains;
 		}
 
 		CollectionViewSource viewSource;
 
-		private void PaintListDataGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+		private void Close_Click(object sender, RoutedEventArgs e)
+		{
+			Close();
+		}
+
+		private void About_Click(object sender, RoutedEventArgs e)
+		{
+			new AboutBox() { Owner = this }.ShowDialog();
+		}
+
+		private void SelectFindPaint(object sender, RoutedEventArgs e)
 		{
 			// VM にイベント送信 検索カラー設定 ΔE 計算
 			ViewModel.FindPaintChange();
@@ -47,7 +57,7 @@ namespace PaintColorSelector.Views
 			// DataGrid ΔE 列でソート
 			viewSource.SortDescriptions.Clear();
 			viewSource.SortDescriptions.Add(new System.ComponentModel.SortDescription() { PropertyName = "DeltaE", Direction = System.ComponentModel.ListSortDirection.Ascending });
-			viewSource.View.Filter = new Predicate<object>(ViewModel.Contains);
+			viewSource.View.Filter = ViewModel.Contains;
 
 			// DataGrid 先頭行にスクロール
 			PaintListDataGrid.ScrollIntoView(viewSource.View.CurrentItem);
@@ -55,7 +65,12 @@ namespace PaintColorSelector.Views
 
 		private void SeriesListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
+			// VM にイベント送信 AllCheckBox 状態更新
+			ViewModel.CheckBox_Click();
+
+			// DataGrid 表示更新
 			viewSource.View.Refresh();
 		}
+
 	}
 }

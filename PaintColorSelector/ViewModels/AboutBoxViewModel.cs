@@ -29,12 +29,8 @@ namespace PaintColorSelector.ViewModels
 		{
 			get
 			{
-				string title;
 				var titleAttribute = Assembly.GetExecutingAssembly().GetCustomAttributes(typeof(AssemblyTitleAttribute), false).FirstOrDefault() as AssemblyTitleAttribute;
-				title = titleAttribute?.Title;
-				if (string.IsNullOrEmpty(title)) {
-					title = Path.GetFileNameWithoutExtension(Assembly.GetExecutingAssembly().CodeBase);
-				}
+				string title = titleAttribute?.Title ?? Path.GetFileNameWithoutExtension(Assembly.GetExecutingAssembly().CodeBase);
 				return $"{title} のバージョン情報";
 			}
 		}

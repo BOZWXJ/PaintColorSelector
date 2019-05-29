@@ -1,7 +1,10 @@
-﻿using PaintColorSelector.Models;
+﻿using Livet;
+using Livet.Commands;
+using PaintColorSelector.Models;
 using PaintColorSelector.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Windows;
@@ -34,12 +37,10 @@ namespace PaintColorSelector.Views
 			InitializeComponent();
 
 			viewSource = (CollectionViewSource)Resources["PaintListViewSource"];
-			viewSource.View.Filter = ViewModel.Contains;
+			viewSource.View.Filter = ViewModel.SeriesListIsSelected;
 		}
 
-		CollectionViewSource viewSource;
-
-		private void Close_Click(object sender, RoutedEventArgs e)
+		private void Close_Executed(object sender, ExecutedRoutedEventArgs e)
 		{
 			Close();
 		}
@@ -49,20 +50,30 @@ namespace PaintColorSelector.Views
 			new AboutBox() { Owner = this }.ShowDialog();
 		}
 
+		private readonly CollectionViewSource viewSource;
+
+		// 基準カラー設定
 		private void SelectFindPaint(object sender, RoutedEventArgs e)
 		{
-			// VM にイベント送信 検索カラー設定 ΔE 計算
+			// VM にイベント送信 基準カラー設定 ΔE 計算
 			ViewModel.FindPaintChange();
 
 			// DataGrid ΔE 列でソート
 			viewSource.SortDescriptions.Clear();
-			viewSource.SortDescriptions.Add(new System.ComponentModel.SortDescription() { PropertyName = "DeltaE", Direction = System.ComponentModel.ListSortDirection.Ascending });
-			viewSource.View.Filter = ViewModel.Contains;
+			viewSource.SortDescriptions.Add(new SortDescription() { PropertyName = "DeltaE", Direction = ListSortDirection.Ascending });
+			viewSource.View.Filter = ViewModel.SeriesListIsSelected;
+
+			// 
+			ColorCode_DataGridTextColumn.SortDirection = null;
+			ColorName_DataGridTextColumn.SortDirection = null;
+			Note_DataGridTextColumn.SortDirection = null;
+			DeltaE_DataGridTextColumn.SortDirection = ListSortDirection.Ascending;
 
 			// DataGrid 先頭行にスクロール
 			PaintListDataGrid.ScrollIntoView(viewSource.View.CurrentItem);
 		}
 
+		// フィルター処理
 		private void SeriesListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
 			// VM にイベント送信 AllCheckBox 状態更新
@@ -70,6 +81,59 @@ namespace PaintColorSelector.Views
 
 			// DataGrid 表示更新
 			viewSource.View.Refresh();
+		}
+
+		// 文字列検索
+		private void FindTextBox_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.Key == Key.Enter) {
+				SearchPaintListDataGrid(FindTextBox.Text);
+			}
+		}
+
+		private void FindButton_Click(object sender, RoutedEventArgs e)
+		{
+			SearchPaintListDataGrid(FindTextBox.Text);
+		}
+
+		private void SearchPaintListDataGrid(string str)
+		{
+			bool f = false;
+			object findObj = null;
+			foreach (var obj in viewSource.View) {
+				// 選択行まで進める
+				if (obj == viewSource.View.CurrentItem) {
+					f = true;
+					continue;
+				}
+				// 検索する
+				if (f && ViewModel.FindStringIsContains(obj, str)) {
+					findObj = obj;
+					break;
+				}
+			}
+			// 最後まで該当無ければ先頭から検索する
+			if (findObj == null) {
+				foreach (var obj in viewSource.View) {
+					// 検索する
+					if (ViewModel.FindStringIsContains(obj, str)) {
+						findObj = obj;
+						break;
+					}
+					// 選択行まで進んだら終了
+					if (obj == viewSource.View.CurrentItem) {
+						break;
+					}
+				}
+			}
+			if (findObj != null) {
+				viewSource.View.MoveCurrentTo(findObj);
+			} else {
+				// todo: ステータスバーに表示
+				System.Diagnostics.Debug.WriteLine("検索結果無し");
+			}
+			// スクロール
+			PaintListDataGrid.ScrollIntoView(viewSource.View.CurrentItem);
 		}
 
 	}

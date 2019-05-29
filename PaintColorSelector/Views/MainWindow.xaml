@@ -6,6 +6,7 @@
         xmlns:l="http://schemas.livet-mvvm.net/2011/wpf"
         xmlns:v="clr-namespace:PaintColorSelector.Views"
         xmlns:vm="clr-namespace:PaintColorSelector.ViewModels"
+        x:Name="window"
         Title="PaintColorSelector"
         Width="800"
         Height="480">
@@ -22,6 +23,10 @@
             <CollectionViewSource x:Key="PaintListViewSource" Source="{Binding PaintList}" />
         </ResourceDictionary>
     </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding Command="Close" Executed="Close_Executed" />
+    </Window.CommandBindings>
 
     <i:Interaction.Triggers>
 
@@ -48,6 +53,7 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
             <RowDefinition />
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
@@ -55,7 +61,7 @@
         <!--  0 Menu  -->
         <Menu>
             <MenuItem Header="File">
-                <MenuItem Click="Close_Click" Header="Exit" />
+                <MenuItem Command="Close" Header="Exit" />
             </MenuItem>
             <MenuItem Header="Help">
                 <MenuItem Click="About_Click" Header="About..." />
@@ -95,8 +101,26 @@
             <TextBlock Grid.Row="3" Grid.Column="2" Text="{Binding SelectedPaint.Value.Note}" />
         </Grid>
 
-        <!--  2 Filter  -->
+        <!--  2 Find  -->
         <Grid Grid.Row="2" Margin="5,0,5,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock VerticalAlignment="Center" Text="Find" />
+            <TextBox x:Name="FindTextBox" Grid.Column="1" Margin="5,0,0,0" KeyDown="FindTextBox_KeyDown" />
+            <Button x:Name="FindButton"
+                    Grid.Column="2"
+                    Width="75"
+                    Margin="5,0,0,0"
+                    Click="FindButton_Click"
+                    Content="Find" />
+        </Grid>
+
+        <!--  3 Filter  -->
+        <Grid Grid.Row="3" Margin="5,0,5,5">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="5" />
@@ -153,9 +177,9 @@
             </ListBox>
         </Grid>
 
-        <!--  3 DataGrid  -->
+        <!--  4 DataGrid  -->
         <DataGrid x:Name="PaintListDataGrid"
-                  Grid.Row="3"
+                  Grid.Row="4"
                   Margin="5,0,5,5"
                   AutoGenerateColumns="False"
                   IsReadOnly="True"
@@ -169,7 +193,7 @@
                 </ContextMenu>
             </DataGrid.ContextMenu>
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Code">
+                <DataGridTextColumn x:Name="ColorCode_DataGridTextColumn" Header="Code">
                     <DataGridTextColumn.ElementStyle>
                         <Style TargetType="{x:Type TextBlock}">
                             <Setter Property="Background">
@@ -182,9 +206,9 @@
                         </Style>
                     </DataGridTextColumn.ElementStyle>
                 </DataGridTextColumn>
-                <DataGridTextColumn Width="2*" Binding="{Binding ColorName}" Header="Name" />
-                <DataGridTextColumn Width="*" Binding="{Binding Note}" Header="Note" />
-                <DataGridTextColumn Binding="{Binding DeltaE, StringFormat=f2}" Header="ΔE">
+                <DataGridTextColumn x:Name="ColorName_DataGridTextColumn" Width="2*" Binding="{Binding ColorName}" Header="Name" />
+                <DataGridTextColumn x:Name="Note_DataGridTextColumn" Width="*" Binding="{Binding Note}" Header="Note" />
+                <DataGridTextColumn x:Name="DeltaE_DataGridTextColumn" Binding="{Binding DeltaE, StringFormat=f2}" Header="ΔE">
                     <DataGridTextColumn.ElementStyle>
                         <Style TargetType="{x:Type TextBlock}">
                             <Setter Property="Margin" Value="2,0" />
@@ -195,10 +219,9 @@
             </DataGrid.Columns>
         </DataGrid>
 
-        <!--  4 StatusBar  -->
-        <StatusBar Grid.Row="4">
-            <StatusBarItem Content="{Binding Clock}" />
-            <StatusBarItem Content="" />
+        <!--  5 StatusBar  -->
+        <StatusBar Grid.Row="5">
+            <StatusBarItem x:Name="StatusBarItem" Content="" />
         </StatusBar>
 
     </Grid>

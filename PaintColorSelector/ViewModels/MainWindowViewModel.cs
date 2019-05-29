@@ -17,6 +17,7 @@ using System.Threading;
 using System.Collections.ObjectModel;
 using Reactive.Bindings;
 using Reactive.Bindings.Extensions;
+using System.Text.RegularExpressions;
 
 namespace PaintColorSelector.ViewModels
 {
@@ -71,12 +72,10 @@ namespace PaintColorSelector.ViewModels
 		{
 			model = Models.AppContext.Instance;
 
-			PaintList = model.PaintList.Paints
-				.ToReadOnlyReactiveCollection()
+			PaintList = model.PaintList.Paints.ToReadOnlyReactiveCollection()
 				.AddTo(CompositeDisposable);
 
-			SeriesList = model.PaintList.PaintFilter.SeriesList
-				.ToReadOnlyReactiveCollection(p => new CheckedListBoxItem() { Text=p })
+			SeriesList = model.PaintList.PaintFilter.SeriesList.ToReadOnlyReactiveCollection(p => new CheckedListBoxItem() { Text = p })
 				.AddTo(CompositeDisposable);
 
 			SelectedPaint = new ReactiveProperty<Paint>(new Paint())
@@ -88,13 +87,6 @@ namespace PaintColorSelector.ViewModels
 
 		public void Initialize()
 		{
-			// 
-			Task.Run(() => {
-				while (true) {
-					Clock = DateTime.Now.ToString();
-					Thread.Sleep(1000 - DateTime.Now.Millisecond);
-				}
-			});
 		}
 
 		/// <summary>
@@ -110,12 +102,12 @@ namespace PaintColorSelector.ViewModels
 		public ReactiveProperty<Paint> SelectedPaint { get; private set; }
 
 		/// <summary>
-		/// 検索カラー
+		/// 基準カラー
 		/// </summary>
 		public ReactiveProperty<Paint> FindPaint { get; private set; }
 
 		/// <summary>
-		/// 検索カラー設定
+		/// 基準カラー設定
 		/// </summary>
 		public void FindPaintChange()
 		{
@@ -128,7 +120,7 @@ namespace PaintColorSelector.ViewModels
 		#region フィルター処理
 
 		/// <summary>
-		/// 全選択
+		/// 全選択 CheckBox
 		/// </summary>
 		public bool? AllCheckBox
 		{
@@ -142,7 +134,7 @@ namespace PaintColorSelector.ViewModels
 		/// </summary>
 		public ReadOnlyReactiveCollection<CheckedListBoxItem> SeriesList { get; private set; }
 
-		public bool Contains(object obj)
+		public bool SeriesListIsSelected(object obj)
 		{
 			Paint paint = obj as Paint;
 			return SeriesList.First(p => p.Text == paint.Series).IsSelected;
@@ -150,7 +142,6 @@ namespace PaintColorSelector.ViewModels
 
 		public void AllCheckBox_Click()
 		{
-			System.Diagnostics.Debug.WriteLine("AllCheckBox_Click()");
 			bool f;
 			if (AllCheckBox != null) {
 				f = !(bool)AllCheckBox;
@@ -164,7 +155,6 @@ namespace PaintColorSelector.ViewModels
 
 		public void CheckBox_Click()
 		{
-			System.Diagnostics.Debug.WriteLine("CheckBox_Click()");
 			if (SeriesList.All(p => p.IsSelected)) {
 				AllCheckBox = true;
 			} else if (SeriesList.All(p => !p.IsSelected)) {
@@ -176,13 +166,15 @@ namespace PaintColorSelector.ViewModels
 
 		#endregion
 
-		// debug: Clock
-		public string Clock
+		#region 文字列検索処理
+
+		public bool FindStringIsContains(object obj, string str)
 		{
-			get => _Clock;
-			private set => RaisePropertyChangedIfSet(ref _Clock, value);
+			Paint paint = obj as Paint;
+			return Regex.IsMatch(paint.ColorName, str, RegexOptions.IgnoreCase) || Regex.IsMatch(paint.Note, str, RegexOptions.IgnoreCase);
 		}
-		private string _Clock;
+
+		#endregion
 
 	}
 }
